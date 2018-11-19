@@ -1,0 +1,13 @@
+﻿id,description,value
+1,acousticness,0.18645
+2,danceability,0.13895
+3,duration_ms,0.109225
+4,energy,0.103662
+5,instrumentalness,0.101786
+6,key,0.069612
+7,liveness,0.067485
+8,loudness,0.060709
+9,mode,0.053132
+10,speechiness,0.048724
+11,tempo,0.043043
+12,valence,0.017224
