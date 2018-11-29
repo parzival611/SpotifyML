@@ -1,4 +1,15 @@
 <!doctype html>
+
+<!-- NOTES:
+Focus on Flask routes first
+Shrink each .audio column by 50%
+Bootstrap Pagination 
+define search db
+-->
+
+
+
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -10,14 +21,21 @@
     <!-- font awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-
-    <title>Spotify</title>
+	<!-- Music Player -->
+	<link href='https://fonts.googleapis.com/css?family=Allerta' rel='stylesheet'>
+	
+	
+    <title>DANCIFY</title>
   </head>
   <style type="text/css">
+  
+	
     html,body {
+	  font-family: Verdana;
       background-color: black;
       color: #dadce1;
       height: 100%;
+	  margin: 0;
     }
     .nav li a,
     .nav li a:focus,
@@ -26,18 +44,44 @@
       background: transparent;
       color: inherit;
     }
-    
+	
 
     .side-nav {
+	   border-radius: 0px 0px 40px 0px;
+	
+	   animation: colorchange 50ms; /* animation-name followed by duration in seconds*/
+         /* you could also use milliseconds (ms) or something like 2.5s */
+      -webkit-animation: colorchange 50s; /* Chrome and Safari */
+    }
+
+    @keyframes colorchange
+    {
+      0%   {background: #0F2027;}
+      25%  {background: #1a2a6c;}
+      50%  {background: #b21f1f;}
+      75%  {background: #E8B121;}
+      100% {background: #446E06;}
+    }
+
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+      0%   {background: red;}
+      25%  {background: yellow;}
+      50%  {background: blue;}
+      75%  {background: green;}
+      100% {background: red;}
       background: #1c1c1f;
       color: #88898c;
-      
-    }
+	}
+	  
+
     .side-nav .navbar {
       margin-bottom: 0;
+	  
     }
     .side-nav li {
-      font-size: 25px;
+      font-size: 20px;
+	  
     }
     .side-nav li a {
       /*border-left: 3px solid transparent;*/
@@ -72,22 +116,28 @@
     }
 
     .brand-icon{
+	  padding-top: 0px;
       padding-bottom: 55px;
     }
     .side-nav .brand-icon .fab {
-      font-size: 50px;
+      font-size: 40px;
       color: #dadce1;
       float:left;
 
     }
 
     .side-nav .space{
-      height: 400px;
+      height: 500px;
     }
+
 
 
     .green-back{
       background: linear-gradient(0deg, black, #098487);
+      background-repeat: no-repeat center center fixed;
+	  background-image: url("Images/invisibledisco.gif");
+      background-attachment: fixed;
+
     }
 
     .top-nav {
@@ -126,6 +176,285 @@
       display:inline-block;
       width: 90%;
     }
+	
+	#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
+
+/* Start  styling the page */
+.container-audio {
+    width: 66%;
+    height: auto;
+    padding: 11px;
+    border-radius: 5px;
+    background-color: #eee;
+    color: #444;
+    margin: 20px auto;
+    overflow: hidden;
+}
+audio {
+  width:100%;
+}
+audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
+    margin: 0;
+}
+.container-audio .colum1 {
+    width: 23px;
+    height: 5em;
+    border-radius: 5px;
+    margin: 0 10px 0 0;
+    display: inline-block;
+    position: relative;
+}
+.container-audio .colum1:last-child {
+    margin: 0;
+}
+.container-audio .colum1 .row {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background: linear-gradient(to up, #7700aa, #8800ff);
+    position: absolute;
+    -webkit-animation: Rofa 10s infinite ease-in-out;
+    animation: Rofa 10s infinite ease-in-out;
+    bottom: 0;
+}
+.container-audio .colum1:nth-of-type(1) .row {
+    -webkit-animation-delay: 3.99s;
+    animation-delay: 3.99s;
+}
+.container-audio .colum1:nth-of-type(2) .row {
+    -webkit-animation-delay: 3.80s;
+    animation-delay: 3.80s;
+}
+.container-audio .colum1:nth-of-type(3) .row {
+    -webkit-animation-delay: 3.70s;
+    animation-delay: 3.70s;
+}
+.container-audio .colum1:nth-of-type(4) .row {
+    -webkit-animation-delay: 3.60s;
+    animation-delay: 3.60s;
+}
+.container-audio .colum1:nth-of-type(5) .row {
+    -webkit-animation-delay: 3.50s;
+    animation-delay: 3.50s;
+}
+.container-audio .colum1:nth-of-type(6) .row {
+    -webkit-animation-delay: 3.40s;
+    animation-delay: 3.40s;
+}
+.container-audio .colum1:nth-of-type(7) .row {
+    -webkit-animation-delay: 3.30s;
+    animation-delay: 3.30s;
+}
+.container-audio .colum1:nth-of-type(8) .row {
+    -webkit-animation-delay: 3.20s;
+    animation-delay: 3.20s;
+}
+.container-audio .colum1:nth-of-type(9) .row {
+    -webkit-animation-delay: 3.10s;
+    animation-delay: 3.10s;
+}
+.container-audio .colum1:nth-of-type(10) .row {
+    -webkit-animation-delay: 2.1s;
+    animation-delay: 2.1s;
+}
+.container-audio .colum1:nth-of-type(11) .row {
+    -webkit-animation-delay: 2.1s;
+    animation-delay: 2.1s;
+}
+.container-audio .colum1:nth-of-type(12) .row {
+    -webkit-animation-delay: 2.10s;
+    animation-delay: 2.10s;
+}
+.container-audio .colum1:nth-of-type(13) .row {
+    -webkit-animation-delay: 2.20s;
+    animation-delay: 2.20s;
+}
+.container-audio .colum1:nth-of-type(14) .row {
+    -webkit-animation-delay: 1.30s;
+    animation-delay: 1.30s;
+}
+.container-audio .colum1:nth-of-type(15) .row {
+    -webkit-animation-delay: 1.40s;
+    animation-delay: 1.40s;
+}
+.container-audio .colum1:nth-of-type(16) .row {
+    -webkit-animation-delay: 1.50s;
+    animation-delay: 1.50s;
+}
+.container-audio .colum1:nth-of-type(17) .row {
+    -webkit-animation-delay: 1.60s;
+    animation-delay: 1.60s;
+}
+.container-audio .colum1:nth-of-type(18) .row {
+    -webkit-animation-delay: 1.70s;
+    animation-delay: 1.70s;
+}
+.container-audio .colum1:nth-of-type(19) .row {
+    -webkit-animation-delay: 1.80s;
+    animation-delay: 1.80s;
+}
+.container-audio .colum1:nth-of-type(20) .row {
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+}
+
+@-webkit-keyframes Rofa {
+    0% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+        background-color: yellow;
+    }
+
+    5% {
+        height: 100%;
+        -webkit-transform: translatey(15px);
+        transform: translatey(15px);
+        background-color: fuchsia;
+    }
+    10% {
+        height: 90%;
+        transform: translatey(0);
+        -webkit-transform: translatey(0);
+        background-color: bisque;
+    }
+
+    15% {
+        height: 80%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    20% {
+        height: 70%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+        background-color: cornflowerblue;
+    }
+    25% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+        background-color: cornflowerblue;
+    }
+    30% {
+        height: 70%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+        background-color: cornflowerblue;
+    }
+    35% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    40% {
+        height: 60%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    45% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    50% {
+        height: 50%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    55% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    60% {
+        height: 40%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    65% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    70% {
+        height: 30%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    75% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    80% {
+        height: 20%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    85% {
+        height: 0%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    90% {
+        height: 10%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    95% {
+        height: 5%;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+    100% {
+        height: 0;
+        -webkit-transform: translatey(0);
+        transform: translatey(0);
+
+        background-color: cornflowerblue;
+    }
+}
+
+	
   </style>
   <body>
 <div class="container-fluid">
@@ -133,15 +462,14 @@
     <section class="col-xs-2 side-nav clean-paddings">
       <nav class="navbar">
          <ul class="nav">
-           <li class="brand-icon"><a href="#"><span class="fab fa-spotify"></span>&nbsp;&nbsp;Spotify</a></li>
+           <li class="brand-icon"><a href="#"><span class="fab fa-spotify"></span>&nbsp;&nbsp;Dancify</a></li>
            <li><a href="#"><span class="fa fa-search"></span>&nbsp;&nbsp;Search</a></li>
            <li class="active"><a href="#"><span class="fa fa-home"></span>&nbsp;&nbsp;Home</a></li>           
            <li><a href="#"><span class="fa fa-bars fa-rotate-90"></span>&nbsp;&nbsp;Your Library</a></li>
            <div class="space"></div>
-           <li style="margin-bottom: -19px"><a href="#"><span class="fa fa-arrow-alt-circle-down"></span>&nbsp;&nbsp;Install App</a></li>
+           <li style="margin-bottom: -19px"><a href="#"><span class="fa fa-arrow-alt-circle-down"></span>&nbsp;&nbsp;Add New Playlist</a></li>
            <hr>
            <li ><a href="#"><span class="fa fa-user"></span>&nbsp;&nbsp;Steven Jung</a></li>
-          
 
         </ul>
       </nav>
@@ -149,6 +477,7 @@
     <section class="col-xs-10 clean-paddings green-back">
       <nav>
         <div class="top-nav container-fluid">
+		
           <ul class="nav navbar-nav">
             <li class="active" style="padding-left: 80px"><a href="#">Featured</a></li>
             <li ><a href="#">podcasts</a></li>
@@ -160,7 +489,7 @@
         </div>
       </nav>
       <div class="container-fluid">
-        <h1>Made for Steven</h1>
+        <h1><strong>Made for Steven</strong></h1>
         <div class="row">
           <div class="col-sm-2 col-md-2">           
             <img src="Images/spot.jpg" alt="...">
@@ -171,7 +500,7 @@
             <h5>test</h5>           
           </div>
         </div>
-        <h1>80's Rock Hits</h1><span>VIEW MORE</span>
+        <h1><strong> 80's Rock Hits </strong></h1><span>VIEW MORE</span>
         </div>
         <div class="row">
           <div class="col-sm-2 col-md-2">           
@@ -196,11 +525,103 @@
           </div>
           <div class="col-sm-2 col-md-2">           
             <img src="Images/spot.jpg" alt="...">
-            <h5>test</h5>           
+            <h5>test</h5>    
+			
+		  <br>
+		  <br>
+		  
           </div>
+		  
+		  
+		  <div class="container-audio">
+		  
+        <audio controls  loop autoplay>
+                   <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/9473/new_year_dubstep_minimix.ogg" type="audio/ogg">
+                   Your browser dose not Support the audio Tag
+               </audio>
+		  </div>
+		<div class="container-audio">
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+    </div>
+	
         </div>
       </div>
     </section>
+	
+	
+	
+
+	
+	
+	
   </div>
 </div>
 
@@ -211,4 +632,5 @@
     <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   </body>
+  
 </html>
