@@ -1,0 +1,51 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Gin And Juice (feat. Dat Nigga Daz),0WKYRFtH6KKbaNWjsxqm70,0.0285,0.549,211493,0.853,0.000296,7,0.618,-4.293,1,0.188,94.695,0.346,https://api.spotify.com/v1/tracks/0WKYRFtH6KKbaNWjsxqm70
+It Was A Good Day,2qOm7ukLyHUXWyR4ZWLwxA,0.321,0.796,260000,0.748,4.94e-05,5,0.217,-5.409,0,0.126,82.384,0.802,https://api.spotify.com/v1/tracks/2qOm7ukLyHUXWyR4ZWLwxA
+I Get Around,4voEoczU7Ijborps9XF1n3,0.157,0.849,259000,0.422,1.19e-05,10,0.255,-13.95,0,0.122,96.216,0.624,https://api.spotify.com/v1/tracks/4voEoczU7Ijborps9XF1n3
+Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,0.0297,0.897,208267,0.612,0.186,11,0.0894,-10.489,1,0.211,102.305,0.767,https://api.spotify.com/v1/tracks/1oTHteQbmJw15rPxPVXUTv
+Protect Ya Neck - Bloody Version,4UjutEuOkxFwPYTwsJ6E3k,0.0111,0.835,303067,0.604,1.72e-05,8,0.379,-7.96,0,0.244,102.058,0.724,https://api.spotify.com/v1/tracks/4UjutEuOkxFwPYTwsJ6E3k
+Party And Bulls**t,6jCGzZn0gFeRlbqdaJhw6T,0.193,0.433,217000,0.862,0.0,1,0.604,-3.89,0,0.412,200.817,0.722,https://api.spotify.com/v1/tracks/6jCGzZn0gFeRlbqdaJhw6T
+93 'Til Infinity,0PV1TFUMTBrDETzW6KQulB,0.125,0.59,286440,0.672,1.04e-06,1,0.147,-11.792,1,0.412,206.247,0.688,https://api.spotify.com/v1/tracks/0PV1TFUMTBrDETzW6KQulB
+Electric Relaxation,0eEXcw3JLVXcRxYrVYMy68,0.184,0.866,226133,0.534,0.266,11,0.0929,-9.201,1,0.229,98.243,0.841,https://api.spotify.com/v1/tracks/0eEXcw3JLVXcRxYrVYMy68
+Rebirth Of Slick (Cool Like Dat),26q6YTrXt9l8qshIveiTX9,0.0476,0.884,261267,0.334,0.0588,1,0.107,-18.943,0,0.228,98.315,0.571,https://api.spotify.com/v1/tracks/26q6YTrXt9l8qshIveiTX9
+U.N.I.T.Y.,4OxXBAN51tjVBEjSwuWWbv,0.0191,0.657,251867,0.515,0.0,4,0.249,-11.596,0,0.429,94.297,0.506,https://api.spotify.com/v1/tracks/4OxXBAN51tjVBEjSwuWWbv
+"Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",4rLpAOk5KVNcqEMK3m6Lje,0.045,0.84,246347,0.798,4.32e-05,8,0.172,-5.079,1,0.0699,100.175,0.695,https://api.spotify.com/v1/tracks/4rLpAOk5KVNcqEMK3m6Lje
+Getto Jam,2mGxDOaHdBWnJY7V0In8Vx,0.0312,0.802,259280,0.547,1.34e-06,9,0.326,-12.085,1,0.131,86.576,0.492,https://api.spotify.com/v1/tracks/2mGxDOaHdBWnJY7V0In8Vx
+Real Muthaphuckkin' G's,53BZ6XygAoubR5DU5w38Vq,0.0164,0.724,332733,0.853,0.0,11,0.65,-3.895,0,0.283,170.51,0.775,https://api.spotify.com/v1/tracks/53BZ6XygAoubR5DU5w38Vq
+I'm a Player - Street Version,4XiZFtOlgXYtrp88tGNnk8,0.121,0.88,361267,0.558,3.35e-05,9,0.119,-10.426,1,0.217,89.024,0.597,https://api.spotify.com/v1/tracks/4XiZFtOlgXYtrp88tGNnk8
+Shoop,0Pu71wxadDlB8fJXfjIjeJ,0.0915,0.939,248573,0.675,0.0,0,0.0565,-7.232,1,0.211,96.918,0.795,https://api.spotify.com/v1/tracks/0Pu71wxadDlB8fJXfjIjeJ
+Hip Hop Hooray,1w29UTa5uUvIri2tWtZ12Y,0.102,0.862,267267,0.642,0.0,6,0.272,-13.652,0,0.101,99.201,0.765,https://api.spotify.com/v1/tracks/1w29UTa5uUvIri2tWtZ12Y
+Punks Jump Up to Get Beat Down,1RcS2X26yGTowcttwIgkv4,0.0423,0.859,265800,0.719,0.000746,1,0.104,-12.815,0,0.211,98.221,0.658,https://api.spotify.com/v1/tracks/1RcS2X26yGTowcttwIgkv4
+Slam,0W2mz7mvaBaEsC4rmoRNPn,0.0706,0.879,218507,0.692,0.00426,4,0.915,-12.958,1,0.352,98.329,0.804,https://api.spotify.com/v1/tracks/0W2mz7mvaBaEsC4rmoRNPn
+Ruffneck,5BC50dLe7dZKVc3gPvJRx9,0.0364,0.709,237267,0.902,0.0,1,0.0219,-3.392,0,0.188,204.317,0.878,https://api.spotify.com/v1/tracks/5BC50dLe7dZKVc3gPvJRx9
+Down With the King,2oSPru8bef0EMhF9tvMSLn,0.07,0.786,302627,0.637,1.31e-05,1,0.415,-12.149,1,0.205,96.023,0.762,https://api.spotify.com/v1/tracks/2oSPru8bef0EMhF9tvMSLn
+Chief Rocka,34MRi5GRWHFUa731JBxFEl,0.174,0.89,247400,0.716,0.000589,1,0.0657,-9.673,1,0.296,99.988,0.656,https://api.spotify.com/v1/tracks/34MRi5GRWHFUa731JBxFEl
+Sound of da Police,3Y6XWs8xMlCngyIxNOFnsp,0.124,0.794,258507,0.95,7.71e-05,1,0.133,-8.78,1,0.294,94.984,0.324,https://api.spotify.com/v1/tracks/3Y6XWs8xMlCngyIxNOFnsp
+Straight Up Menace,5UQOmTylBEdsIfSn37v3DO,0.00138,0.756,274307,0.53,0.00701,7,0.323,-9.639,1,0.142,79.855,0.524,https://api.spotify.com/v1/tracks/5UQOmTylBEdsIfSn37v3DO
+Keep Ya Head Up,0XRbYXQUymj9SJkrr8YK5B,0.162,0.636,262507,0.731,0.0,4,0.455,-7.037,1,0.421,86.15,0.61,https://api.spotify.com/v1/tracks/0XRbYXQUymj9SJkrr8YK5B
+Gangsta Bitch,5wDwRWRJmRkVbg0d7vH4Lx,0.141,0.873,284067,0.487,0.0,7,0.269,-14.872,1,0.412,97.445,0.611,https://api.spotify.com/v1/tracks/5wDwRWRJmRkVbg0d7vH4Lx
+Alright,3uGjLZ5abCyCfYXBVfpf8X,0.00432,0.803,243333,0.582,4.26e-05,10,0.252,-11.286,0,0.19,97.305,0.547,https://api.spotify.com/v1/tracks/3uGjLZ5abCyCfYXBVfpf8X
+Indo Smoke,63KcYWznO0w3J5wymiT9QK,0.0288,0.785,322227,0.556,0.0,0,0.482,-11.7,0,0.271,98.836,0.601,https://api.spotify.com/v1/tracks/63KcYWznO0w3J5wymiT9QK
+Player's Ball,7LZDnTeLZK2OXnLsr8t8Tx,0.0469,0.884,262400,0.641,0.0,1,0.321,-10.52,1,0.273,92.915,0.554,https://api.spotify.com/v1/tracks/7LZDnTeLZK2OXnLsr8t8Tx
+Back Seat,6eQUbcFlNAMCUw6ULiiDPp,0.0595,0.763,271600,0.382,0.000101,10,0.194,-12.892,0,0.313,90.14,0.29,https://api.spotify.com/v1/tracks/6eQUbcFlNAMCUw6ULiiDPp
+Six Feet Deep,7fOa2YngldFhZpkPpQVwpb,0.0778,0.811,324333,0.502,0.00952,10,0.374,-12.377,0,0.239,137.81,0.759,https://api.spotify.com/v1/tracks/7fOa2YngldFhZpkPpQVwpb
+C.R.E.A.M.,119c93MHjrDLJTApCVGpvx,0.57,0.479,252187,0.549,0.0239,11,0.127,-10.551,0,0.373,180.985,0.576,https://api.spotify.com/v1/tracks/119c93MHjrDLJTApCVGpvx
+Who Got Da Props,6Xio661Y2iL7SDKFFOG9cv,0.138,0.805,270067,0.653,0.0,8,0.1,-11.251,0,0.185,100.349,0.257,https://api.spotify.com/v1/tracks/6Xio661Y2iL7SDKFFOG9cv
+Award Tour,5YTM7OgQDt9EJAYcfHLniJ,0.00308,0.812,226440,0.6,8.38e-06,7,0.173,-9.414,1,0.254,97.338,0.555,https://api.spotify.com/v1/tracks/5YTM7OgQDt9EJAYcfHLniJ
+One In A Million,1z3Q1tjW3b8HndGACUWDcM,0.0282,0.567,244200,0.62,0.0,10,0.32,-11.304,0,0.338,175.882,0.739,https://api.spotify.com/v1/tracks/1z3Q1tjW3b8HndGACUWDcM
+Make Room,6LWpZmVDONqAqqf7fl8Lul,0.105,0.727,208667,0.489,0.0,1,0.0666,-7.98,1,0.302,96.413,0.227,https://api.spotify.com/v1/tracks/6LWpZmVDONqAqqf7fl8Lul
+Freakit,1A4DjgWzJ839VdFCKE5hBD,0.0286,0.801,199493,0.518,3.65e-06,1,0.309,-12.054,1,0.314,97.302,0.598,https://api.spotify.com/v1/tracks/1A4DjgWzJ839VdFCKE5hBD
+I Ain't Goin' Out Like That,7A78dicsG3o2drpJLWbT6f,0.00252,0.768,267933,0.533,0.899,6,0.331,-11.189,1,0.147,100.839,0.437,https://api.spotify.com/v1/tracks/7A78dicsG3o2drpJLWbT6f
+Who Am I (What's My Name)?,5XhkV07Vou38wnrzwURUOC,0.000136,0.692,246320,0.833,1.98e-05,7,0.515,-3.974,1,0.0492,96.814,0.692,https://api.spotify.com/v1/tracks/5XhkV07Vou38wnrzwURUOC
+Let Me Roll,2o5DLqfanAFBcsj0Pdr8di,0.219,0.816,293133,0.429,0.00067,0,0.0812,-15.631,1,0.191,81.903,0.602,https://api.spotify.com/v1/tracks/2o5DLqfanAFBcsj0Pdr8di
+Just Another Day...,48FC4RXepyOHJFTyFuQkm0,0.376,0.686,269200,0.374,0.0782,7,0.208,-18.494,1,0.327,173.868,0.284,https://api.spotify.com/v1/tracks/48FC4RXepyOHJFTyFuQkm0
+The Murda Show,76Ceb3pvgGsZb40pSIrSMH,0.0052,0.761,267707,0.721,0.0276,11,0.0768,-6.91,0,0.264,89.858,0.789,https://api.spotify.com/v1/tracks/76Ceb3pvgGsZb40pSIrSMH
+Doggy Dogg World (feat. The Dramatics & Tha Dogg Pound),7pf6YT5CmmQxs6Uz7dABNB,0.0036,0.685,338813,0.686,0.0,7,0.0959,-6.311,1,0.292,94.188,0.682,https://api.spotify.com/v1/tracks/7pf6YT5CmmQxs6Uz7dABNB
+"Le Bien, Le Mal",0nwnaHLObT2ZEkrNAfryEB,0.0413,0.842,202160,0.821,0.00249,1,0.346,-9.86,1,0.163,101.986,0.594,https://api.spotify.com/v1/tracks/0nwnaHLObT2ZEkrNAfryEB
+Catch A Bad One,0vhiGS9UsCMq4RF0WgB6gP,0.345,0.732,226293,0.584,0.0199,7,0.185,-10.981,1,0.33,97.38,0.565,https://api.spotify.com/v1/tracks/0vhiGS9UsCMq4RF0WgB6gP
+Hot Potato,2lHhAEAhCLCfigjpTvSBD1,0.196,0.919,217840,0.575,0.0,1,0.358,-9.718,1,0.357,114.07,0.529,https://api.spotify.com/v1/tracks/2lHhAEAhCLCfigjpTvSBD1
+Flow Joe,113LqHyJALWRb4FyM8Zd0r,0.1,0.655,256533,0.706,0.523,1,0.105,-12.234,1,0.205,175.52,0.606,https://api.spotify.com/v1/tracks/113LqHyJALWRb4FyM8Zd0r
+Carlos Rossi,1VkBKf4ty9OFQA2TESbV43,0.0101,0.836,285560,0.24,0.000215,9,0.0851,-10.819,1,0.37,144.032,0.674,https://api.spotify.com/v1/tracks/1VkBKf4ty9OFQA2TESbV43
+(I Know I Got) Skillz,0TEQ2QmFXnHCgQvYuvsbp2,0.00366,0.801,263053,0.875,0.425,7,0.182,-9.705,1,0.0995,91.983,0.637,https://api.spotify.com/v1/tracks/0TEQ2QmFXnHCgQvYuvsbp2
+Same Old Sh*t,0awP7BRdUvnzBCaU9YOpiJ,0.00712,0.734,247560,0.637,0.000556,1,0.0647,-7.839,0,0.215,88.193,0.392,https://api.spotify.com/v1/tracks/0awP7BRdUvnzBCaU9YOpiJ
+Truthful,2rapFnvpJOPPWGCeS7GQgS,0.022,0.677,281173,0.631,0.00149,6,0.0915,-11.51,1,0.247,99.849,0.328,https://api.spotify.com/v1/tracks/2rapFnvpJOPPWGCeS7GQgS

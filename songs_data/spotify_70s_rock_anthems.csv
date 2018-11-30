@@ -1,0 +1,101 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Bohemian Rhapsody - Remastered 2011,2GAIycsMaDVtMtdvxzR2xI,0.288,0.392,354320,0.402,0.0,0,0.243,-9.961,0,0.0536,143.883,0.228,https://api.spotify.com/v1/tracks/2GAIycsMaDVtMtdvxzR2xI
+Stairway To Heaven,5CQ30WqJwcep0pYcV4AMNc,0.58,0.338,482830,0.34,0.0032,9,0.116,-12.049,0,0.0339,82.433,0.197,https://api.spotify.com/v1/tracks/5CQ30WqJwcep0pYcV4AMNc
+Hotel California - Remastered,40riOy7x9W7GXjyGp4pjAv,0.00574,0.579,391376,0.508,0.000494,2,0.0575,-9.484,1,0.027,147.125,0.609,https://api.spotify.com/v1/tracks/40riOy7x9W7GXjyGp4pjAv
+London Calling - Remastered,5jzma6gCzYtKB1DbEwFZKH,0.123,0.651,200480,0.801,0.0,0,0.0825,-7.34,1,0.0513,133.763,0.776,https://api.spotify.com/v1/tracks/5jzma6gCzYtKB1DbEwFZKH
+Riders On The Storm,14XWXWv5FoCbFzLksawpEe,0.25,0.549,434720,0.722,0.0138,11,0.11,-11.729,0,0.0283,103.885,0.716,https://api.spotify.com/v1/tracks/14XWXWv5FoCbFzLksawpEe
+Rock And Roll All Nite,6KTv0Z8BmVqM7DPxbGzpVC,0.0551,0.657,168827,0.932,0.0,1,0.047,-5.819,1,0.0992,144.751,0.888,https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC
+Who Are You,02DurCgOvDdX0uKEjqcl3W,0.299,0.653,381627,0.631,0.00265,9,0.0627,-11.334,1,0.0461,156.32,0.516,https://api.spotify.com/v1/tracks/02DurCgOvDdX0uKEjqcl3W
+Changes - 2015 Remastered Version,0LrwgdLsFaWh9VXIjBRe8t,0.505,0.547,217747,0.308,0.0,0,0.109,-11.75,1,0.0377,114.719,0.41,https://api.spotify.com/v1/tracks/0LrwgdLsFaWh9VXIjBRe8t
+Who'll Stop The Rain,3Bh6uInhcVBVvLraGZdkKD,0.0424,0.598,147493,0.797,0.000407,7,0.0717,-6.793,1,0.0332,123.566,0.622,https://api.spotify.com/v1/tracks/3Bh6uInhcVBVvLraGZdkKD
+Me and Bobby McGee,1IqFh00G2kvvMm8pRMpehA,0.302,0.453,271333,0.464,5.96e-05,2,0.152,-10.96,1,0.0431,93.19,0.658,https://api.spotify.com/v1/tracks/1IqFh00G2kvvMm8pRMpehA
+Wild Horses,52dm9op3rbfAkc1LGXgipW,0.669,0.371,341773,0.404,0.00453,7,0.0805,-6.452,1,0.0255,74.386,0.153,https://api.spotify.com/v1/tracks/52dm9op3rbfAkc1LGXgipW
+Imagine - Remastered 2010,7pKfPomDEeI4TPT6EOYjn9,0.907,0.547,187867,0.257,0.183,0,0.0935,-12.358,1,0.0252,75.752,0.169,https://api.spotify.com/v1/tracks/7pKfPomDEeI4TPT6EOYjn9
+Let It Be - Remastered 2009,7iN1s7xHE4ifF5povM6A48,0.631,0.443,243027,0.403,0.0,0,0.111,-8.339,1,0.0322,143.462,0.41,https://api.spotify.com/v1/tracks/7iN1s7xHE4ifF5povM6A48
+Dream On,5MxNLUsfh7uzROypsoO5qe,0.388,0.307,266960,0.433,9.08e-05,1,0.332,-10.057,1,0.029,160.9,0.224,https://api.spotify.com/v1/tracks/5MxNLUsfh7uzROypsoO5qe
+Roxanne - Remastered 2003,0SYRVn2YF7HBscQEmlkpTI,0.026,0.608,191947,0.746,2.39e-06,0,0.043,-8.851,1,0.354,134.03,0.745,https://api.spotify.com/v1/tracks/0SYRVn2YF7HBscQEmlkpTI
+Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,0.0591,0.573,208400,0.913,0.00173,6,0.156,-4.793,0,0.132,115.715,0.422,https://api.spotify.com/v1/tracks/2zYzyRzz6pRmhPzyfMEC8s
+Bang a Gong (Get It On) - Remastered Version,6FsQrRpBLgsrFeAeiQqytm,0.157,0.729,267000,0.818,0.285,2,0.195,-9.992,1,0.0732,125.811,0.907,https://api.spotify.com/v1/tracks/6FsQrRpBLgsrFeAeiQqytm
+Smoke On the Water,5SAUIWdZ04OxYfJFDchC7S,0.0983,0.632,342173,0.586,0.581,0,0.0535,-11.333,1,0.0284,114.243,0.89,https://api.spotify.com/v1/tracks/5SAUIWdZ04OxYfJFDchC7S
+Black Magic Woman,4YMQXzscifAREG0a7KNGhB,0.676,0.489,196467,0.349,0.0789,2,0.0866,-14.295,0,0.0323,124.348,0.622,https://api.spotify.com/v1/tracks/4YMQXzscifAREG0a7KNGhB
+Message In A Bottle - Remastered 2003,5xD021bM8VbqrhCVhxRozx,0.0338,0.582,290280,0.81,1.68e-05,1,0.202,-7.024,0,0.0396,151.006,0.875,https://api.spotify.com/v1/tracks/5xD021bM8VbqrhCVhxRozx
+Free Bird,5EWPGh7jbTNO2wakv8LjUI,0.0765,0.252,547107,0.844,0.00018,0,0.084,-8.121,1,0.0572,118.158,0.351,https://api.spotify.com/v1/tracks/5EWPGh7jbTNO2wakv8LjUI
+Cocaine,3ykSdTGmYPFl8pDBXer1zG,0.0607,0.699,221640,0.502,0.0337,9,0.317,-12.526,1,0.0278,105.266,0.676,https://api.spotify.com/v1/tracks/3ykSdTGmYPFl8pDBXer1zG
+Lola - Coca Cola Version,0UAJH0k4k3slcE83a9UGCe,0.582,0.474,241040,0.917,0.231,9,0.201,-4.19,1,0.0395,152.113,0.902,https://api.spotify.com/v1/tracks/0UAJH0k4k3slcE83a9UGCe
+Black Dog,3qT4bUD1MaWpGrTwcvguhb,0.396,0.437,295387,0.864,0.0314,4,0.242,-7.842,0,0.0904,81.394,0.749,https://api.spotify.com/v1/tracks/3qT4bUD1MaWpGrTwcvguhb
+Blitzkrieg Bop - 2016 Remastered Version,4KcH1ZRV2W1q7Flq0QqC76,0.000269,0.385,134467,0.783,0.47,9,0.108,-2.533,1,0.233,176.701,0.902,https://api.spotify.com/v1/tracks/4KcH1ZRV2W1q7Flq0QqC76
+I Want You to Want Me,1JkZg3eMQTmTn93E8Yd3UL,0.78,0.806,191227,0.462,0.0134,2,0.15,-12.778,1,0.0298,92.726,0.736,https://api.spotify.com/v1/tracks/1JkZg3eMQTmTn93E8Yd3UL
+Black Diamond,6PmckFG2BhEELc5OM7O7DS,0.0889,0.321,313467,0.627,0.00878,8,0.0699,-9.509,0,0.0542,132.855,0.141,https://api.spotify.com/v1/tracks/6PmckFG2BhEELc5OM7O7DS
+Blinded By The Light,7kNNylJ1kswWbHeRM6UDuE,0.291,0.456,428133,0.696,0.000207,5,0.0853,-10.0,1,0.0653,142.156,0.508,https://api.spotify.com/v1/tracks/7kNNylJ1kswWbHeRM6UDuE
+American Girl,7MRyJPksH3G2cXHN8UKYzP,0.448,0.55,214733,0.824,0.000127,2,0.366,-5.988,1,0.0334,114.512,0.777,https://api.spotify.com/v1/tracks/7MRyJPksH3G2cXHN8UKYzP
+Brain Damage,05uGBKRCuePsf43Hfm0JwX,0.0726,0.322,226667,0.265,0.34,2,0.366,-13.398,1,0.0302,133.577,0.207,https://api.spotify.com/v1/tracks/05uGBKRCuePsf43Hfm0JwX
+Comfortably Numb,5HNCy40Ni5BZJFw1TKzRsC,0.15,0.472,382297,0.366,0.308,11,0.0837,-12.595,0,0.0286,127.167,0.171,https://api.spotify.com/v1/tracks/5HNCy40Ni5BZJFw1TKzRsC
+Born to Run,6hTcuIQa0sxrrByu9wTD7s,0.00501,0.27,269920,0.944,2.05e-05,4,0.116,-4.199,1,0.0975,146.347,0.606,https://api.spotify.com/v1/tracks/6hTcuIQa0sxrrByu9wTD7s
+Layla - 40th Anniversary Version / 2010 Remastered,2kkvB3RNRzwjFdGhaUA0tz,0.584,0.394,423840,0.918,0.332,1,0.309,-3.743,1,0.0709,115.646,0.479,https://api.spotify.com/v1/tracks/2kkvB3RNRzwjFdGhaUA0tz
+Just What I Needed,4alHo6RGd0D3OUbTPExTHN,0.0152,0.619,225627,0.579,6.4e-05,4,0.0858,-9.307,1,0.0473,127.224,0.69,https://api.spotify.com/v1/tracks/4alHo6RGd0D3OUbTPExTHN
+Anarchy In The U.K.,3LoDeIbiR12sAznmpNEmKA,0.0422,0.323,211973,0.978,0.00019,5,0.201,-3.841,1,0.118,134.222,0.168,https://api.spotify.com/v1/tracks/3LoDeIbiR12sAznmpNEmKA
+American Pie,2QgWuCtBpNIpl5trmKCxRf,0.6,0.527,515867,0.509,0.0,7,0.144,-10.893,1,0.0628,138.317,0.497,https://api.spotify.com/v1/tracks/2QgWuCtBpNIpl5trmKCxRf
+Aqualung,5UuikgHTxSRFRnC0zXx10i,0.0667,0.48,397773,0.47,0.0171,7,0.067,-11.919,0,0.044,122.569,0.701,https://api.spotify.com/v1/tracks/5UuikgHTxSRFRnC0zXx10i
+Won't Get Fooled Again - Original Album Version,0Rp4akmfqBTpbDM6EoqtNy,0.233,0.685,511293,0.806,0.728,2,0.105,-12.151,1,0.0497,134.889,0.31,https://api.spotify.com/v1/tracks/0Rp4akmfqBTpbDM6EoqtNy
+Iron Man - Remastered Version,3IOQZRcEkplCXg6LofKqE9,0.00349,0.336,355304,0.792,0.00178,9,0.0437,-10.875,1,0.0848,155.588,0.425,https://api.spotify.com/v1/tracks/3IOQZRcEkplCXg6LofKqE9
+The Boys Are Back in Town,43DeSV93pJPT4lCZaWZ6b1,0.234,0.445,266720,0.706,0.000252,8,0.205,-9.803,1,0.0461,80.823,0.768,https://api.spotify.com/v1/tracks/43DeSV93pJPT4lCZaWZ6b1
+Walk This Way,5SZ6zX4rOrEQferfFC2MfP,0.0114,0.653,220400,0.73,1.03e-05,5,0.0754,-10.613,1,0.043,108.705,0.894,https://api.spotify.com/v1/tracks/5SZ6zX4rOrEQferfFC2MfP
+Maggie May - Remastered Version,1r3kj1yMff7ilIsR7hpvUo,0.717,0.62,345680,0.559,0.433,2,0.133,-10.568,1,0.0369,129.401,0.527,https://api.spotify.com/v1/tracks/1r3kj1yMff7ilIsR7hpvUo
+The Joker,1bp2IO61zbQrbWNmKKxg3f,0.394,0.424,264504,0.446,3.78e-06,5,0.16,-9.618,1,0.0525,165.158,0.794,https://api.spotify.com/v1/tracks/1bp2IO61zbQrbWNmKKxg3f
+We Will Rock You - Remastered,54flyrjcdnQdco7300avMJ,0.688,0.692,122067,0.488,0.0,11,0.4,-7.282,0,0.104,81.4,0.51,https://api.spotify.com/v1/tracks/54flyrjcdnQdco7300avMJ
+Walk On the Wild Side,5p3JunprHCxClJjOmcLV8G,0.683,0.575,254173,0.318,0.000202,0,0.0934,-16.729,1,0.109,104.522,0.385,https://api.spotify.com/v1/tracks/5p3JunprHCxClJjOmcLV8G
+Brown Sugar,61UuPxxYUvacEH6SHIK3sU,0.215,0.641,228667,0.927,0.00029,0,0.045,-3.532,1,0.0351,128.606,0.966,https://api.spotify.com/v1/tracks/61UuPxxYUvacEH6SHIK3sU
+American Woman - Remastered,3LQPTJEqOfljGBxmpgUnoC,0.146,0.55,307493,0.726,0.00608,2,0.428,-8.51,1,0.0516,92.697,0.37,https://api.spotify.com/v1/tracks/3LQPTJEqOfljGBxmpgUnoC
+(Don't Fear) The Reaper,5QTxFnGygVM4jFQiBovmRo,0.0029,0.333,308120,0.927,0.000211,9,0.297,-8.55,0,0.0733,141.47,0.382,https://api.spotify.com/v1/tracks/5QTxFnGygVM4jFQiBovmRo
+Heart of Gold,5IRWgQiN0c2i4U97iE3OoY,0.212,0.542,187013,0.444,0.0519,4,0.102,-11.567,0,0.0295,171.719,0.827,https://api.spotify.com/v1/tracks/5IRWgQiN0c2i4U97iE3OoY
+Running On Empty,4MZEZz8MqVgvIMXU6AVP22,0.006,0.531,298093,0.948,0.0117,9,0.694,-5.438,1,0.0568,136.891,0.498,https://api.spotify.com/v1/tracks/4MZEZz8MqVgvIMXU6AVP22
+Sultans Of Swing,6cr6UDpkjEaMQ80OjWqEBQ,0.0632,0.73,350400,0.868,0.0661,5,0.318,-7.325,1,0.0288,148.217,0.923,https://api.spotify.com/v1/tracks/6cr6UDpkjEaMQ80OjWqEBQ
+"Rocket Man (I Think It's Going To Be A Long, Long Time)",3gdewACMIVMEWVbyb8O9sY,0.386,0.602,281613,0.522,1.44e-05,10,0.0941,-9.031,1,0.0285,136.637,0.36,https://api.spotify.com/v1/tracks/3gdewACMIVMEWVbyb8O9sY
+Dreams - 2004 Remaster For Digital; 2004 Remaster,0ofHAoxe9vBkTCp2UQIavz,0.0644,0.828,257800,0.492,0.00428,0,0.128,-9.744,1,0.0276,120.151,0.789,https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz
+We Are The Champions - Remastered 2011,7ccI9cStQbQdystvc6TvxD,0.389,0.467,179200,0.486,0.0,10,0.121,-6.645,1,0.0274,95.205,0.184,https://api.spotify.com/v1/tracks/7ccI9cStQbQdystvc6TvxD
+You Ain't Seen Nothing Yet,4Ich2datyOWMWvdNjksBDT,0.000199,0.479,232467,0.512,0.0164,11,0.123,-12.462,0,0.0382,118.953,0.795,https://api.spotify.com/v1/tracks/4Ich2datyOWMWvdNjksBDT
+"Another Brick in the Wall, Pt. 1",7K6xMPtAjTuLPNlJMLf5bS,0.937,0.617,192146,0.0457,0.641,0,0.0991,-26.401,1,0.0344,99.48,0.0967,https://api.spotify.com/v1/tracks/7K6xMPtAjTuLPNlJMLf5bS
+Roundabout - Remastered Version,0YveezON7jpiaHA8fnUHxN,0.0682,0.41,510573,0.761,0.0077,4,0.0758,-9.453,0,0.0687,132.889,0.391,https://api.spotify.com/v1/tracks/0YveezON7jpiaHA8fnUHxN
+Ramblin' Man,2Q7LpkYrS0PBpoq3iCqypa,0.488,0.309,288160,0.831,0.00304,1,0.286,-8.288,1,0.036,181.145,0.934,https://api.spotify.com/v1/tracks/2Q7LpkYrS0PBpoq3iCqypa
+Fire And Rain,3LcYYV9ozePfgYYmXv0P3r,0.499,0.611,200579,0.35,7.84e-06,5,0.0844,-14.48,1,0.0356,76.064,0.36,https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+My Sweet Lord,0qdQUeKVyevrbKhAo0ibxS,0.0794,0.538,281227,0.704,0.0,1,0.0867,-8.904,0,0.0332,120.963,0.583,https://api.spotify.com/v1/tracks/0qdQUeKVyevrbKhAo0ibxS
+Baba O'Riley,3qiyyUfYe7CRYLucrPmulD,0.287,0.494,300000,0.722,0.186,5,0.283,-8.373,1,0.0347,117.312,0.156,https://api.spotify.com/v1/tracks/3qiyyUfYe7CRYLucrPmulD
+Heart Of Glass - Special Mix,0a4agFmqHXxcZl1nho1BxM,0.015,0.694,275733,0.577,0.00836,4,0.0853,-14.63,1,0.0308,114.478,0.845,https://api.spotify.com/v1/tracks/0a4agFmqHXxcZl1nho1BxM
+My Sharona,1HOMkjp0nHMaTnfAkslCQj,0.0589,0.586,295400,0.7,0.00125,0,0.0318,-9.558,1,0.0363,147.245,0.897,https://api.spotify.com/v1/tracks/1HOMkjp0nHMaTnfAkslCQj
+Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,0.238,0.668,322549,0.678,6.29e-06,0,0.527,-8.015,1,0.0496,132.584,0.778,https://api.spotify.com/v1/tracks/5Wj1rJnCLpMHdLaxsFtJLs
+Baby Hold On,5ZYvcJ04ccUw2Matbnmu0U,0.154,0.642,210827,0.641,1.23e-06,2,0.0475,-12.444,1,0.049,120.316,0.85,https://api.spotify.com/v1/tracks/5ZYvcJ04ccUw2Matbnmu0U
+Tangled up in Blue,6Vcwr9tb3ZLO63F8DL8cqu,0.414,0.421,341627,0.661,1.16e-06,9,0.0962,-13.126,1,0.0433,100.965,0.554,https://api.spotify.com/v1/tracks/6Vcwr9tb3ZLO63F8DL8cqu
+Runnin' With The Devil - 2015 Remastered Version,3KhF2YiNpJvGpfiCW45R6D,0.148,0.472,214960,0.9,0.000297,8,0.34,-6.406,0,0.0582,95.826,0.42,https://api.spotify.com/v1/tracks/3KhF2YiNpJvGpfiCW45R6D
+2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale - Medley,5H8xFHau0x3PI1CssO6EaX,0.0787,0.345,1233667,0.795,0.00165,2,0.18,-7.44,1,0.108,134.141,0.189,https://api.spotify.com/v1/tracks/5H8xFHau0x3PI1CssO6EaX
+All the Young Dudes,0WNGPpmWqzPnk0psUhJ3SX,0.208,0.429,211067,0.668,0.0,4,0.538,-7.539,0,0.044,77.737,0.398,https://api.spotify.com/v1/tracks/0WNGPpmWqzPnk0psUhJ3SX
+All Right Now,2ZMEdXxVSRfMshCDBMjt0o,0.00966,0.786,334000,0.481,0.0,2,0.0954,-11.236,1,0.114,119.854,0.785,https://api.spotify.com/v1/tracks/2ZMEdXxVSRfMshCDBMjt0o
+Backstreets,4cKJsZuzbNBpdxeMC9pBQG,0.201,0.225,390147,0.889,0.734,7,0.379,-4.371,1,0.0337,96.02,0.599,https://api.spotify.com/v1/tracks/4cKJsZuzbNBpdxeMC9pBQG
+Barracuda,4KfSdst7rW39C0sfhArdrz,0.015,0.547,261933,0.691,0.105,4,0.144,-13.553,0,0.0369,137.148,0.667,https://api.spotify.com/v1/tracks/4KfSdst7rW39C0sfhArdrz
+Ballroom Blitz,3Pu3IChaAoa5EjgUBv5F6x,0.0821,0.644,246573,0.799,0.00154,4,0.055,-10.856,0,0.0598,108.382,0.889,https://api.spotify.com/v1/tracks/3Pu3IChaAoa5EjgUBv5F6x
+Black Betty,2ZOTtG7v1OrSNs6EINIGb4,0.018,0.465,237893,0.865,0.00135,11,0.0769,-9.573,0,0.098,117.528,0.677,https://api.spotify.com/v1/tracks/2ZOTtG7v1OrSNs6EINIGb4
+Beast Of Burden - Remastered,77oU2rjC5XbjQfNe3bD6so,0.387,0.787,265173,0.877,0.00065,1,0.0387,-3.822,0,0.032,100.61,0.837,https://api.spotify.com/v1/tracks/77oU2rjC5XbjQfNe3bD6so
+Band On The Run - Remastered 2010,1H4idkmruFoJBg1DvUv2tY,0.0832,0.479,313027,0.601,0.00142,7,0.11,-8.806,1,0.0318,124.966,0.669,https://api.spotify.com/v1/tracks/1H4idkmruFoJBg1DvUv2tY
+Breakdown,5x53pbGk6sbl1BGom19QQ5,0.398,0.625,163893,0.35,6.76e-05,9,0.123,-8.395,0,0.0436,113.688,0.69,https://api.spotify.com/v1/tracks/5x53pbGk6sbl1BGom19QQ5
+Carry on Wayward Son,4DMKwE2E2iYDKY01C335Uw,0.00316,0.483,323000,0.786,8.86e-05,7,0.446,-5.735,1,0.0319,126.748,0.793,https://api.spotify.com/v1/tracks/4DMKwE2E2iYDKY01C335Uw
+Cat Scratch Fever,0SvfyHYDp2uIsHt53LDlI9,0.0049,0.549,219400,0.916,0.123,4,0.104,-4.185,0,0.034,127.131,0.632,https://api.spotify.com/v1/tracks/0SvfyHYDp2uIsHt53LDlI9
+Bridge Over Troubled Water,6l8EbYRtQMgKOyc1gcDHF9,0.822,0.149,293120,0.206,0.000649,3,0.115,-13.888,1,0.0323,79.764,0.264,https://api.spotify.com/v1/tracks/6l8EbYRtQMgKOyc1gcDHF9
+Caravan,1US01PIcb3RFVrcN8mO8CS,0.294,0.641,300800,0.397,0.000717,7,0.0496,-12.285,1,0.0454,81.962,0.57,https://api.spotify.com/v1/tracks/1US01PIcb3RFVrcN8mO8CS
+Can't Get Enough - Remastered Version,3DnzFhjydj8XXtCAnVKz14,0.132,0.662,254400,0.763,0.0013,0,0.067,-7.475,1,0.0397,126.333,0.699,https://api.spotify.com/v1/tracks/3DnzFhjydj8XXtCAnVKz14
+Cheap Sunglasses,30jsPpxLvSCYTTTtdjRzBp,0.148,0.617,288400,0.461,0.0151,5,0.12,-14.485,0,0.0434,93.853,0.828,https://api.spotify.com/v1/tracks/30jsPpxLvSCYTTTtdjRzBp
+China Grove,7cy1bEJV6FCtDaYpsk8aG6,0.319,0.623,195307,0.91,0.000448,9,0.081,-8.448,1,0.0384,145.624,0.745,https://api.spotify.com/v1/tracks/7cy1bEJV6FCtDaYpsk8aG6
+Foreplay / Long Time,39C5FuZ8C8M0QI8CrMsPkR,0.00975,0.436,467640,0.657,0.00748,5,0.0931,-8.868,1,0.0541,118.693,0.21,https://api.spotify.com/v1/tracks/39C5FuZ8C8M0QI8CrMsPkR
+Come Sail Away,11G0yprQtMU53BLPMSr093,0.16,0.287,365000,0.562,0.0,0,0.103,-7.549,1,0.0304,147.622,0.126,https://api.spotify.com/v1/tracks/11G0yprQtMU53BLPMSr093
+Give A Little Bit,6XUHsYE38CEbYunT983O9G,0.0694,0.531,248173,0.818,0.0096,2,0.263,-5.358,1,0.0452,90.767,0.471,https://api.spotify.com/v1/tracks/6XUHsYE38CEbYunT983O9G
+Doctor My Eyes,3QcuZo6WLcFkqqLmDs0d95,0.266,0.48,199907,0.626,5.7e-05,5,0.0857,-8.406,1,0.0294,75.63,0.542,https://api.spotify.com/v1/tracks/3QcuZo6WLcFkqqLmDs0d95
+Feel Like Makin' Love - 2015 Remastered Version,3KPwt1LBpt1jVSHz8GXERo,0.326,0.543,313840,0.529,0.00269,7,0.709,-9.717,1,0.0301,85.126,0.746,https://api.spotify.com/v1/tracks/3KPwt1LBpt1jVSHz8GXERo
+Do You Feel Like We Do,3rHHxve6ZpvjRM9bqTu4tL,0.0439,0.295,836667,0.568,0.0117,0,0.977,-8.232,1,0.0284,98.284,0.384,https://api.spotify.com/v1/tracks/3rHHxve6ZpvjRM9bqTu4tL
+L.A. Woman,6DmfWj5kOa1fX8AwN9byOn,0.0817,0.354,471160,0.731,0.00119,2,0.115,-9.178,1,0.0381,170.64,0.698,https://api.spotify.com/v1/tracks/6DmfWj5kOa1fX8AwN9byOn
+The Lamb Lies Down On Broadway (Platinum Collection Version),2Nt7pyRux0CB8i2KB4DMVT,0.453,0.377,289373,0.778,0.0,4,0.571,-6.658,1,0.0827,117.238,0.218,https://api.spotify.com/v1/tracks/2Nt7pyRux0CB8i2KB4DMVT
+Knockin' On Heaven's Door - Remastered,6HSXNV0b4M4cLJ7ljgVVeh,0.251,0.513,149880,0.396,0.177,7,0.11,-13.061,1,0.0299,140.208,0.229,https://api.spotify.com/v1/tracks/6HSXNV0b4M4cLJ7ljgVVeh
+Deacon Blues,7Hx2EA4wGaxtsiZCVVLV1i,0.481,0.751,456640,0.572,0.000532,0,0.105,-12.324,1,0.0388,115.839,0.58,https://api.spotify.com/v1/tracks/7Hx2EA4wGaxtsiZCVVLV1i
+Life In The Fast Lane - Remastered,6gXrEUzibufX9xYPk3HD5p,0.0966,0.667,286220,0.755,6.94e-05,9,0.0523,-7.246,1,0.069,109.535,0.883,https://api.spotify.com/v1/tracks/6gXrEUzibufX9xYPk3HD5p
+Life's Been Good,2wvMC5EyaaYQwBfiwwY2xE,0.25,0.505,536227,0.476,0.00915,2,0.113,-12.897,1,0.0711,99.31,0.542,https://api.spotify.com/v1/tracks/2wvMC5EyaaYQwBfiwwY2xE
+Locomotive Breath,0MYNeFsKpzBHwrJGfWZysV,0.412,0.693,266013,0.528,0.00355,11,0.0563,-13.094,0,0.0855,124.573,0.339,https://api.spotify.com/v1/tracks/0MYNeFsKpzBHwrJGfWZysV
+Like A Hurricane,4CqbJHZ6JtVM3MLh41y7JI,0.0129,0.423,501213,0.834,0.00113,9,0.164,-5.498,0,0.037,113.876,0.606,https://api.spotify.com/v1/tracks/4CqbJHZ6JtVM3MLh41y7JI
+Livin' Thing,2hdNya0b6Cc2YJ8IyaQIWp,0.583,0.549,212307,0.651,0.0,0,0.121,-7.097,1,0.0323,122.818,0.368,https://api.spotify.com/v1/tracks/2hdNya0b6Cc2YJ8IyaQIWp
+Paradise By the Dashboard Light,2g7gviEeJr6pyxO7G35EWQ,0.214,0.326,508333,0.872,0.0,2,0.461,-7.602,1,0.122,173.381,0.492,https://api.spotify.com/v1/tracks/2g7gviEeJr6pyxO7G35EWQ

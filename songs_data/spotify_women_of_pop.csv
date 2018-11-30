@@ -1,0 +1,71 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Havana,1rfofaqEpACxVEHIZBJe6W,0.184,0.765,217307,0.523,3.56e-05,2,0.132,-4.333,1,0.03,104.988,0.394,https://api.spotify.com/v1/tracks/1rfofaqEpACxVEHIZBJe6W
+Bang Bang,0puf9yIluy9W0vpMEUoAnN,0.26,0.706,199387,0.786,0.0,0,0.38,-3.417,0,0.0909,150.035,0.749,https://api.spotify.com/v1/tracks/0puf9yIluy9W0vpMEUoAnN
+New Rules,2ekn2ttSfGqwhhate0LSR0,0.00261,0.762,209320,0.7,1.56e-05,9,0.153,-6.021,0,0.0694,116.073,0.608,https://api.spotify.com/v1/tracks/2ekn2ttSfGqwhhate0LSR0
+Halo,4JehYebiI9JE8sR8MisGVb,0.272,0.508,261640,0.72,0.0,11,0.0563,-5.908,0,0.0628,79.983,0.472,https://api.spotify.com/v1/tracks/4JehYebiI9JE8sR8MisGVb
+Issues,7vu0JkJh0ldukEYbTVcqd0,0.401,0.728,176320,0.415,0.0,8,0.0616,-6.852,1,0.0639,114.145,0.455,https://api.spotify.com/v1/tracks/7vu0JkJh0ldukEYbTVcqd0
+Work,72TFWvU3wUYdUuxejTTIzt,0.0641,0.594,219320,0.533,0.0,11,0.0928,-6.222,1,0.0981,91.496,0.524,https://api.spotify.com/v1/tracks/72TFWvU3wUYdUuxejTTIzt
+We Can't Stop,2y4lAQpi5VTNLu2ldeTdUH,0.00882,0.613,231240,0.622,0.0,1,0.37,-5.794,0,0.0334,80.003,0.484,https://api.spotify.com/v1/tracks/2y4lAQpi5VTNLu2ldeTdUH
+breathin,4OafepJy2teCjYJbvFE60J,0.0211,0.568,198160,0.656,1.37e-05,8,0.213,-5.413,1,0.0433,100.049,0.364,https://api.spotify.com/v1/tracks/4OafepJy2teCjYJbvFE60J
+Delicate,6NFyWDv5CjfwuzoCkw47Xf,0.216,0.75,232253,0.404,0.000357,9,0.0911,-10.178,0,0.0682,95.045,0.0499,https://api.spotify.com/v1/tracks/6NFyWDv5CjfwuzoCkw47Xf
+2002,4Pbg79cTBu4vgSphoyNq3j,0.0372,0.697,186987,0.683,0.0,1,0.137,-2.881,0,0.117,96.133,0.603,https://api.spotify.com/v1/tracks/4Pbg79cTBu4vgSphoyNq3j
+Worth It,41Fflg7qHiVOD6dEPvsCzO,0.063,0.884,224573,0.765,7.04e-06,8,0.118,-3.865,1,0.0882,99.987,0.594,https://api.spotify.com/v1/tracks/41Fflg7qHiVOD6dEPvsCzO
+Love Myself,4Y6IdA3e4wwLrbKHDjufaC,0.0029,0.616,218773,0.765,0.0,0,0.149,-6.75,0,0.078,122.916,0.343,https://api.spotify.com/v1/tracks/4Y6IdA3e4wwLrbKHDjufaC
+Send My Love (To Your New Lover),4BHzQ9C00ceJxfG16AlNWb,0.0415,0.69,223080,0.524,3.16e-06,6,0.17,-8.39,0,0.103,164.023,0.562,https://api.spotify.com/v1/tracks/4BHzQ9C00ceJxfG16AlNWb
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",2l8w0zZVn4AZNuzrht7MRT,0.247,0.262,252534,0.606,0.0,8,0.125,-6.646,1,0.0484,189.857,0.275,https://api.spotify.com/v1/tracks/2l8w0zZVn4AZNuzrht7MRT
+I'm a Mess,04ZTP5KsCypmtCmQg5tH9R,0.00281,0.63,195519,0.694,0.0,11,0.0719,-6.257,0,0.0253,97.005,0.216,https://api.spotify.com/v1/tracks/04ZTP5KsCypmtCmQg5tH9R
+Royals,3yvZ1VUso9Xi7EvIyLaj4o,0.112,0.636,190185,0.436,0.0,7,0.135,-9.524,1,0.139,84.804,0.331,https://api.spotify.com/v1/tracks/3yvZ1VUso9Xi7EvIyLaj4o
+A Little More,75MKHk9JSlu8MOixmQ982v,0.797,0.376,144720,0.211,0.0,4,0.196,-11.665,1,0.0364,94.7,0.228,https://api.spotify.com/v1/tracks/75MKHk9JSlu8MOixmQ982v
+Ain't Your Mama,2hgzdQdnfWwtdpZbhZlV72,0.0472,0.757,218235,0.678,9.14e-06,8,0.0654,-5.529,0,0.233,120.075,0.82,https://api.spotify.com/v1/tracks/2hgzdQdnfWwtdpZbhZlV72
+"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",7GQqj9jRtDkMp8zByehXQI,0.0174,0.751,264847,0.766,8.07e-06,5,0.658,-3.594,1,0.0515,109.897,0.673,https://api.spotify.com/v1/tracks/7GQqj9jRtDkMp8zByehXQI
+Bad Liar,2fZQIJew3nkNe99s2PKzul,0.189,0.965,214648,0.414,0.0,1,0.0767,-6.408,1,0.0713,121.032,0.728,https://api.spotify.com/v1/tracks/2fZQIJew3nkNe99s2PKzul
+Replay,7d1CFwrBmH34gmS0Hkbfbt,0.0416,0.688,209187,0.723,0.0002,6,0.302,-6.682,0,0.121,140.023,0.618,https://api.spotify.com/v1/tracks/7d1CFwrBmH34gmS0Hkbfbt
+Flames,33IOhptvC2Qoy2UhjiHXLV,0.0723,0.609,195000,0.726,8.45e-06,5,0.0895,-4.346,0,0.0414,93.958,0.362,https://api.spotify.com/v1/tracks/33IOhptvC2Qoy2UhjiHXLV
+1950,0CZ8lquoTX2Dkg7Ak2inwA,0.648,0.6,225133,0.535,4.7e-06,4,0.162,-7.043,1,0.107,71.912,0.269,https://api.spotify.com/v1/tracks/0CZ8lquoTX2Dkg7Ak2inwA
+Black Magic,33NHr7lu7tCMjK05jUj1v0,0.0322,0.777,211787,0.898,0.0,4,0.313,-4.461,1,0.0581,111.996,0.866,https://api.spotify.com/v1/tracks/33NHr7lu7tCMjK05jUj1v0
+hate u love u,6ATgDc6e4sPn84hvJsAmPt,0.71,0.401,175467,0.398,0.0,6,0.0962,-8.993,0,0.183,180.293,0.265,https://api.spotify.com/v1/tracks/6ATgDc6e4sPn84hvJsAmPt
+"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",1YNQscOx6OqBQjxgJVhEeW,0.0164,0.728,221153,0.69,0.0,8,0.104,-4.344,0,0.0524,94.028,0.415,https://api.spotify.com/v1/tracks/1YNQscOx6OqBQjxgJVhEeW
+Material Girl,22sLuJYcvZOSoLLRYev1s5,0.333,0.742,240280,0.883,7.51e-06,0,0.0964,-3.419,1,0.0329,136.506,0.978,https://api.spotify.com/v1/tracks/22sLuJYcvZOSoLLRYev1s5
+Stronger (What Doesn't Kill You),6D60klaHqbCl9ySc8VcRss,0.046,0.562,221947,0.939,0.0,0,0.112,-4.282,1,0.0475,116.044,0.684,https://api.spotify.com/v1/tracks/6D60klaHqbCl9ySc8VcRss
+I Wanna Dance with Somebody (Who Loves Me),2k1np6GRFvKjgjYfo2g39B,0.207,0.709,291293,0.824,0.000307,1,0.0888,-8.824,1,0.0453,118.814,0.867,https://api.spotify.com/v1/tracks/2k1np6GRFvKjgjYfo2g39B
+Wannabe,1Je1IMUlBXcx1Fz0WE7oPT,0.101,0.768,173027,0.864,0.0,11,0.162,-6.145,1,0.0324,110.008,0.891,https://api.spotify.com/v1/tracks/1Je1IMUlBXcx1Fz0WE7oPT
+No Scrubs,1KGi9sZVMeszgZOWivFpxs,0.0251,0.743,214400,0.675,0.000717,8,0.0685,-4.267,0,0.0953,92.909,0.59,https://api.spotify.com/v1/tracks/1KGi9sZVMeszgZOWivFpxs
+Call Me Maybe,3TGRqZ0a2l1LRblBkJoaDx,0.0123,0.778,193400,0.585,0.0,7,0.108,-6.502,1,0.0435,120.069,0.626,https://api.spotify.com/v1/tracks/3TGRqZ0a2l1LRblBkJoaDx
+No One,0JEqGkvUiMTQmFY6sgL9kg,0.03,0.649,253813,0.552,6.47e-06,1,0.111,-5.419,0,0.0292,89.969,0.158,https://api.spotify.com/v1/tracks/0JEqGkvUiMTQmFY6sgL9kg
+Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,0.3,0.751,211160,0.834,1.77e-05,1,0.355,-5.444,0,0.0437,95.053,0.894,https://api.spotify.com/v1/tracks/6naxalmIoLFWR0siv8dnQQ
+Hollaback Girl,6RcQOut9fWL6FSqeIr5M1r,0.344,0.918,199907,0.918,5.35e-06,10,0.0243,-2.218,0,0.0954,110.024,0.882,https://api.spotify.com/v1/tracks/6RcQOut9fWL6FSqeIr5M1r
+All I Am,6X6SdJzxyw7GzxwP2fr9WV,0.0445,0.74,218868,0.669,0.0,0,0.184,-5.199,1,0.0373,122.007,0.536,https://api.spotify.com/v1/tracks/6X6SdJzxyw7GzxwP2fr9WV
+Buttons,3BxWKCI06eQ5Od8TY2JBeA,0.158,0.544,225560,0.823,0.0,2,0.268,-4.318,1,0.32,210.75,0.434,https://api.spotify.com/v1/tracks/3BxWKCI06eQ5Od8TY2JBeA
+Roar,6F5c58TMEs1byxUstkzVeM,0.00487,0.554,223546,0.772,6.6e-06,7,0.354,-4.821,0,0.0418,179.984,0.455,https://api.spotify.com/v1/tracks/6F5c58TMEs1byxUstkzVeM
+Bleeding Love,7wZUrN8oemZfsEd1CGkbXE,0.188,0.638,262467,0.656,0.0,5,0.146,-5.886,1,0.0357,104.036,0.225,https://api.spotify.com/v1/tracks/7wZUrN8oemZfsEd1CGkbXE
+Back To Black,30FURVTCpbKyykjSEQzGkH,0.123,0.49,240440,0.725,2.68e-05,10,0.0983,-3.304,1,0.0392,123.28,0.335,https://api.spotify.com/v1/tracks/30FURVTCpbKyykjSEQzGkH
+Praying,0jdny0dhgjUwoIp5GkqEaA,0.491,0.576,230267,0.39,0.0,10,0.111,-7.202,1,0.0297,73.433,0.319,https://api.spotify.com/v1/tracks/0jdny0dhgjUwoIp5GkqEaA
+Million Reasons,4uhlD1p3hKRI9PLH8qX0fn,0.458,0.668,205280,0.428,0.0,0,0.108,-7.889,1,0.0433,129.75,0.134,https://api.spotify.com/v1/tracks/4uhlD1p3hKRI9PLH8qX0fn
+NO EXCUSES,7fCNUWi6uflDTQ08srxMZk,0.0224,0.827,152862,0.658,0.0,6,0.0417,-3.846,1,0.0517,115.016,0.523,https://api.spotify.com/v1/tracks/7fCNUWi6uflDTQ08srxMZk
+Boys,5o4yGlG0PfeVUa6ClIyOxq,0.0646,0.867,162586,0.545,0.000289,2,0.0505,-5.192,1,0.0625,139.943,0.525,https://api.spotify.com/v1/tracks/5o4yGlG0PfeVUa6ClIyOxq
+"Whenever, Wherever",2lnzGkdtDj5mtlcOW2yRtG,0.236,0.793,196160,0.832,1.12e-05,1,0.202,-4.862,0,0.0406,107.661,0.872,https://api.spotify.com/v1/tracks/2lnzGkdtDj5mtlcOW2yRtG
+Cool Kids,13P5rwmk2EsoFRIz9UCeh9,0.0372,0.719,237627,0.671,8.21e-06,8,0.12,-6.279,1,0.0336,130.027,0.786,https://api.spotify.com/v1/tracks/13P5rwmk2EsoFRIz9UCeh9
+Next To Me,1Xsxp1SEOxuMzjrFZhtw8u,0.0923,0.674,196867,0.81,4.74e-05,7,0.11,-5.117,0,0.0378,94.995,0.391,https://api.spotify.com/v1/tracks/1Xsxp1SEOxuMzjrFZhtw8u
+"One, Two Step",7uKcScNXuO3MWw6LowBjW1,0.042,0.944,203787,0.511,0.00107,5,0.0379,-10.96,0,0.161,113.046,0.842,https://api.spotify.com/v1/tracks/7uKcScNXuO3MWw6LowBjW1
+Try,01DSvNTUsVROjnSF5j3UbD,0.00141,0.673,247907,0.629,0.0,2,0.0944,-7.072,1,0.0299,103.998,0.551,https://api.spotify.com/v1/tracks/01DSvNTUsVROjnSF5j3UbD
+Cool Girl,6vJ0Fezf6Etha2C4H21FKO,0.351,0.667,197816,0.72,4.26e-06,9,0.138,-7.026,0,0.11,101.964,0.242,https://api.spotify.com/v1/tracks/6vJ0Fezf6Etha2C4H21FKO
+"Independent Women, Pt. I - #1's Edit",00IEQOqwlB0hngGY9zD3Bw,0.348,0.672,216267,0.593,3.36e-06,6,0.114,-3.957,0,0.216,97.887,0.928,https://api.spotify.com/v1/tracks/00IEQOqwlB0hngGY9zD3Bw
+Can't Get You Out of My Head,7MoKXLQeI0Bh2QodCjDO4K,0.0263,0.766,230640,0.563,0.683,9,0.115,-7.516,0,0.0339,126.007,0.964,https://api.spotify.com/v1/tracks/7MoKXLQeI0Bh2QodCjDO4K
+Torn,0KDaN0HL3TcJVTbXlQCEsS,0.0647,0.575,244667,0.886,0.000187,5,0.709,-5.182,1,0.034,96.308,0.608,https://api.spotify.com/v1/tracks/0KDaN0HL3TcJVTbXlQCEsS
+Beautiful,3TCauNPqFiniaYHBvEVoHG,0.578,0.457,238560,0.573,3.05e-06,5,0.114,-3.866,0,0.0275,76.193,0.0992,https://api.spotify.com/v1/tracks/3TCauNPqFiniaYHBvEVoHG
+Strongest,7FIcIjKaQJpy0vWWFZMZGH,0.0874,0.538,207333,0.595,6.48e-06,0,0.161,-7.398,1,0.112,183.736,0.334,https://api.spotify.com/v1/tracks/7FIcIjKaQJpy0vWWFZMZGH
+Love,2Kerz9H9IejzeIpjhDJoYG,0.487,0.527,272743,0.366,0.0023,10,0.11,-10.943,1,0.0277,98.994,0.234,https://api.spotify.com/v1/tracks/2Kerz9H9IejzeIpjhDJoYG
+King of Anything,3VA8T3rNy5V24AXxNK5u9E,0.461,0.676,207493,0.762,0.0,1,0.0574,-4.172,1,0.0351,119.003,0.81,https://api.spotify.com/v1/tracks/3VA8T3rNy5V24AXxNK5u9E
+(There's Gotta Be) More To Life,2x5qF66rFO6DERBMNkQAqn,0.0917,0.58,200387,0.922,0.0,1,0.189,-3.785,1,0.0958,89.841,0.649,https://api.spotify.com/v1/tracks/2x5qF66rFO6DERBMNkQAqn
+Raincheck,0AEEkLxoe9S6QyYD7KH4Im,0.162,0.759,175354,0.841,0.0,7,0.278,-3.893,0,0.0876,118.028,0.566,https://api.spotify.com/v1/tracks/0AEEkLxoe9S6QyYD7KH4Im
+Sunrise In The East,4LUnZWnO2E2NDUOhfFJr2E,0.0412,0.771,194733,0.719,2.87e-06,6,0.542,-3.645,0,0.0406,107.018,0.476,https://api.spotify.com/v1/tracks/4LUnZWnO2E2NDUOhfFJr2E
+Candy,4sSWhUCUU4uVH11koVo8or,0.178,0.813,234133,0.836,6.63e-05,7,0.154,-4.23,1,0.0881,100.491,0.677,https://api.spotify.com/v1/tracks/4sSWhUCUU4uVH11koVo8or
+With You,7pNJ1T9TGbVbNHKaLhhPri,0.0923,0.553,191827,0.756,0.0,0,0.215,-4.583,1,0.108,94.487,0.605,https://api.spotify.com/v1/tracks/7pNJ1T9TGbVbNHKaLhhPri
+You're So Vain,2DnJjbjNTV9Nd5NOa1KGba,0.157,0.659,258411,0.678,6.69e-06,0,0.0784,-8.18,1,0.0313,106.186,0.647,https://api.spotify.com/v1/tracks/2DnJjbjNTV9Nd5NOa1KGba
+All Loved Up,6914ZWSnIGPlQkNgQldTmT,0.0264,0.565,210000,0.603,4.02e-05,9,0.0738,-6.33,1,0.177,177.996,0.171,https://api.spotify.com/v1/tracks/6914ZWSnIGPlQkNgQldTmT
+Schedules,4juSCLATD6AUzP02gCxZo0,0.00387,0.769,181033,0.719,0.00181,4,0.294,-6.123,1,0.126,99.869,0.423,https://api.spotify.com/v1/tracks/4juSCLATD6AUzP02gCxZo0
+Give A Little,4za2QYGfHlYml23pChrpXO,0.211,0.618,225512,0.695,3.96e-05,7,0.111,-5.415,1,0.189,199.95,0.766,https://api.spotify.com/v1/tracks/4za2QYGfHlYml23pChrpXO
+Have You Ever,6tBD4yjOf9P8rWwUlXdJFm,0.542,0.698,273440,0.533,0.0,2,0.333,-6.246,1,0.0437,134.001,0.275,https://api.spotify.com/v1/tracks/6tBD4yjOf9P8rWwUlXdJFm
+Foolish,6zMUIb4uce1CzpbjR3vMdN,0.358,0.477,227387,0.728,0.0,0,0.11,-5.71,1,0.0831,89.209,0.69,https://api.spotify.com/v1/tracks/6zMUIb4uce1CzpbjR3vMdN
+Foolish Games,6Ee5Y6kCdlZfoFhyR8xPVt,0.944,0.298,340667,0.0735,0.000401,5,0.0976,-16.472,1,0.0378,131.045,0.174,https://api.spotify.com/v1/tracks/6Ee5Y6kCdlZfoFhyR8xPVt
+Uh Huh,6UQkKezR70jMXymMJgRcOz,0.0188,0.584,142444,0.81,0.0,11,0.313,-3.092,1,0.0406,119.859,0.57,https://api.spotify.com/v1/tracks/6UQkKezR70jMXymMJgRcOz

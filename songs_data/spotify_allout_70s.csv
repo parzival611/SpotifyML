@@ -1,0 +1,101 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Superstition - Single Version,300RfAPZ57B0y6YYj9n6DN,0.0172,0.642,244827,0.735,0.000733,8,0.0391,-8.866,1,0.0806,99.682,0.864,https://api.spotify.com/v1/tracks/300RfAPZ57B0y6YYj9n6DN
+"""Heroes"" - Single Version; 2014 Remastered Version",2KVBpW6RR1rGIpr4jDRotF,0.016,0.502,213813,0.681,0.107,7,0.102,-8.263,1,0.0276,112.16,0.584,https://api.spotify.com/v1/tracks/2KVBpW6RR1rGIpr4jDRotF
+Bohemian Rhapsody - Remastered 2011,1AhDOtG9vPSOmsWgNW0BEY,0.271,0.414,354320,0.404,0.0,0,0.3,-9.928,0,0.0499,71.105,0.224,https://api.spotify.com/v1/tracks/1AhDOtG9vPSOmsWgNW0BEY
+Have You Ever Seen The Rain?,5XE8c07vbpQBUriwybOHtd,0.0876,0.776,160000,0.516,1.82e-05,0,0.182,-9.981,1,0.0295,115.989,0.806,https://api.spotify.com/v1/tracks/5XE8c07vbpQBUriwybOHtd
+Is This Love,5QTEEImISE4USGEwqAci8O,0.108,0.775,230733,0.559,0.0,6,0.0945,-8.377,0,0.088,122.229,0.804,https://api.spotify.com/v1/tracks/5QTEEImISE4USGEwqAci8O
+Don't Go Breaking My Heart,5nPdMALTEd7HOjn16oNf2X,0.149,0.729,275440,0.844,2.87e-06,5,0.0604,-8.824,1,0.0344,131.459,0.777,https://api.spotify.com/v1/tracks/5nPdMALTEd7HOjn16oNf2X
+Hold the Line,4aVuWgvD0X63hcOCnZtNFA,0.0397,0.494,235800,0.698,0.00634,6,0.152,-12.049,0,0.0553,95.842,0.778,https://api.spotify.com/v1/tracks/4aVuWgvD0X63hcOCnZtNFA
+September,5nNmj1cLH3r4aA4XDJ2bgY,0.114,0.697,214827,0.809,0.000521,9,0.183,-8.197,1,0.0302,125.941,0.98,https://api.spotify.com/v1/tracks/5nNmj1cLH3r4aA4XDJ2bgY
+Hotel California - Remastered,40riOy7x9W7GXjyGp4pjAv,0.00574,0.579,391376,0.508,0.000494,2,0.0575,-9.484,1,0.027,147.125,0.609,https://api.spotify.com/v1/tracks/40riOy7x9W7GXjyGp4pjAv
+The Chain - 2004 Remaster For Digital; 2004 Remaster,5e9TFTbltYBg2xThimr0rU,0.009,0.545,270213,0.67,0.000822,9,0.0451,-8.81,1,0.0496,151.553,0.481,https://api.spotify.com/v1/tracks/5e9TFTbltYBg2xThimr0rU
+Ain't No Sunshine,1k1Bqnv2R0uJXQN4u6LKYt,0.457,0.479,125093,0.416,1.72e-05,4,0.118,-11.451,0,0.124,79.593,0.514,https://api.spotify.com/v1/tracks/1k1Bqnv2R0uJXQN4u6LKYt
+I Can See Clearly Now,0oCT5rVvMdPPUm0bxG7yzT,0.41,0.683,162653,0.53,7.43e-05,2,0.06,-8.542,1,0.0601,124.392,0.579,https://api.spotify.com/v1/tracks/0oCT5rVvMdPPUm0bxG7yzT
+50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,0.166,0.815,217347,0.372,0.000116,7,0.0767,-12.814,1,0.0752,101.684,0.293,https://api.spotify.com/v1/tracks/6Qb7gtV6Q4MnUjSbkFcopl
+Morning Has Broken,3BqqF8suAIzW8655yJfcvh,0.614,0.443,200000,0.324,0.00568,7,0.0919,-13.135,1,0.0312,133.102,0.386,https://api.spotify.com/v1/tracks/3BqqF8suAIzW8655yJfcvh
+Long Train Runnin',4nXkbcTj3nyww1cHkw5RAP,0.0916,0.575,207267,0.912,0.00211,7,0.0562,-7.275,0,0.0393,117.399,0.843,https://api.spotify.com/v1/tracks/4nXkbcTj3nyww1cHkw5RAP
+Papa Was A Rollin' Stone - Single Version,1zC9mSQAH2fn3DGscYRuCY,0.459,0.82,417040,0.427,0.0494,10,0.0447,-12.728,0,0.0827,121.481,0.887,https://api.spotify.com/v1/tracks/1zC9mSQAH2fn3DGscYRuCY
+Bridge Over Troubled Water,6l8EbYRtQMgKOyc1gcDHF9,0.822,0.149,293120,0.206,0.000649,3,0.115,-13.888,1,0.0323,79.764,0.264,https://api.spotify.com/v1/tracks/6l8EbYRtQMgKOyc1gcDHF9
+If You Leave Me Now - Remastered,0KMGxYKeUzK9wc5DZCt3HT,0.0193,0.429,235373,0.564,0.000828,11,0.128,-6.784,1,0.0268,104.212,0.276,https://api.spotify.com/v1/tracks/0KMGxYKeUzK9wc5DZCt3HT
+Sultans Of Swing,3LTMnFa0hhwisyq6ILahyj,0.0771,0.731,348624,0.797,0.0248,5,0.334,-9.992,1,0.0309,148.192,0.933,https://api.spotify.com/v1/tracks/3LTMnFa0hhwisyq6ILahyj
+Rocket Man (I Think It's Going To Be A Long Long Time),02BDRKIiRLkXrlNPLlpH6K,0.431,0.6,282013,0.507,4.98e-06,10,0.0924,-9.98,1,0.0289,136.611,0.333,https://api.spotify.com/v1/tracks/02BDRKIiRLkXrlNPLlpH6K
+Don't Stop Me Now - Remastered,5T8EDUDqKcs6OSOwEsfqG7,0.0475,0.559,209413,0.868,0.000176,5,0.776,-5.276,1,0.17,156.295,0.609,https://api.spotify.com/v1/tracks/5T8EDUDqKcs6OSOwEsfqG7
+Daddy Cool,0Wif6GC74X6oWrGrPoru4K,0.27,0.764,207893,0.775,0.767,5,0.156,-6.907,0,0.0368,124.424,0.936,https://api.spotify.com/v1/tracks/0Wif6GC74X6oWrGrPoru4K
+It's a Heartache,2EPGj2kxw2dEToxOkyiXL9,0.033,0.539,210573,0.648,1.16e-06,0,0.29,-7.336,1,0.0299,118.89,0.493,https://api.spotify.com/v1/tracks/2EPGj2kxw2dEToxOkyiXL9
+Rich Girl - Remastered,5E3P9e1hvjyIOlFyqNB5eD,0.5,0.597,144333,0.643,0.0,5,0.0435,-6.303,1,0.134,167.963,0.823,https://api.spotify.com/v1/tracks/5E3P9e1hvjyIOlFyqNB5eD
+Sweet Home Alabama,6RgGppm2SSX5p246UqfdEi,0.0915,0.609,284413,0.661,0.000482,7,0.254,-9.549,1,0.0252,97.93,0.892,https://api.spotify.com/v1/tracks/6RgGppm2SSX5p246UqfdEi
+Go Your Own Way,0FeCO85RKW8fDRytwXof2x,0.0219,0.597,218400,0.812,0.00106,5,0.102,-12.062,1,0.0315,135.68,0.823,https://api.spotify.com/v1/tracks/0FeCO85RKW8fDRytwXof2x
+Roxanne - Remastered 2003,3FmAUR4SPWa3P1KyDf21Fu,0.0384,0.618,191500,0.748,4.1e-06,0,0.0477,-8.905,1,0.361,134.001,0.662,https://api.spotify.com/v1/tracks/3FmAUR4SPWa3P1KyDf21Fu
+The Logical Song - Remastered 2010,3T6R0ppqCnUW6iJhtUYhO3,0.512,0.625,251253,0.758,0.00022,5,0.153,-6.213,0,0.0463,119.719,0.695,https://api.spotify.com/v1/tracks/3T6R0ppqCnUW6iJhtUYhO3
+Spirit In The Sky,0Y2SrByf4G3kbq2nBEHQRn,0.112,0.601,239600,0.643,0.00209,2,0.088,-5.828,1,0.0314,128.262,0.552,https://api.spotify.com/v1/tracks/0Y2SrByf4G3kbq2nBEHQRn
+We Are The Champions - Remastered 2011,1lCRw5FEZ1gPDNPzy1K4zW,0.378,0.268,179200,0.459,0.0,10,0.118,-6.94,1,0.0346,64.177,0.175,https://api.spotify.com/v1/tracks/1lCRw5FEZ1gPDNPzy1K4zW
+"Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",3fuXKiEzDCs1IBnLHQ5CL0,0.0781,0.694,238747,0.394,0.000677,0,0.247,-15.881,1,0.0428,104.126,0.719,https://api.spotify.com/v1/tracks/3fuXKiEzDCs1IBnLHQ5CL0
+Dreams,703BT1NQsfIwPFv8MXQ47m,0.139,0.823,254453,0.338,0.00129,0,0.5,-15.899,1,0.0413,120.473,0.785,https://api.spotify.com/v1/tracks/703BT1NQsfIwPFv8MXQ47m
+Mrs. Robinson,0iOZM63lendWRTTeKhZBSC,0.713,0.606,244027,0.457,2.53e-05,6,0.0747,-14.035,0,0.0497,92.033,0.813,https://api.spotify.com/v1/tracks/0iOZM63lendWRTTeKhZBSC
+Lady Marmalade,3GGcwG519BTMdvMeFy7meT,0.551,0.571,235267,0.652,0.0,2,0.0598,-11.034,0,0.0499,117.956,0.947,https://api.spotify.com/v1/tracks/3GGcwG519BTMdvMeFy7meT
+Video Killed The Radio Star - Single Version,6iwOCZFBlw3Xjj0fuO3sI6,0.0862,0.742,197907,0.788,0.00768,1,0.292,-10.803,1,0.0669,130.849,0.514,https://api.spotify.com/v1/tracks/6iwOCZFBlw3Xjj0fuO3sI6
+Listen To The Music,7Ar4G7Ci11gpt6sfH9Cgz5,0.221,0.645,227267,0.598,3.53e-06,1,0.0721,-13.18,0,0.0335,105.929,0.913,https://api.spotify.com/v1/tracks/7Ar4G7Ci11gpt6sfH9Cgz5
+Mr. Blue Sky,2RlgNHKcydI9sayD2Df2xp,0.652,0.388,303373,0.338,3.72e-06,10,0.248,-10.054,1,0.0328,177.784,0.477,https://api.spotify.com/v1/tracks/2RlgNHKcydI9sayD2Df2xp
+Dancing Queen,2rgqPSIRAfaO2MGo9smdSX,0.177,0.512,231093,0.933,0.00129,9,0.573,-4.343,1,0.0504,100.543,0.71,https://api.spotify.com/v1/tracks/2rgqPSIRAfaO2MGo9smdSX
+Kung Fu Fighting,04XdCMi1WhAjVyRJbAtaq0,0.0424,0.612,196350,0.685,3.74e-05,2,0.151,-9.838,1,0.0656,102.253,0.579,https://api.spotify.com/v1/tracks/04XdCMi1WhAjVyRJbAtaq0
+I Was Made For Lovin' You,3vmjnUm9K6kXyzIxJHU9xG,0.0961,0.775,270013,0.825,4.86e-05,4,0.0776,-6.337,1,0.0396,128.362,0.881,https://api.spotify.com/v1/tracks/3vmjnUm9K6kXyzIxJHU9xG
+More Than a Feeling,1QEEqeFIZktqIpPI4jSVSF,0.000894,0.377,285133,0.682,0.00217,7,0.0504,-8.039,1,0.0299,108.736,0.288,https://api.spotify.com/v1/tracks/1QEEqeFIZktqIpPI4jSVSF
+Piano Man,3FCto7hnn1shUyZL42YgfO,0.6,0.334,336093,0.472,3.77e-06,0,0.317,-8.792,1,0.0277,179.167,0.431,https://api.spotify.com/v1/tracks/3FCto7hnn1shUyZL42YgfO
+Bennie And The Jets - Remastered 2014,3iJxloILmOu2NIRZ0OGyui,0.251,0.666,322549,0.668,5.77e-06,0,0.499,-7.961,1,0.0523,132.666,0.765,https://api.spotify.com/v1/tracks/3iJxloILmOu2NIRZ0OGyui
+Boogie Wonderland,6ztstiyZL6FXzh4aG46ZPD,0.0843,0.802,288293,0.756,0.00765,2,0.0521,-10.791,0,0.0349,131.715,0.963,https://api.spotify.com/v1/tracks/6ztstiyZL6FXzh4aG46ZPD
+Le Freak,28NBmftocOzTPEb6OYA9fW,0.0453,0.867,327573,0.746,0.0,7,0.123,-7.445,1,0.0475,118.616,0.933,https://api.spotify.com/v1/tracks/28NBmftocOzTPEb6OYA9fW
+Carry On Wayward Son,4MC8Oom2D2a7ZPQDpuVIYK,0.000553,0.403,205027,0.648,6.88e-05,9,0.421,-8.1,0,0.0325,126.682,0.904,https://api.spotify.com/v1/tracks/4MC8Oom2D2a7ZPQDpuVIYK
+A Horse with No Name,54eZmuggBFJbV7k248bTTt,0.686,0.654,252240,0.506,0.0155,11,0.155,-17.18,0,0.0535,123.179,0.831,https://api.spotify.com/v1/tracks/54eZmuggBFJbV7k248bTTt
+I'm Every Woman,2M55R2A9IAhLdsCGFj8r8k,0.0145,0.537,213267,0.929,0.000618,5,0.188,-4.957,0,0.0446,114.785,0.717,https://api.spotify.com/v1/tracks/2M55R2A9IAhLdsCGFj8r8k
+Easy,0wtHjEAzLYYyGuk2WtpGwS,0.233,0.575,260893,0.432,0.00135,10,0.0743,-13.642,0,0.0314,132.145,0.348,https://api.spotify.com/v1/tracks/0wtHjEAzLYYyGuk2WtpGwS
+Grease - From “Grease” Original Motion Picture Soundtrack,7DhnBXTRbyW3JRueLlOmLm,0.249,0.805,204347,0.437,0.0,9,0.0903,-8.979,1,0.0458,109.68,0.845,https://api.spotify.com/v1/tracks/7DhnBXTRbyW3JRueLlOmLm
+My Sweet Lord,1chu8wc9zbNqTQ2ahROys1,0.0705,0.537,281227,0.685,0.0,1,0.0839,-8.935,0,0.0333,120.965,0.542,https://api.spotify.com/v1/tracks/1chu8wc9zbNqTQ2ahROys1
+Beast Of Burden - Remastered,0832Tptls5YicHPGgw7ssP,0.413,0.786,265173,0.87,0.000494,1,0.0389,-3.875,0,0.0316,100.66,0.864,https://api.spotify.com/v1/tracks/0832Tptls5YicHPGgw7ssP
+Stuck In The Middle With You - Remastered,4eZw1gC3TAus5bZCKi3l5j,0.119,0.837,201334,0.496,0.357,7,0.115,-11.821,1,0.0402,125.017,0.964,https://api.spotify.com/v1/tracks/4eZw1gC3TAus5bZCKi3l5j
+Take It Easy - Eagles 2013 Remaster,4yugZvBYaoREkJKtbG08Qr,0.343,0.575,211578,0.67,4.95e-06,7,0.129,-10.39,1,0.0318,139.191,0.74,https://api.spotify.com/v1/tracks/4yugZvBYaoREkJKtbG08Qr
+Blinded By The Light (Single edit),6jkNs6ZRiLjIk87MWmSGWu,0.524,0.594,229000,0.561,0.00222,5,0.0724,-11.666,1,0.0603,140.286,0.617,https://api.spotify.com/v1/tracks/6jkNs6ZRiLjIk87MWmSGWu
+Stairway To Heaven,51pQ7vY7WXzxskwloaeqyj,0.575,0.346,478173,0.335,0.00674,7,0.185,-12.453,1,0.0339,84.204,0.213,https://api.spotify.com/v1/tracks/51pQ7vY7WXzxskwloaeqyj
+You're So Vain,2DnJjbjNTV9Nd5NOa1KGba,0.157,0.659,258411,0.678,6.69e-06,0,0.0784,-8.18,1,0.0313,106.186,0.647,https://api.spotify.com/v1/tracks/2DnJjbjNTV9Nd5NOa1KGba
+Here Comes The Sun - Live In Japan/1991/Remastered 2004,4gdhsYfXJoVQsWpbmh32Da,0.425,0.611,211320,0.566,0.000954,9,0.878,-11.715,1,0.0295,125.24,0.639,https://api.spotify.com/v1/tracks/4gdhsYfXJoVQsWpbmh32Da
+Let Your Love Flow,064SVQsmWl5EF0zahmzkQk,0.0611,0.679,198760,0.553,7.16e-06,3,0.139,-14.687,1,0.0316,109.071,0.946,https://api.spotify.com/v1/tracks/064SVQsmWl5EF0zahmzkQk
+Don't Stop 'Til You Get Enough - Single Version,46eu3SBuFCXWsPT39Yg3tJ,0.126,0.878,365467,0.821,0.0461,11,0.183,-9.875,1,0.089,118.881,0.947,https://api.spotify.com/v1/tracks/46eu3SBuFCXWsPT39Yg3tJ
+Imagine - Remastered 2010,7pKfPomDEeI4TPT6EOYjn9,0.907,0.547,187867,0.257,0.183,0,0.0935,-12.358,1,0.0252,75.752,0.169,https://api.spotify.com/v1/tracks/7pKfPomDEeI4TPT6EOYjn9
+T.N.T.,7LRMbd3LEoV5wZJvXT1Lwb,0.153,0.754,214667,0.759,0.000114,9,0.101,-5.218,1,0.302,126.367,0.435,https://api.spotify.com/v1/tracks/7LRMbd3LEoV5wZJvXT1Lwb
+Starman - 2012 Remastered Version,0pQskrTITgmCMyr85tb9qq,0.166,0.486,254293,0.45,2.06e-06,5,0.54,-10.298,1,0.0267,100.456,0.55,https://api.spotify.com/v1/tracks/0pQskrTITgmCMyr85tb9qq
+Message In A Bottle - Remastered 2003,3bN4tg6rnNPy9GCkGhym4T,0.0338,0.577,290280,0.808,1.33e-05,1,0.221,-7.04,0,0.039,151.008,0.869,https://api.spotify.com/v1/tracks/3bN4tg6rnNPy9GCkGhym4T
+Give A Little Bit,1XDgeeNIbwXobo7EkcLa2u,0.0637,0.533,248173,0.822,0.00795,2,0.259,-5.419,1,0.0474,91.353,0.463,https://api.spotify.com/v1/tracks/1XDgeeNIbwXobo7EkcLa2u
+Miss You - Remastered,5pTWpY8l7B1XcQnijEFGFj,0.426,0.796,288667,0.711,0.00381,9,0.364,-4.755,0,0.0427,109.673,0.828,https://api.spotify.com/v1/tracks/5pTWpY8l7B1XcQnijEFGFj
+Hot Stuff,594FzPlCmqygQMoZAkGegM,0.00559,0.823,314760,0.743,0.0306,0,0.0707,-13.98,1,0.0316,120.471,0.966,https://api.spotify.com/v1/tracks/594FzPlCmqygQMoZAkGegM
+The Boys Are Back In Town,4QEbXYWpDDWHzXNINdZlzW,0.252,0.36,263827,0.851,3.77e-06,8,0.0802,-5.542,1,0.0838,79.39,0.683,https://api.spotify.com/v1/tracks/4QEbXYWpDDWHzXNINdZlzW
+Black Magic Woman,4nmne9J3YCEdhvjTzwiAgu,0.679,0.497,195867,0.552,0.0314,9,0.089,-7.102,0,0.0307,124.359,0.633,https://api.spotify.com/v1/tracks/4nmne9J3YCEdhvjTzwiAgu
+American Pie,2QgWuCtBpNIpl5trmKCxRf,0.6,0.527,515867,0.509,0.0,7,0.144,-10.893,1,0.0628,138.317,0.497,https://api.spotify.com/v1/tracks/2QgWuCtBpNIpl5trmKCxRf
+Cocaine,2udGjDmpK1dH9VGyw7nrei,0.0607,0.699,221640,0.502,0.0337,9,0.317,-12.526,1,0.0278,105.266,0.676,https://api.spotify.com/v1/tracks/2udGjDmpK1dH9VGyw7nrei
+It Never Rains in Southern California,31lIi6XeU7bKkfZXFFpvcD,0.0388,0.621,230453,0.572,0.0,9,0.0873,-9.979,1,0.0267,116.391,0.915,https://api.spotify.com/v1/tracks/31lIi6XeU7bKkfZXFFpvcD
+Stayin' Alive - 2007 Remastered Version Saturday Night Fever,5cP52DlDN9yryuZVQDg3iq,0.0291,0.704,285373,0.834,0.00492,10,0.147,-7.131,0,0.0358,103.555,0.923,https://api.spotify.com/v1/tracks/5cP52DlDN9yryuZVQDg3iq
+Come and Get Your Love,23hrvdvkIi1X1voQG2bJH9,0.118,0.648,300667,0.741,0.000802,2,0.0645,-8.568,1,0.0658,105.794,0.829,https://api.spotify.com/v1/tracks/23hrvdvkIi1X1voQG2bJH9
+Ziggy Stardust - 2012 Remastered Version,5IyL3XOaRPpTgxVjRIAxXU,0.048,0.44,194440,0.565,0.0,7,0.213,-11.657,1,0.121,161.124,0.495,https://api.spotify.com/v1/tracks/5IyL3XOaRPpTgxVjRIAxXU
+YMCA - Original Version 1978,54OR1VDpfkBuOY5zZjhZAY,0.0643,0.723,286800,0.969,0.0,6,0.115,-4.516,1,0.142,126.653,0.728,https://api.spotify.com/v1/tracks/54OR1VDpfkBuOY5zZjhZAY
+Lean on Me,3M8FzayQWtkvOhqMn2V4T2,0.782,0.619,258835,0.22,1.19e-05,0,0.124,-13.843,1,0.0667,75.16,0.423,https://api.spotify.com/v1/tracks/3M8FzayQWtkvOhqMn2V4T2
+Life On Mars? - 2015 Remastered Version,3ZE3wv8V3w2T2f7nOCjV0N,0.639,0.442,235987,0.384,7.7e-05,10,0.0539,-14.635,1,0.0414,123.281,0.216,https://api.spotify.com/v1/tracks/3ZE3wv8V3w2T2f7nOCjV0N
+Layla,7ulkhAxc7qtCxlJA8ZMXBm,0.481,0.404,426173,0.754,0.489,1,0.318,-10.31,1,0.0556,115.536,0.446,https://api.spotify.com/v1/tracks/7ulkhAxc7qtCxlJA8ZMXBm
+Maybe I’m Amazed - Remastered 2011,42dQmgOPH74StNUDD1hgYf,0.387,0.471,229827,0.494,0.0944,7,0.617,-10.407,1,0.0312,79.255,0.373,https://api.spotify.com/v1/tracks/42dQmgOPH74StNUDD1hgYf
+Saturday Night’s Alright (For Fighting) - Remastered 2014,1YTLK2GZMai3LjDwzDL9OD,0.0195,0.513,295466,0.979,0.0951,0,0.0906,-6.362,1,0.0425,152.875,0.94,https://api.spotify.com/v1/tracks/1YTLK2GZMai3LjDwzDL9OD
+"If I Can't Have You - From ""Saturday Night Fever""",7C29GgUdLYoPFt7gY52aT6,0.108,0.599,177213,0.807,0.0,8,0.348,-6.971,0,0.0412,109.497,0.846,https://api.spotify.com/v1/tracks/7C29GgUdLYoPFt7gY52aT6
+Sunny,3pf96IFggfQuT6Gafqx2rt,0.0876,0.647,242240,0.868,0.124,0,0.129,-6.427,0,0.105,121.822,0.803,https://api.spotify.com/v1/tracks/3pf96IFggfQuT6Gafqx2rt
+The Passenger,3yP0cohcr97BUNJcgvmSVg,0.0797,0.5,284067,0.846,0.0,0,0.241,-8.098,1,0.0457,134.937,0.738,https://api.spotify.com/v1/tracks/3yP0cohcr97BUNJcgvmSVg
+"Rocket Man (I Think It's Going To Be A Long, Long Time)",3gdewACMIVMEWVbyb8O9sY,0.386,0.602,281613,0.522,1.44e-05,10,0.0941,-9.031,1,0.0285,136.637,0.36,https://api.spotify.com/v1/tracks/3gdewACMIVMEWVbyb8O9sY
+Band On The Run - Remastered 2010,40b31eggZB30hoqXhGm4qc,0.0832,0.479,313027,0.601,0.00142,7,0.11,-8.806,1,0.0318,124.966,0.669,https://api.spotify.com/v1/tracks/40b31eggZB30hoqXhGm4qc
+Young Americans - 2016 Remastered Version,7uPmQttafLiJyju14JREY4,0.171,0.614,313707,0.763,0.0,4,0.119,-8.949,0,0.133,84.236,0.885,https://api.spotify.com/v1/tracks/7uPmQttafLiJyju14JREY4
+You Make Me Feel Like Dancing - Remastered,6gTrbqZnyljwXdYQTyBkSx,0.0848,0.728,219467,0.718,0.0,8,0.0579,-5.281,0,0.0501,95.922,0.733,https://api.spotify.com/v1/tracks/6gTrbqZnyljwXdYQTyBkSx
+Don't Go Breaking My Heart,7HW5WIw7ZgZORCzUxv5gW5,0.177,0.728,275440,0.824,1.48e-06,5,0.06,-8.632,1,0.0353,131.468,0.787,https://api.spotify.com/v1/tracks/7HW5WIw7ZgZORCzUxv5gW5
+Maggie May,2LpirOWiA4eslLRuPpQT7V,0.559,0.605,350267,0.574,0.113,2,0.0684,-10.536,1,0.0377,129.449,0.543,https://api.spotify.com/v1/tracks/2LpirOWiA4eslLRuPpQT7V
+"Can't Get Enough Of Your Love, Babe",3ky8x7UQb6XGpD8CC4xAnu,0.202,0.74,270333,0.605,0.000107,5,0.0515,-10.924,1,0.0539,111.78,0.779,https://api.spotify.com/v1/tracks/3ky8x7UQb6XGpD8CC4xAnu
+Dreadlock Holiday,5AW06u82yN9agtQlINqny5,0.435,0.837,267747,0.407,0.000487,7,0.174,-12.416,0,0.0563,105.013,0.922,https://api.spotify.com/v1/tracks/5AW06u82yN9agtQlINqny5
+Take The Long Way Home - 2010 Remastered,3gaARvSWxkkbkjtTrmkVZH,0.22,0.414,308853,0.7,0.000721,5,0.114,-8.838,1,0.0301,76.79,0.37,https://api.spotify.com/v1/tracks/3gaARvSWxkkbkjtTrmkVZH
+What's Going On,7av4raprzW2bWdjyAaH3hz,0.105,0.245,231271,0.833,0.0,1,0.359,-5.555,0,0.116,205.375,0.805,https://api.spotify.com/v1/tracks/7av4raprzW2bWdjyAaH3hz
+Strawberry Letter 23,3OyeekIqkuPX9ulGxwVcgl,0.297,0.722,298794,0.787,0.00706,7,0.146,-7.333,0,0.0508,90.839,0.708,https://api.spotify.com/v1/tracks/3OyeekIqkuPX9ulGxwVcgl
+"You're The First, The Last, My Everything",2shH36IytTvWBMMQi1KhNL,0.000679,0.633,206936,0.542,0.00434,5,0.0754,-12.318,1,0.0316,130.314,0.879,https://api.spotify.com/v1/tracks/2shH36IytTvWBMMQi1KhNL
+Don't Stop,4SXU3lUZ1eb4JWWbkQw43Y,0.0398,0.686,192133,0.632,2.2e-06,9,0.0686,-11.433,1,0.0353,118.965,0.88,https://api.spotify.com/v1/tracks/4SXU3lUZ1eb4JWWbkQw43Y
+Jolene,5fdhThPDe6jQQDqCyWrdAn,0.566,0.674,161533,0.537,0.0,1,0.131,-10.971,0,0.0363,110.578,0.809,https://api.spotify.com/v1/tracks/5fdhThPDe6jQQDqCyWrdAn
+My Sharona,6Si2MnpY1J6ucO6TTzflIG,0.0393,0.58,293840,0.732,0.00116,0,0.0821,-8.585,1,0.0358,147.194,0.883,https://api.spotify.com/v1/tracks/6Si2MnpY1J6ucO6TTzflIG
+(Don't Fear) The Reaper,5oI1A8G8jH5rxt35dPiHIB,0.00125,0.368,308440,0.928,0.00111,9,0.301,-8.369,0,0.0593,141.175,0.532,https://api.spotify.com/v1/tracks/5oI1A8G8jH5rxt35dPiHIB
