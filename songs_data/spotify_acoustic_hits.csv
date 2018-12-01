@@ -1,0 +1,101 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Perfect Duet (Ed Sheeran & Beyoncé),1bhUWB0zJMIKr9yVPrkEuI,0.779,0.587,259550,0.299,0.0,8,0.123,-7.365,1,0.0263,94.992,0.356,https://api.spotify.com/v1/tracks/1bhUWB0zJMIKr9yVPrkEuI
+Can’t Help Falling in Love,7uuEfUMuPeQ7RlSWa0cES2,0.905,0.266,201933,0.0596,7.07e-05,0,0.132,-18.515,1,0.0363,181.74,0.143,https://api.spotify.com/v1/tracks/7uuEfUMuPeQ7RlSWa0cES2
+Shallow,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733,0.385,0.0,7,0.231,-6.362,1,0.0308,95.799,0.323,https://api.spotify.com/v1/tracks/2VxeLyX666F8uXCJ0dZF8B
+Shrike,5uIYONgpUQ7t0v7D6CTMBt,0.464,0.387,300707,0.278,0.00527,7,0.102,-8.454,0,0.0318,153.426,0.0632,https://api.spotify.com/v1/tracks/5uIYONgpUQ7t0v7D6CTMBt
+Ophelia,3qhobDAfBcVoOWZP8Ck8R2,0.613,0.664,160097,0.573,0.000363,5,0.0857,-6.519,1,0.0277,76.023,0.566,https://api.spotify.com/v1/tracks/3qhobDAfBcVoOWZP8Ck8R2
+Beyond,5esPpmrM2AsyDVgOKzWQwU,0.229,0.58,240600,0.687,0.0,6,0.109,-5.4,1,0.106,76.014,0.187,https://api.spotify.com/v1/tracks/5esPpmrM2AsyDVgOKzWQwU
+Latch - Acoustic,44jGrgXzD1p1jCLTHrveg8,0.977,0.389,221050,0.294,0.00393,8,0.107,-5.429,1,0.0277,88.636,0.243,https://api.spotify.com/v1/tracks/44jGrgXzD1p1jCLTHrveg8
+Big Jet Plane,5Z1U0knfYnsfvZycgDeOiC,0.239,0.763,239147,0.387,0.00747,10,0.13,-8.643,0,0.0278,109.957,0.273,https://api.spotify.com/v1/tracks/5Z1U0knfYnsfvZycgDeOiC
+When You Love Someone - Acoustic,6668ZaUUXqZ25Tb0DMr2HO,0.803,0.711,210107,0.299,0.0,7,0.116,-8.286,1,0.0394,125.068,0.577,https://api.spotify.com/v1/tracks/6668ZaUUXqZ25Tb0DMr2HO
+Slow Dancing in a Burning Room - Acoustic,3PSMcb1gU5A8DveqU2K4z2,0.835,0.611,232707,0.313,0.000315,4,0.111,-10.242,1,0.0339,134.858,0.378,https://api.spotify.com/v1/tracks/3PSMcb1gU5A8DveqU2K4z2
+Georgia,429EttO8gs0bDo2SQfUNSm,0.312,0.388,230507,0.66,0.000307,11,0.0943,-7.372,1,0.0308,143.554,0.401,https://api.spotify.com/v1/tracks/429EttO8gs0bDo2SQfUNSm
+Send My Love (To Your New Lover),4BHzQ9C00ceJxfG16AlNWb,0.0415,0.69,223080,0.524,3.16e-06,6,0.17,-8.39,0,0.103,164.023,0.562,https://api.spotify.com/v1/tracks/4BHzQ9C00ceJxfG16AlNWb
+Wild Love - Acoustic,4zDQS1OCghoOKkjw6hf2qT,0.856,0.507,189147,0.408,0.0,11,0.102,-7.652,0,0.0396,140.038,0.53,https://api.spotify.com/v1/tracks/4zDQS1OCghoOKkjw6hf2qT
+Foreign Hands,7fDkkwlp02iHGzKlG2gZr8,0.365,0.684,258651,0.543,2.07e-06,3,0.113,-5.579,0,0.0281,140.996,0.361,https://api.spotify.com/v1/tracks/7fDkkwlp02iHGzKlG2gZr8
+Smoke Filled Room - Acoustic Session,0ncp94ULTBgS0U3GZD80AC,0.573,0.735,189660,0.43,0.0,9,0.111,-9.532,1,0.0349,129.942,0.522,https://api.spotify.com/v1/tracks/0ncp94ULTBgS0U3GZD80AC
+Wild Horses - Acoustic,03HbxaCm8eBHLxbfdRRQ2e,0.634,0.719,188907,0.27,0.0,8,0.111,-10.534,1,0.0349,129.965,0.299,https://api.spotify.com/v1/tracks/03HbxaCm8eBHLxbfdRRQ2e
+September Song - Guitar Acoustic,4LTOzL6JsnQBifmpsbo9a5,0.359,0.41,212153,0.428,0.0,0,0.138,-7.927,0,0.0329,88.361,0.526,https://api.spotify.com/v1/tracks/4LTOzL6JsnQBifmpsbo9a5
+Lost On You,5hn1VvnTKDUne8wGB4UfXB,0.918,0.563,195579,0.261,0.0,10,0.0982,-9.251,1,0.0709,125.129,0.411,https://api.spotify.com/v1/tracks/5hn1VvnTKDUne8wGB4UfXB
+Hold My Girl,1kjrgWG47wJgVqvQOvyb7C,0.597,0.614,211764,0.527,0.0,10,0.11,-6.374,1,0.0302,121.941,0.354,https://api.spotify.com/v1/tracks/1kjrgWG47wJgVqvQOvyb7C
+Castle on the Hill - Acoustic,5X6TnKT37TaSDkFm0598Uo,0.518,0.563,226227,0.26,0.0,2,0.146,-5.856,1,0.0391,145.561,0.616,https://api.spotify.com/v1/tracks/5X6TnKT37TaSDkFm0598Uo
+After Rain,3XzLC1TU451F0nPiJitk49,0.505,0.48,294000,0.418,0.00416,11,0.11,-9.622,0,0.0312,132.404,0.319,https://api.spotify.com/v1/tracks/3XzLC1TU451F0nPiJitk49
+Such A Simple Thing,4PuUa8e5s7P3Zv1IdCGIsa,0.86,0.522,296387,0.256,0.000825,10,0.142,-11.216,1,0.0258,76.35,0.13,https://api.spotify.com/v1/tracks/4PuUa8e5s7P3Zv1IdCGIsa
+You Sigh,7hMKqhlMqxF7ULZiUMN5AH,0.852,0.629,178827,0.451,0.06,6,0.141,-9.974,1,0.0284,90.965,0.681,https://api.spotify.com/v1/tracks/7hMKqhlMqxF7ULZiUMN5AH
+Chemicals - Acoustic,6VwJchlkgjGbjU1SMyvwBN,0.942,0.59,234776,0.233,7.63e-05,6,0.11,-10.962,1,0.043,78.178,0.597,https://api.spotify.com/v1/tracks/6VwJchlkgjGbjU1SMyvwBN
+Morning Breeze,7iM7I3dbNQGC5xkxJMWwrv,0.585,0.636,194067,0.383,2.24e-06,11,0.122,-9.381,1,0.0434,72.871,0.213,https://api.spotify.com/v1/tracks/7iM7I3dbNQGC5xkxJMWwrv
+Happier - Acoustic,5weKCP07IGA1565wfI3cZ1,0.0425,0.493,206209,0.4,1.47e-06,0,0.133,-8.117,1,0.0261,91.004,0.15,https://api.spotify.com/v1/tracks/5weKCP07IGA1565wfI3cZ1
+Melt (Acoustic Version),6W83GER4shtT9lpkYzEYeq,0.897,0.522,221492,0.241,4.98e-06,5,0.11,-8.966,0,0.0343,133.644,0.345,https://api.spotify.com/v1/tracks/6W83GER4shtT9lpkYzEYeq
+My Arms Were Always Around You,53iFMaNUXn6Oj8hUIKSO5a,0.724,0.643,200800,0.436,0.459,1,0.11,-12.245,1,0.0273,91.485,0.422,https://api.spotify.com/v1/tracks/53iFMaNUXn6Oj8hUIKSO5a
+Lay It On Me - Acoustic,0ikmhbH2wPx0iFayhraSWp,0.768,0.483,201561,0.49,1.2e-06,5,0.112,-4.736,1,0.0318,137.606,0.43,https://api.spotify.com/v1/tracks/0ikmhbH2wPx0iFayhraSWp
+Little Boy,19LehejAStoSf4Hj3Tim1M,0.401,0.659,233448,0.608,6.7e-06,11,0.117,-8.566,1,0.0325,113.952,0.393,https://api.spotify.com/v1/tracks/19LehejAStoSf4Hj3Tim1M
+Never in My Wildest Dreams,3MJov5mT64K42o1Rffhblq,0.315,0.559,176027,0.466,0.0039,5,0.0933,-6.769,1,0.0362,117.21,0.623,https://api.spotify.com/v1/tracks/3MJov5mT64K42o1Rffhblq
+New Rules - Acoustic,4X283dKwcjIqJiOCV1dMBJ,0.601,0.826,213436,0.345,0.0,9,0.121,-6.018,0,0.0372,116.072,0.508,https://api.spotify.com/v1/tracks/4X283dKwcjIqJiOCV1dMBJ
+hate u love u,6ATgDc6e4sPn84hvJsAmPt,0.71,0.401,175467,0.398,0.0,6,0.0962,-8.993,0,0.183,180.293,0.265,https://api.spotify.com/v1/tracks/6ATgDc6e4sPn84hvJsAmPt
+Dream - Acoustic,67l1tytshju3Ily8uIAVKH,0.75,0.7,198693,0.281,0.0,9,0.102,-6.576,0,0.0356,74.998,0.385,https://api.spotify.com/v1/tracks/67l1tytshju3Ily8uIAVKH
+Only Love,2uhEKg8kIzpdvz4gyy6x8W,0.3,0.545,249173,0.485,0.00137,8,0.119,-9.941,1,0.151,80.401,0.341,https://api.spotify.com/v1/tracks/2uhEKg8kIzpdvz4gyy6x8W
+"Take Me To Church - Live From Spotify, London",61IautUH8F8UWJ0kxF9pJc,0.841,0.624,246500,0.214,0.0,2,0.701,-9.471,0,0.0457,125.149,0.3,https://api.spotify.com/v1/tracks/61IautUH8F8UWJ0kxF9pJc
+For Now,0c99BUd87HQfzgUUQqRyds,0.926,0.397,198404,0.249,0.0,5,0.115,-10.484,1,0.0394,79.614,0.329,https://api.spotify.com/v1/tracks/0c99BUd87HQfzgUUQqRyds
+Cherry Wine - Live,0bZ52QzCCKfrfOqs7za6lI,0.951,0.415,240147,0.11,0.00236,1,0.0962,-14.901,1,0.0388,81.876,0.234,https://api.spotify.com/v1/tracks/0bZ52QzCCKfrfOqs7za6lI
+Honest,0WIzzUh0vzPHk58d3e8sXJ,0.662,0.41,168480,0.44,0.0014,10,0.0663,-8.616,1,0.0307,98.097,0.304,https://api.spotify.com/v1/tracks/0WIzzUh0vzPHk58d3e8sXJ
+Honey,2sksCUIpcWYO5imUxTonvd,0.785,0.612,213061,0.365,0.000967,3,0.111,-9.973,1,0.0281,97.929,0.171,https://api.spotify.com/v1/tracks/2sksCUIpcWYO5imUxTonvd
+The Woods - Acoustic,6uaIMhUZXMuT2Zz0vxrFiR,0.722,0.571,239960,0.558,0.000331,9,0.116,-8.553,1,0.0281,104.991,0.283,https://api.spotify.com/v1/tracks/6uaIMhUZXMuT2Zz0vxrFiR
+Waves - Acoustic,6GL1MiIvlrAm3hTvHzQJLl,0.947,0.483,248176,0.199,0.0,2,0.109,-11.37,1,0.0586,78.103,0.16,https://api.spotify.com/v1/tracks/6GL1MiIvlrAm3hTvHzQJLl
+Tee Shirt,3C5in0EVdoGepp5bA6lhlE,0.837,0.684,159507,0.341,2.69e-05,9,0.0883,-9.497,1,0.0272,75.948,0.557,https://api.spotify.com/v1/tracks/3C5in0EVdoGepp5bA6lhlE
+Hell Or High Water,54Sfi5x76ITYShTrjBnJkW,0.00182,0.338,220468,0.721,2.03e-05,4,0.349,-5.735,0,0.0587,80.774,0.381,https://api.spotify.com/v1/tracks/54Sfi5x76ITYShTrjBnJkW
+Paper Thin - Live From Studio,55PULldftedylAcvuJoEPb,0.896,0.455,196073,0.113,0.0,1,0.0978,-12.887,1,0.0466,176.131,0.373,https://api.spotify.com/v1/tracks/55PULldftedylAcvuJoEPb
+Moving Mountains,27bWSKIcEj1JyhHi6emu4j,0.904,0.592,253400,0.206,6.09e-05,0,0.121,-12.026,0,0.0274,93.934,0.198,https://api.spotify.com/v1/tracks/27bWSKIcEj1JyhHi6emu4j
+Another Way,0BfPVt9Rgngm70OTpy1TPE,0.0579,0.587,251324,0.608,0.022,5,0.131,-11.588,1,0.0308,94.479,0.565,https://api.spotify.com/v1/tracks/0BfPVt9Rgngm70OTpy1TPE
+Concrete Jungle - Acoustic,4yxL6eoSsZ04lN0VezKgcr,0.761,0.589,160345,0.467,0.0,6,0.0847,-8.179,1,0.031,165.908,0.571,https://api.spotify.com/v1/tracks/4yxL6eoSsZ04lN0VezKgcr
+Where's My Love,3XRDrBtoCJAMDQJgSzJ9WT,0.853,0.598,202107,0.343,0.0219,0,0.123,-11.04,0,0.025,103.984,0.419,https://api.spotify.com/v1/tracks/3XRDrBtoCJAMDQJgSzJ9WT
+Adore - Piano Unplugged,5FkvhzOAw3WzWNNc1Tr9nJ,0.739,0.571,197574,0.313,0.0,0,0.113,-9.833,1,0.0657,64.531,0.163,https://api.spotify.com/v1/tracks/5FkvhzOAw3WzWNNc1Tr9nJ
+Hollow (Acoustic),1GIBQJItFW5tFPrilr6M6o,0.822,0.499,236618,0.229,4.59e-06,11,0.0914,-9.642,1,0.0361,178.461,0.239,https://api.spotify.com/v1/tracks/1GIBQJItFW5tFPrilr6M6o
+Jungle,4QEaE0Yj9oCvCzehPlZ1On,0.269,0.59,315599,0.697,9.86e-05,1,0.0881,-5.877,0,0.0291,146.059,0.497,https://api.spotify.com/v1/tracks/4QEaE0Yj9oCvCzehPlZ1On
+Elastic Heart - Live from The Village,0wHRZwbNWH2TcSBIhyMT1i,0.887,0.409,266720,0.375,0.0,9,0.125,-6.195,1,0.0336,128.912,0.209,https://api.spotify.com/v1/tracks/0wHRZwbNWH2TcSBIhyMT1i
+Most Girls - Acoustic,6MH1oRsRfQc2ZCco3ic7Mx,0.482,0.665,200880,0.274,0.0,9,0.118,-8.915,1,0.147,103.013,0.686,https://api.spotify.com/v1/tracks/6MH1oRsRfQc2ZCco3ic7Mx
+Sleep On The Floor,6KprCGVC5o2Ibj2wCtaxEV,0.298,0.391,211851,0.442,0.0,0,0.13,-8.076,1,0.0347,142.56,0.246,https://api.spotify.com/v1/tracks/6KprCGVC5o2Ibj2wCtaxEV
+little light - acoustic version,6PRotAx0lUWP0bHBr6jm42,0.685,0.67,256415,0.294,0.0,7,0.147,-8.114,1,0.0341,119.856,0.515,https://api.spotify.com/v1/tracks/6PRotAx0lUWP0bHBr6jm42
+I Will Spend My Whole Life Loving You,77enz5hl8RicxrbPB56VXQ,0.887,0.637,227619,0.129,0.0,11,0.0719,-17.082,1,0.0346,125.802,0.298,https://api.spotify.com/v1/tracks/77enz5hl8RicxrbPB56VXQ
+Best Days - Acoustic,38sCPCcv3QjWl0NslC5KtW,0.919,0.655,179064,0.127,0.0,5,0.105,-11.036,1,0.0467,150.407,0.436,https://api.spotify.com/v1/tracks/38sCPCcv3QjWl0NslC5KtW
+Love on the Weekend,0j2WBxWZnWti5TpSxjJvPb,0.547,0.729,212627,0.546,0.00287,7,0.0651,-9.305,1,0.0285,119.941,0.406,https://api.spotify.com/v1/tracks/0j2WBxWZnWti5TpSxjJvPb
+Acoustic,5kh7BbzXPgooAU9MB9L7yw,0.785,0.88,172199,0.245,3.19e-05,9,0.0979,-10.245,1,0.446,76.006,0.638,https://api.spotify.com/v1/tracks/5kh7BbzXPgooAU9MB9L7yw
+Catie Rae,4Vbz3VLZ4cbSK4zYuHCjBk,0.709,0.344,132453,0.46,0.0,10,0.117,-9.399,1,0.0319,84.469,0.528,https://api.spotify.com/v1/tracks/4Vbz3VLZ4cbSK4zYuHCjBk
+Issues - Acoustic,4TqiKcUUvK7y6x6JG5NpJX,0.741,0.684,175280,0.342,0.0,8,0.0729,-6.09,1,0.055,114.076,0.632,https://api.spotify.com/v1/tracks/4TqiKcUUvK7y6x6JG5NpJX
+Shape of You - Acoustic,5ULRlgiSPSKTaJN1vU9yso,0.49,0.843,223573,0.4,0.0,8,0.125,-5.576,0,0.103,100.728,0.927,https://api.spotify.com/v1/tracks/5ULRlgiSPSKTaJN1vU9yso
+All I Want,2PwXOevGUSkU8qaYZjgLq2,0.172,0.209,305747,0.412,0.15,0,0.0843,-9.733,1,0.0443,86.26,0.162,https://api.spotify.com/v1/tracks/2PwXOevGUSkU8qaYZjgLq2
+Boston,2mxzc5jMl7oxIXz9Einq54,0.191,0.556,273667,0.448,0.00116,4,0.383,-10.921,1,0.0387,116.292,0.125,https://api.spotify.com/v1/tracks/2mxzc5jMl7oxIXz9Einq54
+"Girl Crush - Recorded at Metropolis Studios, London",4YutJsNwBBInE8vemufpQ8,0.658,0.468,243805,0.197,0.0,4,0.109,-11.727,1,0.033,144.212,0.249,https://api.spotify.com/v1/tracks/4YutJsNwBBInE8vemufpQ8
+Save My Life - Radio Edit,2s5QYW4Ls3GsxWKhEKGraJ,0.778,0.583,217973,0.235,0.0,6,0.187,-10.121,1,0.0287,137.829,0.368,https://api.spotify.com/v1/tracks/2s5QYW4Ls3GsxWKhEKGraJ
+No Place In Mind,6BYb8RVAVC8bAOx6H74CtK,0.722,0.335,284038,0.443,3.78e-05,4,0.0921,-9.565,1,0.0382,169.135,0.184,https://api.spotify.com/v1/tracks/6BYb8RVAVC8bAOx6H74CtK
+Tell Me - Acoustic,0an8pwAsISvMA9ZIbAmeW7,0.72,0.632,200864,0.293,5.63e-06,0,0.326,-12.507,0,0.0284,103.869,0.586,https://api.spotify.com/v1/tracks/0an8pwAsISvMA9ZIbAmeW7
+Let It Go - James Bay Spotify Session 2015,4tYokojnBEp5pBWO7wTRPA,0.879,0.5,285867,0.213,7.37e-06,1,0.721,-9.095,1,0.0462,140.053,0.37,https://api.spotify.com/v1/tracks/4tYokojnBEp5pBWO7wTRPA
+Cringe - Stripped,6TpowNTagUJ7f8ctFFCVN8,0.896,0.539,219151,0.263,0.0,5,0.104,-11.149,1,0.0552,119.671,0.222,https://api.spotify.com/v1/tracks/6TpowNTagUJ7f8ctFFCVN8
+Can't See Straight - Acoustic,68xnGmup4wL7Ie4vhy5SOs,0.712,0.811,188058,0.38,0.0,9,0.309,-6.235,1,0.0406,98.04,0.647,https://api.spotify.com/v1/tracks/68xnGmup4wL7Ie4vhy5SOs
+Young Blood - Acoustic,6QPqf4WqwZkxM68bGipzvP,0.821,0.701,200613,0.234,0.0,11,0.102,-10.441,1,0.0443,84.995,0.298,https://api.spotify.com/v1/tracks/6QPqf4WqwZkxM68bGipzvP
+Better,2cJS4uSqiNCeH4CgOt9LNA,0.581,0.597,201251,0.425,0.0,2,0.1,-5.513,1,0.0295,119.998,0.309,https://api.spotify.com/v1/tracks/2cJS4uSqiNCeH4CgOt9LNA
+Don't Be A Fool - MTV Unplugged,5532g399TI8rHJUk84XWRD,0.752,0.307,337840,0.353,0.0,11,0.163,-9.965,0,0.0462,174.927,0.199,https://api.spotify.com/v1/tracks/5532g399TI8rHJUk84XWRD
+The Other (Stripped),6xwuCb6zjLz6S8of1HTxpz,0.816,0.376,182000,0.371,0.0,7,0.337,-6.58,1,0.0365,90.514,0.395,https://api.spotify.com/v1/tracks/6xwuCb6zjLz6S8of1HTxpz
+Love Me Like I'm Gone.,31LfED0sULRSPZ7Ru8Cu96,0.85,0.457,172480,0.441,3.64e-05,2,0.115,-9.866,1,0.0286,171.758,0.654,https://api.spotify.com/v1/tracks/31LfED0sULRSPZ7Ru8Cu96
+Call You Home,5AHJXStapl97kWsHY6rozI,0.303,0.643,171613,0.46,7.61e-05,4,0.115,-6.963,1,0.0272,90.011,0.657,https://api.spotify.com/v1/tracks/5AHJXStapl97kWsHY6rozI
+Anaheim,0JhILyKbyQnhAo6FHSSIRA,0.663,0.485,258000,0.307,4.13e-05,1,0.123,-13.129,1,0.0565,80.171,0.132,https://api.spotify.com/v1/tracks/0JhILyKbyQnhAo6FHSSIRA
+"For Me, For Her, For You",468z8HtyEOGV9RY9tl3ax0,0.86,0.573,243629,0.206,1.03e-05,5,0.114,-10.707,1,0.0314,123.752,0.222,https://api.spotify.com/v1/tracks/468z8HtyEOGV9RY9tl3ax0
+Yellow Bird,46vJQ8zGlk5ROgQAS7FggF,0.683,0.485,222842,0.353,0.396,6,0.106,-11.212,0,0.0296,114.064,0.0706,https://api.spotify.com/v1/tracks/46vJQ8zGlk5ROgQAS7FggF
+Make Me (Cry) - Acoustic Version,6pP5RJbBH6eKR8BCYX3MSU,0.886,0.604,232907,0.261,0.0,0,0.142,-7.736,1,0.0598,77.245,0.361,https://api.spotify.com/v1/tracks/6pP5RJbBH6eKR8BCYX3MSU
+Louise,0fdYaOG3Dp8t6fhW5Cel84,0.761,0.467,244867,0.324,5.73e-06,1,0.122,-11.487,1,0.0309,100.89,0.445,https://api.spotify.com/v1/tracks/0fdYaOG3Dp8t6fhW5Cel84
+Magnetised - Acoustic,5baXzOMmD0sf26hayRqfqI,0.952,0.487,292187,0.0746,0.0,10,0.108,-12.952,0,0.0327,106.328,0.123,https://api.spotify.com/v1/tracks/5baXzOMmD0sf26hayRqfqI
+California Numb - Acoustic,3MKcaz7j0far7FN9EVhlwx,0.889,0.73,201839,0.286,0.000122,10,0.173,-8.277,0,0.0545,83.98,0.446,https://api.spotify.com/v1/tracks/3MKcaz7j0far7FN9EVhlwx
+Ghost - Live From Spotify NYC,2ndJQ968H7uRS2rrYdEaQ3,0.635,0.393,160400,0.553,0.0,0,0.676,-6.719,1,0.22,187.673,0.164,https://api.spotify.com/v1/tracks/2ndJQ968H7uRS2rrYdEaQ3
+On the Run,0H1iykZgTGLQ7UzqTakG7k,0.387,0.411,206638,0.512,0.0,9,0.0676,-7.491,1,0.027,83.399,0.0544,https://api.spotify.com/v1/tracks/0H1iykZgTGLQ7UzqTakG7k
+Rather Be with You - Acoustic,7fS708BKUj1zNyejmuZxDb,0.817,0.579,199705,0.256,0.0,11,0.134,-8.306,0,0.0384,109.901,0.258,https://api.spotify.com/v1/tracks/7fS708BKUj1zNyejmuZxDb
+This Town,5dTJMpqiELczVuHJP3OAEu,0.711,0.69,232600,0.407,0.0,9,0.126,-7.739,1,0.0297,111.916,0.181,https://api.spotify.com/v1/tracks/5dTJMpqiELczVuHJP3OAEu
+Falling,4adOGfvov9aaovmB30fJVb,0.269,0.533,202484,0.679,0.0199,9,0.112,-8.346,1,0.0329,87.995,0.21,https://api.spotify.com/v1/tracks/4adOGfvov9aaovmB30fJVb
+Rusty,2rwPOgMZHP8mFAYneg8bvh,0.16,0.87,198582,0.572,0.00282,6,0.0993,-7.667,1,0.039,119.98,0.854,https://api.spotify.com/v1/tracks/2rwPOgMZHP8mFAYneg8bvh
+FourFiveSeconds,5XzmZjXhMjDHr7ZfJ6DELQ,0.868,0.579,188238,0.268,0.0,2,0.12,-5.65,1,0.0442,205.903,0.321,https://api.spotify.com/v1/tracks/5XzmZjXhMjDHr7ZfJ6DELQ
+Ol' Sweet Day,5FJGb4bs2Y4BbiX59zXksH,0.603,0.393,178053,0.558,4.85e-05,3,0.108,-9.429,1,0.0475,112.64,0.336,https://api.spotify.com/v1/tracks/5FJGb4bs2Y4BbiX59zXksH
+Miles Away,1iy9FLjmcGQdjAXWi1y4D1,0.185,0.556,232000,0.592,0.324,3,0.109,-7.121,1,0.0393,138.041,0.196,https://api.spotify.com/v1/tracks/1iy9FLjmcGQdjAXWi1y4D1
+Burning House,2zhk0kypGeOPsaaZcjyc14,0.887,0.728,231333,0.253,1.11e-05,0,0.133,-8.427,1,0.0304,140.923,0.457,https://api.spotify.com/v1/tracks/2zhk0kypGeOPsaaZcjyc14
+Love And Happiness,5fMInRpERS8jP2zPz6QyUI,0.0269,0.884,278147,0.469,0.00111,1,0.073,-9.852,0,0.0372,94.345,0.897,https://api.spotify.com/v1/tracks/5fMInRpERS8jP2zPz6QyUI
+Reasons - Acoustic,6WCejh5wPX3OHgpdT6jvn4,0.814,0.446,184840,0.388,0.0,4,0.119,-6.201,1,0.0405,175.154,0.581,https://api.spotify.com/v1/tracks/6WCejh5wPX3OHgpdT6jvn4
+Life Is Confusing,4sYjFmNN8Vv2Rjg8jhwrSX,0.955,0.373,171413,0.216,0.00105,1,0.0739,-11.41,1,0.0326,129.03,0.496,https://api.spotify.com/v1/tracks/4sYjFmNN8Vv2Rjg8jhwrSX
+Already Gone - Acoustic,1uFDfBodTgwaBb3qMk0GN8,0.612,0.555,174053,0.463,0.0,4,0.142,-7.994,1,0.0343,88.399,0.661,https://api.spotify.com/v1/tracks/1uFDfBodTgwaBb3qMk0GN8
+Before You,5XZPQKONiLM4qANnE7JLeX,0.765,0.505,167165,0.252,0.0,9,0.0829,-10.169,1,0.0321,80.83,0.393,https://api.spotify.com/v1/tracks/5XZPQKONiLM4qANnE7JLeX

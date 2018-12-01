@@ -1,0 +1,51 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Promises (with Sam Smith) - David Guetta Remix,3Lv3frZVXU7Q0JEFvLIzWW,0.186,0.588,190417,0.697,0.000219,3,0.103,-4.744,0,0.0372,125.157,0.225,https://api.spotify.com/v1/tracks/3Lv3frZVXU7Q0JEFvLIzWW
+Don't Leave Me Alone (feat. Anne-Marie) - EDX's Indian Summer Remix,1mC2UjWt25Oixtqu7C6suL,0.0469,0.684,210968,0.818,3.39e-06,4,0.119,-4.477,0,0.128,123.938,0.336,https://api.spotify.com/v1/tracks/1mC2UjWt25Oixtqu7C6suL
+Happier - Breathe Carolina Remix,31OqWK8Lc6GnUbnLG3GqPX,0.00828,0.691,158095,0.924,3.8e-06,0,0.402,-3.839,1,0.0577,125.983,0.34,https://api.spotify.com/v1/tracks/31OqWK8Lc6GnUbnLG3GqPX
+Electricity (feat. Dua Lipa) - MK Remix,6JhJ3Qiw7sWE74MmSTbwkK,0.000156,0.675,346880,0.894,0.00856,9,0.112,-4.982,0,0.0821,123.995,0.844,https://api.spotify.com/v1/tracks/6JhJ3Qiw7sWE74MmSTbwkK
+Beautiful (feat. Camila Cabello) - Bazzi vs. EDX's Ibiza Sunrise Remix,6AZ21kPj2a0INgf3uCviVu,0.0611,0.69,187869,0.862,1.85e-05,2,0.238,-4.154,1,0.0944,121.975,0.453,https://api.spotify.com/v1/tracks/6AZ21kPj2a0INgf3uCviVu
+Side Effects - Fedde Le Grand Remix,7FDaS1k08rwMoAThmzUkOZ,0.0382,0.633,172360,0.854,2.83e-05,0,0.434,-4.046,0,0.0432,126.026,0.659,https://api.spotify.com/v1/tracks/7FDaS1k08rwMoAThmzUkOZ
+Done - Denis First Remix,38a0Pfg4YKQfjIDylBcvDr,0.142,0.712,192787,0.961,0.000243,7,0.365,-2.988,0,0.0701,122.03,0.779,https://api.spotify.com/v1/tracks/38a0Pfg4YKQfjIDylBcvDr
+One Kiss - R3HAB Remix,3nq6U9gegH8vHh0WqfUtFL,0.158,0.59,190866,0.919,0.000214,9,0.0595,-3.314,0,0.146,126.926,0.133,https://api.spotify.com/v1/tracks/3nq6U9gegH8vHh0WqfUtFL
+REMEDY,6jreFSOTUAViWjKyzOC4Kg,0.269,0.601,190295,0.775,0.0,0,0.0883,-4.612,1,0.0473,119.964,0.483,https://api.spotify.com/v1/tracks/6jreFSOTUAViWjKyzOC4Kg
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,0.153,0.841,212500,0.798,3.33e-06,1,0.0618,-4.206,0,0.229,95.948,0.591,https://api.spotify.com/v1/tracks/4w8niZpiMy6qz1mntFA5uM
+Rise - Retrovision Remix,749MvEtNXKsgfq5trXJUbk,0.15,0.721,190183,0.745,0.0,1,0.334,-4.31,1,0.127,125.088,0.541,https://api.spotify.com/v1/tracks/749MvEtNXKsgfq5trXJUbk
+Creep On Me,1MUL6DO2gVimj2YrVedubd,0.347,0.449,194777,0.597,1.03e-05,9,0.197,-4.401,0,0.14,134.598,0.505,https://api.spotify.com/v1/tracks/1MUL6DO2gVimj2YrVedubd
+Born To Be Yours,0WVAQaxrT0wsGEG4BCVSn2,0.3,0.688,193321,0.688,0.0,3,0.0982,-5.84,1,0.0357,114.011,0.451,https://api.spotify.com/v1/tracks/0WVAQaxrT0wsGEG4BCVSn2
+Slow Down (with Calvin Harris),43tgC5pTYJpc5D3C9HRwEg,0.0855,0.853,205986,0.693,7.16e-05,0,0.11,-4.337,1,0.0524,124.049,0.547,https://api.spotify.com/v1/tracks/43tgC5pTYJpc5D3C9HRwEg
+Jackie Chan - Sebastian Perez Remix,5pT2YfSaNwYsBPbIuBb0PE,0.00159,0.606,224640,0.913,0.0,3,0.0814,-5.88,0,0.0745,125.065,0.75,https://api.spotify.com/v1/tracks/5pT2YfSaNwYsBPbIuBb0PE
+Crazy - Tomorrowland Intro Mix,7LsG4Z4C0vMIRjvyOBpAPB,0.0127,0.705,247680,0.816,0.00035,4,0.086,-9.946,0,0.103,125.075,0.0399,https://api.spotify.com/v1/tracks/7LsG4Z4C0vMIRjvyOBpAPB
+1999 - Alphalove Remix,4f5eDYxh8jb0mKTY1AMFu9,0.0948,0.701,235729,0.898,0.0,11,0.305,-4.075,0,0.0346,123.989,0.845,https://api.spotify.com/v1/tracks/4f5eDYxh8jb0mKTY1AMFu9
+Polaroid - CID & Jonas Blue Remix,1biXMfPhNqlBhY1Pu96bhh,0.0253,0.619,199506,0.909,0.00289,7,0.278,-4.984,0,0.0757,123.987,0.423,https://api.spotify.com/v1/tracks/1biXMfPhNqlBhY1Pu96bhh
+Deep End - Eden Prince Remix,3K4ywyPCdpF9evoL7Z3z1b,0.0154,0.677,208096,0.848,0.00111,7,0.277,-6.14,0,0.0741,125.068,0.469,https://api.spotify.com/v1/tracks/3K4ywyPCdpF9evoL7Z3z1b
+Lost In Japan - Remix,575NJxNUVDqwJGdzBrlLbv,0.0882,0.694,201253,0.852,0.0,7,0.334,-5.34,0,0.257,107.178,0.377,https://api.spotify.com/v1/tracks/575NJxNUVDqwJGdzBrlLbv
+This Feeling - Young Bombs Remix,54eOmDg8gQNwl0rtr2l3Wo,0.201,0.531,176027,0.894,0.0,1,0.0479,-2.406,1,0.217,105.155,0.326,https://api.spotify.com/v1/tracks/54eOmDg8gQNwl0rtr2l3Wo
+Jewel (feat. Nikki Vianna) - Dannic Remix,6i3Y7uDXkOSwPxaq56epPM,0.00529,0.527,211385,0.862,2.4e-05,11,0.13,-3.684,1,0.0457,130.081,0.348,https://api.spotify.com/v1/tracks/6i3Y7uDXkOSwPxaq56epPM
+Waste It On Me (feat. BTS),2ADSy5e4g18TVnnkqsVRCv,0.252,0.669,192537,0.684,0.0,7,0.72,-4.595,1,0.0585,96.097,0.466,https://api.spotify.com/v1/tracks/2ADSy5e4g18TVnnkqsVRCv
+Light Me Up (feat. The Griswolds),0Hv2DduES5Ta2IpD0ITZVq,0.00998,0.614,186290,0.922,0.0,0,0.127,-3.087,1,0.11,123.967,0.459,https://api.spotify.com/v1/tracks/0Hv2DduES5Ta2IpD0ITZVq
+Switch - DEVAULT Remix,2TRAOLPQMvFM7kq8MHyizc,0.0253,0.347,229481,0.836,5.7e-05,9,0.305,-6.144,0,0.363,86.397,0.137,https://api.spotify.com/v1/tracks/2TRAOLPQMvFM7kq8MHyizc
+Falls - Kaskade Remix,0zCDIm8MUx8zfPx3Y7IMgW,0.00986,0.461,224352,0.716,0.0,6,0.131,-5.462,1,0.0436,161.159,0.192,https://api.spotify.com/v1/tracks/0zCDIm8MUx8zfPx3Y7IMgW
+Ocean (feat. Khalid) - Bart B More Remix,2Bs3q5N4EfJ1dWrFHWHpls,0.00577,0.679,185280,0.88,0.0875,3,0.0725,-5.462,1,0.053,125.005,0.582,https://api.spotify.com/v1/tracks/2Bs3q5N4EfJ1dWrFHWHpls
+Northern Lights - BT Remix,4KS0cPAvOXf8D0j5wyT8uI,0.0304,0.566,295803,0.785,0.515,4,0.116,-8.173,0,0.0302,137.95,0.268,https://api.spotify.com/v1/tracks/4KS0cPAvOXf8D0j5wyT8uI
+Happy Now (feat. Sandro Cavazza),14sOS5L36385FJ3OL8hew4,0.374,0.693,211362,0.575,0.0,9,0.252,-6.998,1,0.0801,117.999,0.492,https://api.spotify.com/v1/tracks/14sOS5L36385FJ3OL8hew4
+Just Hold On,3EmmCZoqpWOTY1g2GBwJoR,0.00383,0.647,198774,0.932,1.5e-06,11,0.0574,-3.515,1,0.0824,114.991,0.374,https://api.spotify.com/v1/tracks/3EmmCZoqpWOTY1g2GBwJoR
+Body - Dzeko Remix,4RgDgaohkG08f630ZT9QKc,0.00812,0.653,165714,0.946,0.000207,5,0.126,-3.757,0,0.0556,125.966,0.653,https://api.spotify.com/v1/tracks/4RgDgaohkG08f630ZT9QKc
+Say My Name,3MoV1UsAJmz64LHqyiRMp0,0.137,0.703,198947,0.66,0.0,10,0.192,-5.119,0,0.123,95.031,0.79,https://api.spotify.com/v1/tracks/3MoV1UsAJmz64LHqyiRMp0
+I Found You (with Calvin Harris),5sdb5pMhcK44SSLsj1moUh,0.033,0.775,191496,0.872,0.0579,6,0.298,-4.194,1,0.0469,122.994,0.379,https://api.spotify.com/v1/tracks/5sdb5pMhcK44SSLsj1moUh
+Magic - Filous Remix,5JkU3eQc3wgVIuCFsrFt6K,0.132,0.772,185039,0.694,0.00107,8,0.0501,-3.939,1,0.0324,104.999,0.607,https://api.spotify.com/v1/tracks/5JkU3eQc3wgVIuCFsrFt6K
+Spaceman - Tiesto Remix Edit,6tPcv3GSPeSNFCqVsGjycu,0.00151,0.611,355873,0.673,0.000447,1,0.0826,-9.686,0,0.0417,137.988,0.54,https://api.spotify.com/v1/tracks/6tPcv3GSPeSNFCqVsGjycu
+Do Not Disturb (feat. Bella Thorne),5HF4EV6LBrAbglrsgjLrV8,0.0016,0.736,163925,0.897,0.00214,1,0.446,-3.276,1,0.0588,120.028,0.537,https://api.spotify.com/v1/tracks/5HF4EV6LBrAbglrsgjLrV8
+UCLA,3OaunNUlXXs5e2PXtNAzzG,0.0742,0.536,192000,0.879,0.0,1,0.0847,-3.019,1,0.0621,140.137,0.334,https://api.spotify.com/v1/tracks/3OaunNUlXXs5e2PXtNAzzG
+Sun In Our Eyes - Don Diablo Remix,1Cfws8y490Zpsqsyeme6V1,0.0589,0.699,206453,0.861,2.64e-06,4,0.0794,-3.09,0,0.173,125.942,0.315,https://api.spotify.com/v1/tracks/1Cfws8y490Zpsqsyeme6V1
+Audio - CID Remix,3ajiUFrVUHsmU5F2pv3kzd,0.106,0.524,161973,0.913,0.000131,3,0.177,-3.069,0,0.05,123.936,0.644,https://api.spotify.com/v1/tracks/3ajiUFrVUHsmU5F2pv3kzd
+Speechless (feat. Erika Sirola),1rCcsYnmqbMYdkG7kS9GC5,0.0161,0.574,214942,0.728,1.42e-06,1,0.0851,-4.777,1,0.062,125.047,0.266,https://api.spotify.com/v1/tracks/1rCcsYnmqbMYdkG7kS9GC5
+Ce Soir ? - HUGEL VIP edit,6MlVFAUYOEBfyVQHYqeKBz,0.00471,0.872,241951,0.619,0.0185,5,0.604,-5.085,1,0.0526,122.989,0.178,https://api.spotify.com/v1/tracks/6MlVFAUYOEBfyVQHYqeKBz
+There's No Way (feat. Julia Michaels) - Alle Farben Remix,3LaQ1GajOXoUeiTA9UAcCK,0.0229,0.768,187301,0.83,0.000127,11,0.145,-4.983,0,0.036,126.007,0.444,https://api.spotify.com/v1/tracks/3LaQ1GajOXoUeiTA9UAcCK
+Papercuts (feat. Sunset City),3BCVdnNWZBZFJOrb6w97dx,0.0487,0.65,175000,0.863,0.0,0,0.0952,-6.021,0,0.0362,100.967,0.434,https://api.spotify.com/v1/tracks/3BCVdnNWZBZFJOrb6w97dx
+I Like It - Dillon Francis Remix,6WK7h2WfMmnX7zOZnfzoYo,0.00256,0.731,219200,0.854,1.49e-05,5,0.386,-4.635,0,0.149,150.163,0.651,https://api.spotify.com/v1/tracks/6WK7h2WfMmnX7zOZnfzoYo
+Why Are We So Broken (feat. blink-182),5yETxZBoH5AJywvFXCUCZe,0.00263,0.587,228421,0.89,0.0,7,0.157,-5.016,0,0.0405,119.953,0.382,https://api.spotify.com/v1/tracks/5yETxZBoH5AJywvFXCUCZe
+How Can I Forget - Sebastian Perez Remix,3jsadYz8q2jr2sDlqwwT3m,0.0198,0.696,178064,0.914,4.2e-06,0,0.0819,-5.192,0,0.072,124.019,0.904,https://api.spotify.com/v1/tracks/3jsadYz8q2jr2sDlqwwT3m
+Top Shelf (feat. Bipolar Sunshine),0c2r4R6A5eSz1yqrSvMkmj,0.00358,0.646,181633,0.836,0.00203,0,0.275,-7.479,1,0.0405,126.911,0.307,https://api.spotify.com/v1/tracks/0c2r4R6A5eSz1yqrSvMkmj
+Sunday Morning (feat. Josie Dunne),2TKSH16Qb0zVRcqrHc3D3h,0.173,0.673,185806,0.651,0.0,3,0.112,-6.982,0,0.0587,123.98,0.428,https://api.spotify.com/v1/tracks/2TKSH16Qb0zVRcqrHc3D3h
+Drowning (Nitti Gritti & Shndō Remix),0V3zlYcGSgt46sF1I3YpN0,0.0389,0.617,170323,0.767,1.48e-06,9,0.0612,-5.488,1,0.0616,124.126,0.116,https://api.spotify.com/v1/tracks/0V3zlYcGSgt46sF1I3YpN0
+Diamond Heart - Dzeko Remix,7zWmKZTGYu58eqxNbBVda6,0.0591,0.597,186960,0.885,0.0,9,0.342,-4.535,0,0.06,110.106,0.61,https://api.spotify.com/v1/tracks/7zWmKZTGYu58eqxNbBVda6

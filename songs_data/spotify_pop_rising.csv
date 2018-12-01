@@ -1,0 +1,85 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Hurts Like Hell (feat. Offset),3WefHNGtjexZvi66ZEx9u4,0.185,0.704,207109,0.56,0.0,1,0.0948,-6.791,0,0.179,75.003,0.609,https://api.spotify.com/v1/tracks/3WefHNGtjexZvi66ZEx9u4
+In My Head,1tT55K6VEyO6XFDxK4lDQe,0.745,0.499,214533,0.181,0.00123,9,0.106,-15.359,0,0.0429,111.956,0.0747,https://api.spotify.com/v1/tracks/1tT55K6VEyO6XFDxK4lDQe
+E-Lo (feat. Jozzy),3eydp9rHJAskzOevEBK267,0.469,0.698,214720,0.797,0.00118,3,0.152,-5.125,0,0.0615,101.969,0.53,https://api.spotify.com/v1/tracks/3eydp9rHJAskzOevEBK267
+Rewrite The Stars (with James Arthur & Anne-Marie),6mQLN3zRtAp6ovjusyYKrV,0.237,0.67,218293,0.743,0.0,10,0.465,-4.993,1,0.0393,125.944,0.571,https://api.spotify.com/v1/tracks/6mQLN3zRtAp6ovjusyYKrV
+Only Want You,2CTN6UuO2dNEVZXR0DJVk2,0.0599,0.654,180760,0.528,7.14e-05,6,0.0975,-6.224,0,0.0412,82.014,0.376,https://api.spotify.com/v1/tracks/2CTN6UuO2dNEVZXR0DJVk2
+come out and play,7wC5eZcFS1Q1BsQ35DU6H4,0.685,0.654,210376,0.316,0.0333,0,0.117,-14.351,1,0.109,145.074,0.186,https://api.spotify.com/v1/tracks/7wC5eZcFS1Q1BsQ35DU6H4
+3 Nights,1tNJrcVe6gwLEiZCtprs1u,0.223,0.815,177667,0.518,0.0,7,0.104,-6.594,0,0.0897,151.891,0.877,https://api.spotify.com/v1/tracks/1tNJrcVe6gwLEiZCtprs1u
+Beach House,0N8MGHEDAq29ip7RrlrTeN,0.19,0.537,206120,0.837,0.0,0,0.348,-4.477,1,0.039,90.083,0.533,https://api.spotify.com/v1/tracks/0N8MGHEDAq29ip7RrlrTeN
+Waves (feat. 6LACK),2qHk6Nz5glNQrjW8Rhd5kv,0.415,0.578,215671,0.588,0.0,0,0.114,-4.92,0,0.255,79.174,0.3,https://api.spotify.com/v1/tracks/2qHk6Nz5glNQrjW8Rhd5kv
+Bad Liar,1erDNx55IWAE9OYuBTRYgc,0.0722,0.383,260773,0.637,0.0,3,0.368,-6.993,1,0.0703,177.913,0.0827,https://api.spotify.com/v1/tracks/1erDNx55IWAE9OYuBTRYgc
+No Candle No Light (feat. Nicki Minaj),49ATdDBSasXb6wsHdrB2xQ,0.0176,0.612,193399,0.742,0.000102,5,0.101,-4.198,0,0.0519,122.052,0.431,https://api.spotify.com/v1/tracks/49ATdDBSasXb6wsHdrB2xQ
+Ruin My Life,5tAa8Uaqr4VvA3693mbIhU,0.423,0.665,190932,0.699,0.0,11,0.0969,-5.265,1,0.0578,124.896,0.585,https://api.spotify.com/v1/tracks/5tAa8Uaqr4VvA3693mbIhU
+Expectations,1EXotCuzdXR34W1MoP6Um7,0.00923,0.576,204067,0.443,1.88e-06,4,0.124,-7.477,0,0.0754,180.08,0.452,https://api.spotify.com/v1/tracks/1EXotCuzdXR34W1MoP6Um7
+It's A Risk,6HENi2xCjSo7bep2PFxnJ8,0.0183,0.837,210411,0.444,0.0,1,0.0865,-7.988,1,0.258,145.978,0.72,https://api.spotify.com/v1/tracks/6HENi2xCjSo7bep2PFxnJ8
+Velvet Rope,2u6dedaqZJeVFvqCTA0Qdm,0.472,0.54,235387,0.557,0.0,4,0.308,-4.858,1,0.0515,88.954,0.426,https://api.spotify.com/v1/tracks/2u6dedaqZJeVFvqCTA0Qdm
+Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,0.0969,0.574,182623,0.758,0.0,1,0.395,-5.029,0,0.0621,144.111,0.492,https://api.spotify.com/v1/tracks/5JEx7HbmvHQQswJCsoo9rA
+Empty Space,1uru26I2JKd2mQZt0MDCUe,0.215,0.404,214227,0.531,0.0,1,0.0521,-4.328,1,0.103,164.848,0.321,https://api.spotify.com/v1/tracks/1uru26I2JKd2mQZt0MDCUe
+SOLO,2wVDWtLKXunswWecARNILj,0.128,0.681,168461,0.666,0.0,3,0.127,-5.264,0,0.162,95.028,0.413,https://api.spotify.com/v1/tracks/2wVDWtLKXunswWecARNILj
+Water Fountain,4IhKLu7Vk3j2TLmnFPl6To,0.388,0.723,218893,0.504,7.4e-05,8,0.087,-5.572,1,0.0392,133.975,0.551,https://api.spotify.com/v1/tracks/4IhKLu7Vk3j2TLmnFPl6To
+Summer Love,3yPe9q1JY5Jlx7yrkGquWX,0.148,0.558,257920,0.734,0.00523,1,0.251,-6.262,1,0.0478,159.97,0.285,https://api.spotify.com/v1/tracks/3yPe9q1JY5Jlx7yrkGquWX
+Happy Now (feat. Sandro Cavazza),14sOS5L36385FJ3OL8hew4,0.374,0.693,211362,0.575,0.0,9,0.252,-6.998,1,0.0801,117.999,0.492,https://api.spotify.com/v1/tracks/14sOS5L36385FJ3OL8hew4
+Remember (with ZOHARA),3Iee2uf8UXOrOupQzfs1z5,0.102,0.62,221773,0.906,0.0206,11,0.183,-3.638,0,0.0627,123.047,0.398,https://api.spotify.com/v1/tracks/3Iee2uf8UXOrOupQzfs1z5
+Light On,5AdnkoZJuRJCYqYBIzSqFb,0.201,0.657,233880,0.569,1.38e-05,2,0.126,-6.287,1,0.0542,102.054,0.399,https://api.spotify.com/v1/tracks/5AdnkoZJuRJCYqYBIzSqFb
+Speechless (feat. Erika Sirola),1rCcsYnmqbMYdkG7kS9GC5,0.0161,0.574,214942,0.728,1.42e-06,1,0.0851,-4.777,1,0.062,125.047,0.266,https://api.spotify.com/v1/tracks/1rCcsYnmqbMYdkG7kS9GC5
+BAD!,4CH66Rxcjcj3VBHwmIBj4T,0.0643,0.78,94246,0.492,0.0313,5,0.174,-3.4,0,0.0671,143.983,0.374,https://api.spotify.com/v1/tracks/4CH66Rxcjcj3VBHwmIBj4T
+Waiting,0mdIIgjVubCqYTBdCpP5k9,0.344,0.783,215688,0.465,0.0,4,0.0875,-7.335,0,0.0471,138.038,0.48,https://api.spotify.com/v1/tracks/0mdIIgjVubCqYTBdCpP5k9
+Saturday Nights,7vGGAJBkHKxKtOnGjQduDV,0.635,0.54,209547,0.439,1.93e-05,10,0.0993,-8.591,1,0.115,167.908,0.371,https://api.spotify.com/v1/tracks/7vGGAJBkHKxKtOnGjQduDV
+La Di Da,2YyvWje3cEYyqgYhNUIaBJ,0.195,0.689,209773,0.679,0.00111,7,0.224,-5.893,1,0.0517,149.972,0.475,https://api.spotify.com/v1/tracks/2YyvWje3cEYyqgYhNUIaBJ
+So Close,7FjZU7XFs7P9jHI9Z0yRhK,0.121,0.7,190302,0.872,7.08e-06,10,0.103,-5.896,1,0.0666,125.03,0.761,https://api.spotify.com/v1/tracks/7FjZU7XFs7P9jHI9Z0yRhK
+Poundshop Kardashians,0qWgm1JTDWdfJX9Lsj8mdR,0.0419,0.557,159295,0.875,0.0,2,0.371,-1.596,0,0.0346,138.023,0.77,https://api.spotify.com/v1/tracks/0qWgm1JTDWdfJX9Lsj8mdR
+Waste It On Me (feat. BTS),2r1T6xGTVaNAqBoPH4lZEE,0.252,0.669,192537,0.684,0.0,7,0.72,-4.595,1,0.0585,96.097,0.466,https://api.spotify.com/v1/tracks/2r1T6xGTVaNAqBoPH4lZEE
+TELÉFONO - Remix,5GYM4rUDvbT9ov3eS1YMll,0.201,0.672,163787,0.886,4.79e-05,2,0.104,-3.234,1,0.0684,171.995,0.667,https://api.spotify.com/v1/tracks/5GYM4rUDvbT9ov3eS1YMll
+Walk Alone (feat. Tom Walker),0ySwEFQoOhVaGBky9iCdFJ,0.156,0.576,205409,0.719,0.0,11,0.305,-5.163,1,0.0397,94.921,0.545,https://api.spotify.com/v1/tracks/0ySwEFQoOhVaGBky9iCdFJ
+Blu,4FUDWkguOUVpLRAVn5C20z,0.29,0.384,183344,0.465,2.22e-05,0,0.359,-8.554,1,0.0341,131.604,0.636,https://api.spotify.com/v1/tracks/4FUDWkguOUVpLRAVn5C20z
+Power Over Me,7iM7Zkf3uFQWE4IbjwYoN0,0.0519,0.42,206960,0.843,0.0,9,0.106,-4.231,0,0.121,173.827,0.491,https://api.spotify.com/v1/tracks/7iM7Zkf3uFQWE4IbjwYoN0
+Let Go Today,3FUWD1PXnb6wxRpxqEp1zc,0.182,0.84,182400,0.193,0.0,8,0.173,-11.186,1,0.0696,99.99,0.204,https://api.spotify.com/v1/tracks/3FUWD1PXnb6wxRpxqEp1zc
+Stuck In The Middle,4TJweEhnTMkfOdavXx5RRG,0.066,0.75,208827,0.731,0.267,10,0.12,-7.366,1,0.0368,107.999,0.471,https://api.spotify.com/v1/tracks/4TJweEhnTMkfOdavXx5RRG
+10 Freaky Girls (with 21 Savage),43lYaovU2FoeuBMNusVVVW,0.588,0.81,208293,0.353,0.0,6,0.102,-9.931,0,0.31,88.031,0.0727,https://api.spotify.com/v1/tracks/43lYaovU2FoeuBMNusVVVW
+"Back to Life - from ""Bumblebee""",16geeCnXrbiomV1IZ8Kudc,0.0127,0.638,233858,0.659,0.0,10,0.187,-6.215,0,0.0627,103.029,0.341,https://api.spotify.com/v1/tracks/16geeCnXrbiomV1IZ8Kudc
+New Crowned King,3sTusRj5PzgZ9pQIMLk2hW,0.715,0.536,169733,0.353,0.0,1,0.115,-10.552,1,0.0324,91.45,0.48,https://api.spotify.com/v1/tracks/3sTusRj5PzgZ9pQIMLk2hW
+Forgive Me Friend,73VW0CYIIx6xRuy4JdoXUV,0.000891,0.589,216000,0.782,1.15e-06,1,0.187,-6.067,1,0.0314,127.917,0.6,https://api.spotify.com/v1/tracks/73VW0CYIIx6xRuy4JdoXUV
+I Found You (with Calvin Harris),5sdb5pMhcK44SSLsj1moUh,0.033,0.775,191496,0.872,0.0579,6,0.298,-4.194,1,0.0469,122.994,0.379,https://api.spotify.com/v1/tracks/5sdb5pMhcK44SSLsj1moUh
+Older,52iLDrSoRtf9lcgFuLVfqE,0.743,0.681,191002,0.292,0.0,11,0.0974,-9.599,1,0.0483,64.002,0.162,https://api.spotify.com/v1/tracks/52iLDrSoRtf9lcgFuLVfqE
+Blow That Smoke (feat. Tove Lo),3GJx7wFMFL5VW8l7Eo0Tk1,0.032,0.719,223000,0.703,1.14e-05,5,0.0656,-4.93,0,0.0392,101.984,0.72,https://api.spotify.com/v1/tracks/3GJx7wFMFL5VW8l7Eo0Tk1
+Party For One,39YLC6osLe9btq1vpsDglx,0.0371,0.685,183894,0.638,0.0,6,0.0987,-6.539,1,0.0367,123.442,0.414,https://api.spotify.com/v1/tracks/39YLC6osLe9btq1vpsDglx
+Topanga,5aXgz1oKK8Q9z9xvTmSnrO,0.00587,0.755,215364,0.615,1.75e-06,4,0.109,-8.245,1,0.0454,105.955,0.039,https://api.spotify.com/v1/tracks/5aXgz1oKK8Q9z9xvTmSnrO
+comethru,6fFTPGGItuEpjwXRUIr4rk,0.603,0.798,181520,0.175,0.0,0,0.625,-12.603,1,0.0594,93.994,0.633,https://api.spotify.com/v1/tracks/6fFTPGGItuEpjwXRUIr4rk
+Arms Around You (feat. Maluma & Swae Lee),2LskIZrCeLxRvCiGP8gxlh,0.0302,0.703,198903,0.723,2.06e-06,9,0.126,-5.45,0,0.0412,104.969,0.288,https://api.spotify.com/v1/tracks/2LskIZrCeLxRvCiGP8gxlh
+Trampoline,0lsRatBUs9HNIZAmoGABzk,0.488,0.689,184060,0.412,0.00016,7,0.0659,-7.523,0,0.0301,126.754,0.537,https://api.spotify.com/v1/tracks/0lsRatBUs9HNIZAmoGABzk
+POP/STARS,5sbooPcNgIE22DwO0VNGUJ,0.0183,0.566,191100,0.769,0.0,7,0.108,-4.342,1,0.0872,170.036,0.385,https://api.spotify.com/v1/tracks/5sbooPcNgIE22DwO0VNGUJ
+AF1s,0ppSBkcjCsfVCXsAPYDAk0,0.133,0.515,184040,0.463,0.0,2,0.0954,-7.456,1,0.101,163.458,0.41,https://api.spotify.com/v1/tracks/0ppSBkcjCsfVCXsAPYDAk0
+Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,0.751,0.501,182161,0.405,0.0,1,0.105,-5.679,1,0.0319,109.891,0.446,https://api.spotify.com/v1/tracks/2TIlqbIneP0ZY1O0EzYLlc
+Treat You Better - Single Edit,5lzHDkFLN01bKatvKQC0lO,0.217,0.625,218306,0.576,2.85e-06,8,0.0897,-5.812,1,0.036,121.915,0.297,https://api.spotify.com/v1/tracks/5lzHDkFLN01bKatvKQC0lO
+Stupid Deep,6UQZzOEKyclOo7SRXQpMM3,0.732,0.362,178176,0.377,0.000631,2,0.127,-9.713,1,0.0339,137.891,0.294,https://api.spotify.com/v1/tracks/6UQZzOEKyclOo7SRXQpMM3
+Armed And Dangerous,6SAKXCj5jyF6IgPCPbZ5ra,0.186,0.736,169999,0.67,0.0,10,0.114,-6.702,1,0.311,130.032,0.845,https://api.spotify.com/v1/tracks/6SAKXCj5jyF6IgPCPbZ5ra
+Lost Without You,3QlF2ExmrRP0RM7ffv7y0Q,0.928,0.409,225076,0.137,0.0,6,0.0706,-9.169,1,0.0446,162.08,0.106,https://api.spotify.com/v1/tracks/3QlF2ExmrRP0RM7ffv7y0Q
+Dip (feat. Nicki Minaj),4hXDobvUaXyDFLnmecoY0z,0.0311,0.885,195992,0.543,0.0,2,0.154,-6.338,1,0.2,99.026,0.43,https://api.spotify.com/v1/tracks/4hXDobvUaXyDFLnmecoY0z
+Lost in the Middle of Nowhere (feat. Becky G),6zT47fVadGsDGLnsS82r5P,0.00184,0.559,188920,0.754,0.000462,6,0.0366,-5.344,0,0.0481,85.993,0.438,https://api.spotify.com/v1/tracks/6zT47fVadGsDGLnsS82r5P
+Wherever You Go,14nIFzHQf1OBWf6VHVR8DF,0.0835,0.711,208947,0.724,0.0,7,0.0389,-4.809,1,0.106,104.048,0.478,https://api.spotify.com/v1/tracks/14nIFzHQf1OBWf6VHVR8DF
+Veneno,1KFN3kB4hc6r7ILpifFsqf,0.046,0.792,158005,0.768,3.39e-06,4,0.067,-5.074,0,0.107,89.917,0.295,https://api.spotify.com/v1/tracks/1KFN3kB4hc6r7ILpifFsqf
+Baby (feat. Marina and The Diamonds & Luis Fonsi),1fLhGF1JfGQYj6EZLndD86,0.356,0.755,205440,0.74,1.05e-05,0,0.0994,-5.354,0,0.04,116.946,0.33,https://api.spotify.com/v1/tracks/1fLhGF1JfGQYj6EZLndD86
+Just Slide (feat. Jaden Smith),45hIFQoMhALVsGEaI3wDLy,0.134,0.571,159120,0.563,0.0,5,0.0992,-5.798,0,0.0385,86.022,0.307,https://api.spotify.com/v1/tracks/45hIFQoMhALVsGEaI3wDLy
+I Want You,5mpibPxO6AWUhl2RiHpOGe,0.204,0.708,196196,0.683,0.0,2,0.158,-5.249,0,0.0917,108.039,0.651,https://api.spotify.com/v1/tracks/5mpibPxO6AWUhl2RiHpOGe
+MALAMENTE - Cap.1: Augurio,1B0BQaSRHxhI0AUlItY3LK,0.549,0.893,150027,0.482,0.0164,0,0.0752,-4.779,0,0.0873,97.975,0.53,https://api.spotify.com/v1/tracks/1B0BQaSRHxhI0AUlItY3LK
+Headlights,2nfvybU2w0S5X6Qp2A6HA1,0.00745,0.376,203653,0.591,0.0,4,0.0866,-6.768,1,0.129,95.709,0.367,https://api.spotify.com/v1/tracks/2nfvybU2w0S5X6Qp2A6HA1
+Dreamer,0wUxh6XMc698xPCfgBaPRV,0.0507,0.532,193399,0.639,0.00131,5,0.106,-7.419,0,0.0388,105.0,0.198,https://api.spotify.com/v1/tracks/0wUxh6XMc698xPCfgBaPRV
+Perfect To Me,0DC7Zs2qvAbNK1owWQ4mlL,0.0889,0.604,197853,0.546,0.0,8,0.0734,-5.691,1,0.151,179.847,0.402,https://api.spotify.com/v1/tracks/0DC7Zs2qvAbNK1owWQ4mlL
+No One Compares To You,2jZIfoe48eUeOEnP9Ho4h2,0.123,0.703,184080,0.748,0.0,1,0.0642,-6.047,1,0.0435,111.943,0.625,https://api.spotify.com/v1/tracks/2jZIfoe48eUeOEnP9Ho4h2
+LA On A Saturday Night,0dbp9YwlGEzXmxavRMgZ4T,0.118,0.592,195075,0.588,0.0,10,0.138,-4.889,1,0.0405,81.997,0.336,https://api.spotify.com/v1/tracks/0dbp9YwlGEzXmxavRMgZ4T
+Kiss and Make Up,7jr3iPu4O4bTCVwLMbdU2i,0.0658,0.678,189173,0.729,0.0,8,0.303,-4.188,1,0.137,99.895,0.643,https://api.spotify.com/v1/tracks/7jr3iPu4O4bTCVwLMbdU2i
+Thursday,77nXj2IoswHUcgwh0tw83O,0.452,0.603,216239,0.554,0.0,2,0.0545,-4.381,1,0.0646,111.989,0.354,https://api.spotify.com/v1/tracks/77nXj2IoswHUcgwh0tw83O
+Woman Like Me (feat. Nicki Minaj),6rrTr2HEAzlpC4KWZxF3S1,0.173,0.757,228207,0.849,0.0,5,0.0878,-3.424,0,0.0536,150.036,0.826,https://api.spotify.com/v1/tracks/6rrTr2HEAzlpC4KWZxF3S1
+Killer Queen,0SA903LGHxe4ExdRY2SqVH,0.00422,0.262,199357,0.789,0.0,10,0.325,-4.548,1,0.123,171.009,0.487,https://api.spotify.com/v1/tracks/0SA903LGHxe4ExdRY2SqVH
+Paris,46oo6kyefMyXgtevkcXjEE,0.056,0.586,218759,0.661,1.3e-06,7,0.104,-6.585,0,0.0432,114.917,0.268,https://api.spotify.com/v1/tracks/46oo6kyefMyXgtevkcXjEE
+Machine,5ftQSVAHs7iqULWKQn0fjK,0.0016,0.638,181880,0.679,0.00655,4,0.121,-5.278,1,0.0425,81.045,0.596,https://api.spotify.com/v1/tracks/5ftQSVAHs7iqULWKQn0fjK
+Pussy Is God,6VCeywT4JeawuZOUkQ1okx,0.049,0.739,205533,0.621,0.00369,11,0.0718,-6.929,0,0.238,85.969,0.462,https://api.spotify.com/v1/tracks/6VCeywT4JeawuZOUkQ1okx
+Está Rico,2wRkBumdItthjYP9XknImg,0.266,0.817,215151,0.74,0.0,11,0.0992,-4.566,0,0.283,130.04,0.674,https://api.spotify.com/v1/tracks/2wRkBumdItthjYP9XknImg
+faded/2am (feat. GoldLink),5JBNoDRG4xWjGttyGHigs1,0.61,0.579,243387,0.472,1.66e-05,2,0.103,-10.051,0,0.337,134.977,0.219,https://api.spotify.com/v1/tracks/5JBNoDRG4xWjGttyGHigs1
+Leave Me Alone,14mHfNsSHN0FbLftyjrV9g,0.107,0.792,195637,0.743,0.0,7,0.183,-2.806,1,0.0851,150.024,0.742,https://api.spotify.com/v1/tracks/14mHfNsSHN0FbLftyjrV9g
+Fading,2RP8Svo0pMwZXnVcmOffDw,0.0232,0.734,207013,0.76,0.0,11,0.127,-5.267,0,0.0415,122.072,0.685,https://api.spotify.com/v1/tracks/2RP8Svo0pMwZXnVcmOffDw
+La dot,3aRgAfrt6aQW8IimLq2aVG,0.201,0.752,201720,0.514,0.0,0,0.0951,-6.108,1,0.0513,109.795,0.767,https://api.spotify.com/v1/tracks/3aRgAfrt6aQW8IimLq2aVG
+What I Know Now (feat. Wiz Khalifa),3wImXdE4bliIVSEl3lVue1,0.0812,0.615,180853,0.698,1.17e-06,6,0.18,-3.212,1,0.0485,80.024,0.437,https://api.spotify.com/v1/tracks/3wImXdE4bliIVSEl3lVue1
+Malibu Nights,0Eqg0CQ7bK3RQIMPw1A7pl,0.701,0.559,286928,0.422,1.99e-06,11,0.0853,-11.89,1,0.195,74.002,0.191,https://api.spotify.com/v1/tracks/0Eqg0CQ7bK3RQIMPw1A7pl
+Imposible,3ao3OVxHlb3C08vAaApUlm,0.122,0.786,163880,0.764,0.0,11,0.102,-2.935,1,0.0798,90.979,0.913,https://api.spotify.com/v1/tracks/3ao3OVxHlb3C08vAaApUlm

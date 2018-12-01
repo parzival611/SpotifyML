@@ -1,0 +1,52 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Anywhere,7EI6Iki24tBHAMxtb4xQN2,0.0364,0.628,215064,0.797,0.0,11,0.104,-3.953,0,0.0596,106.93,0.321,https://api.spotify.com/v1/tracks/7EI6Iki24tBHAMxtb4xQN2
+breathin,4OafepJy2teCjYJbvFE60J,0.0211,0.568,198160,0.656,1.37e-05,8,0.213,-5.413,1,0.0433,100.049,0.364,https://api.spotify.com/v1/tracks/4OafepJy2teCjYJbvFE60J
+I'm a Mess,04ZTP5KsCypmtCmQg5tH9R,0.00281,0.63,195519,0.694,0.0,11,0.0719,-6.257,0,0.0253,97.005,0.216,https://api.spotify.com/v1/tracks/04ZTP5KsCypmtCmQg5tH9R
+I Like It,58q2HKrzhC3ozto2nDdN4z,0.099,0.816,253390,0.726,0.0,5,0.372,-3.998,0,0.129,136.048,0.65,https://api.spotify.com/v1/tracks/58q2HKrzhC3ozto2nDdN4z
+FRIENDS,08bNPGLD8AhKpnnERrAc6G,0.205,0.626,202621,0.88,0.0,9,0.128,-2.384,0,0.0504,95.079,0.534,https://api.spotify.com/v1/tracks/08bNPGLD8AhKpnnERrAc6G
+Let You Love Me,6xtcFXSo8H9BZN637BMVKS,0.288,0.531,190000,0.854,0.0,10,0.0773,-3.149,1,0.198,94.419,0.456,https://api.spotify.com/v1/tracks/6xtcFXSo8H9BZN637BMVKS
+Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,0.346,0.638,180000,0.717,0.0,2,0.105,-4.722,1,0.0337,100.027,0.249,https://api.spotify.com/v1/tracks/4VUwkH455At9kENOfzTqmF
+Sweet but Psycho,25sgk305KZfyuqVBQIahim,0.0691,0.719,187436,0.704,0.0,1,0.166,-4.724,1,0.0476,133.002,0.628,https://api.spotify.com/v1/tracks/25sgk305KZfyuqVBQIahim
+Without Me,5p7ujcrUXASCNwRaWNHR1C,0.297,0.752,201661,0.488,9.11e-06,6,0.0936,-7.05,1,0.0705,136.041,0.533,https://api.spotify.com/v1/tracks/5p7ujcrUXASCNwRaWNHR1C
+There's No Way (feat. Julia Michaels),2hnxrRNzF74mdDzpQZQukQ,0.49,0.755,174861,0.625,0.0,2,0.157,-7.114,1,0.0896,147.02,0.374,https://api.spotify.com/v1/tracks/2hnxrRNzF74mdDzpQZQukQ
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,0.153,0.841,212500,0.798,3.33e-06,1,0.0618,-4.206,0,0.229,95.948,0.591,https://api.spotify.com/v1/tracks/4w8niZpiMy6qz1mntFA5uM
+Woman Like Me (feat. Nicki Minaj),6rrTr2HEAzlpC4KWZxF3S1,0.173,0.757,228207,0.849,0.0,5,0.0878,-3.424,0,0.0536,150.036,0.826,https://api.spotify.com/v1/tracks/6rrTr2HEAzlpC4KWZxF3S1
+For You (Fifty Shades Freed) (& Rita Ora),66xn6tB8s3l8uhj02OGneE,0.0167,0.541,245453,0.787,0.0,2,0.157,-4.618,0,0.0331,113.0,0.2,https://api.spotify.com/v1/tracks/66xn6tB8s3l8uhj02OGneE
+Cherry,49eeirITrqP3pJALseu6Ed,0.0129,0.577,205224,0.79,5.06e-06,3,0.334,-3.458,1,0.0494,102.03,0.645,https://api.spotify.com/v1/tracks/49eeirITrqP3pJALseu6Ed
+Say My Name,3MoV1UsAJmz64LHqyiRMp0,0.137,0.703,198947,0.66,0.0,10,0.192,-5.119,0,0.123,95.031,0.79,https://api.spotify.com/v1/tracks/3MoV1UsAJmz64LHqyiRMp0
+Youngblood,55S2PQgSMYAhgoTCcGCDfw,0.0169,0.596,203418,0.854,0.0,7,0.124,-5.114,0,0.463,120.274,0.152,https://api.spotify.com/v1/tracks/55S2PQgSMYAhgoTCcGCDfw
+Happier,2dpaYNEQHiRxtZbfNsse99,0.191,0.687,214290,0.792,0.0,5,0.167,-2.749,1,0.0452,100.015,0.671,https://api.spotify.com/v1/tracks/2dpaYNEQHiRxtZbfNsse99
+Whenever (feat. Conor Maynard),3DGar7krWlmrXRFHBcQF6z,0.151,0.734,163636,0.765,0.0,7,0.231,-5.562,1,0.0621,109.989,0.518,https://api.spotify.com/v1/tracks/3DGar7krWlmrXRFHBcQF6z
+Drew Barrymore,0OgGn1ofaj55l2PcihQQGV,0.493,0.763,190472,0.572,0.00118,11,0.106,-7.312,0,0.0595,151.93,0.25,https://api.spotify.com/v1/tracks/0OgGn1ofaj55l2PcihQQGV
+Blessed,0x2jorBe5ujifEhwaErAhT,0.491,0.81,185695,0.424,0.0,3,0.439,-8.392,1,0.227,91.035,0.686,https://api.spotify.com/v1/tracks/0x2jorBe5ujifEhwaErAhT
+Sunflower - Spider-Man: Into the Spider-Verse,1A6OTy97kk0mMdm78rHsm8,0.551,0.753,158053,0.498,0.0,2,0.0706,-5.61,1,0.0504,89.95,0.927,https://api.spotify.com/v1/tracks/1A6OTy97kk0mMdm78rHsm8
+Eastside (with Halsey & Khalid),0d2iYfpKoM0QCKvcLCkBao,0.555,0.56,173800,0.68,0.0,6,0.116,-7.648,0,0.321,89.391,0.319,https://api.spotify.com/v1/tracks/0d2iYfpKoM0QCKvcLCkBao
+Polaroid,1wsLHgXJ4SKIfd5ePSX1hD,0.293,0.652,193377,0.897,0.0,7,0.0722,-4.481,0,0.036,114.033,0.475,https://api.spotify.com/v1/tracks/1wsLHgXJ4SKIfd5ePSX1hD
+High Horse,2U2Z1IXnmJIvlknWizFykZ,0.0325,0.725,213693,0.674,3.55e-06,11,0.0531,-5.254,0,0.0363,120.057,0.773,https://api.spotify.com/v1/tracks/2U2Z1IXnmJIvlknWizFykZ
+Body,7vXnqJKU3ljgaBNa4Kjt7p,0.07,0.601,237643,0.67,0.0,5,0.455,-5.889,1,0.0336,146.052,0.208,https://api.spotify.com/v1/tracks/7vXnqJKU3ljgaBNa4Kjt7p
+Your Song,4c2W3VKsOFoIg2SFaO6DY5,0.158,0.855,180757,0.624,0.0,1,0.0513,-4.093,1,0.0488,117.959,0.962,https://api.spotify.com/v1/tracks/4c2W3VKsOFoIg2SFaO6DY5
+2002,2BgEsaKNfHUdlh97KmvFyo,0.0372,0.697,186987,0.683,0.0,1,0.137,-2.881,0,0.117,96.133,0.603,https://api.spotify.com/v1/tracks/2BgEsaKNfHUdlh97KmvFyo
+Lost In Japan - Remix,575NJxNUVDqwJGdzBrlLbv,0.0882,0.694,201253,0.852,0.0,7,0.334,-5.34,0,0.257,107.178,0.377,https://api.spotify.com/v1/tracks/575NJxNUVDqwJGdzBrlLbv
+Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,0.3,0.751,211160,0.834,1.77e-05,1,0.355,-5.444,0,0.0437,95.053,0.894,https://api.spotify.com/v1/tracks/6naxalmIoLFWR0siv8dnQQ
+Yeah!,5rb9QrpfcKFHM1EUbSIurX,0.0183,0.894,250373,0.791,0.0,2,0.0388,-4.699,1,0.112,105.018,0.583,https://api.spotify.com/v1/tracks/5rb9QrpfcKFHM1EUbSIurX
+I Like Me Better,2P91MQbaiQOfbiz9VqhqKQ,0.535,0.752,197437,0.505,2.55e-06,9,0.104,-7.621,1,0.253,91.97,0.419,https://api.spotify.com/v1/tracks/2P91MQbaiQOfbiz9VqhqKQ
+High Hopes,1rqqCSm0Qe4I9rUvWncaom,0.193,0.579,190947,0.904,0.0,5,0.064,-2.729,1,0.0618,82.014,0.681,https://api.spotify.com/v1/tracks/1rqqCSm0Qe4I9rUvWncaom
+Better Now,7dt6x5M1jzdTEt8oCbisTK,0.354,0.68,231267,0.563,0.0,10,0.136,-5.843,1,0.0454,145.028,0.374,https://api.spotify.com/v1/tracks/7dt6x5M1jzdTEt8oCbisTK
+Accelerate,5eQ9IwVa9EodrmIItRQpaA,0.371,0.799,243062,0.629,2.01e-06,0,0.15,-5.638,0,0.14,128.041,0.293,https://api.spotify.com/v1/tracks/5eQ9IwVa9EodrmIItRQpaA
+Immaterial,02Mkz55cCAHabqlxwSP6X0,0.115,0.776,232807,0.717,0.00755,2,0.327,-4.897,1,0.0836,139.995,0.828,https://api.spotify.com/v1/tracks/02Mkz55cCAHabqlxwSP6X0
+Better,4T3fNx3CgwDRRYgmFCbD4J,0.0984,0.442,229413,0.585,0.391,0,0.14,-10.332,0,0.0964,97.565,0.116,https://api.spotify.com/v1/tracks/4T3fNx3CgwDRRYgmFCbD4J
+Girls Like You (feat. Cardi B),6FRLCMO5TUHTexlWo8ym1W,0.568,0.851,235545,0.541,0.0,0,0.13,-6.825,1,0.0505,124.959,0.448,https://api.spotify.com/v1/tracks/6FRLCMO5TUHTexlWo8ym1W
+I Didn’t Just Come Here To Dance,3dsGuRbNIiQgkSswZIZu1w,0.125,0.813,219893,0.617,0.000107,3,0.213,-7.036,0,0.036,122.041,0.526,https://api.spotify.com/v1/tracks/3dsGuRbNIiQgkSswZIZu1w
+Never Forget You,6WLS56xiRrXjSm9RSdL3zD,0.00312,0.583,213428,0.732,9.86e-06,11,0.269,-5.728,0,0.0457,145.992,0.276,https://api.spotify.com/v1/tracks/6WLS56xiRrXjSm9RSdL3zD
+1999,05mAIVLkIWc2d1UBYZBCp8,0.0227,0.739,189000,0.742,1.39e-06,7,0.229,-4.586,1,0.0329,124.016,0.659,https://api.spotify.com/v1/tracks/05mAIVLkIWc2d1UBYZBCp8
+Body,21RzyxY3EFaxVy6K4RqaU9,0.0476,0.752,163216,0.764,9.44e-05,1,0.0543,-4.399,1,0.038,121.958,0.582,https://api.spotify.com/v1/tracks/21RzyxY3EFaxVy6K4RqaU9
+Peace Sign,3DlGY66fukwF71OYNLylxc,0.141,0.796,178040,0.535,0.0,8,0.192,-7.783,1,0.0453,119.936,0.349,https://api.spotify.com/v1/tracks/3DlGY66fukwF71OYNLylxc
+NEW ORLEANS,5kkxyqYSQrnHpfsmkjKi81,0.232,0.639,243280,0.815,0.0,11,0.299,-4.962,0,0.252,159.903,0.4,https://api.spotify.com/v1/tracks/5kkxyqYSQrnHpfsmkjKi81
+Pretty Girl - Cheat Codes X CADE Remix,1NDxZ7cFAo481dtYWdrUnR,0.15,0.703,193613,0.868,0.132,7,0.104,-4.661,0,0.0291,121.03,0.733,https://api.spotify.com/v1/tracks/1NDxZ7cFAo481dtYWdrUnR
+IDGAF,76cy1WJvNGJTj78UqeA5zr,0.0403,0.836,217947,0.544,0.0,7,0.0824,-5.975,1,0.0943,97.028,0.51,https://api.spotify.com/v1/tracks/76cy1WJvNGJTj78UqeA5zr
+Waste It On Me (feat. BTS),2r1T6xGTVaNAqBoPH4lZEE,0.252,0.669,192537,0.684,0.0,7,0.72,-4.595,1,0.0585,96.097,0.466,https://api.spotify.com/v1/tracks/2r1T6xGTVaNAqBoPH4lZEE
+Honey,4ieJSEFwhgIVJK97Rw4NkJ,0.017,0.637,294003,0.606,0.00076,11,0.125,-8.699,0,0.0994,115.88,0.0632,https://api.spotify.com/v1/tracks/4ieJSEFwhgIVJK97Rw4NkJ
+Walking Trophy,4hGHcdD5IwjAkftalZm5an,0.129,0.691,215112,0.604,0.00494,0,0.108,-6.358,1,0.341,125.55,0.44,https://api.spotify.com/v1/tracks/4hGHcdD5IwjAkftalZm5an
+"Crazy, Classic, Life",06EAtSDu3KSoi4fbA3ZjoB,0.0084,0.466,286627,0.706,0.00163,6,0.223,-7.943,0,0.0544,101.009,0.149,https://api.spotify.com/v1/tracks/06EAtSDu3KSoi4fbA3ZjoB
+Kiss and Make Up,7jr3iPu4O4bTCVwLMbdU2i,0.0658,0.678,189173,0.729,0.0,8,0.303,-4.188,1,0.137,99.895,0.643,https://api.spotify.com/v1/tracks/7jr3iPu4O4bTCVwLMbdU2i
+3 Nights,1tNJrcVe6gwLEiZCtprs1u,0.223,0.815,177667,0.518,0.0,7,0.104,-6.594,0,0.0897,151.891,0.877,https://api.spotify.com/v1/tracks/1tNJrcVe6gwLEiZCtprs1u

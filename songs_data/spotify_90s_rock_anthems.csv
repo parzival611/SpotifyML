@@ -1,0 +1,51 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Smells Like Teen Spirit,5ghIJDpPoe3CfHMGu71E6T,2.86e-05,0.516,301920,0.906,0.000101,1,0.105,-4.525,1,0.0658,116.775,0.728,https://api.spotify.com/v1/tracks/5ghIJDpPoe3CfHMGu71E6T
+Wonderwall - Remastered,5wj4E6IsrVtn8IBJQOd0Cl,0.000453,0.372,258733,0.865,0.0,2,0.234,-4.918,1,0.0381,174.53,0.478,https://api.spotify.com/v1/tracks/5wj4E6IsrVtn8IBJQOd0Cl
+Basket Case,6L89mwZXSOwYl76YXfX13s,0.00293,0.442,181533,0.943,8.71e-06,3,0.091,-3.205,1,0.0602,85.064,0.781,https://api.spotify.com/v1/tracks/6L89mwZXSOwYl76YXfX13s
+Zombie,2IZZqH4K02UIYg5EohpNHF,0.0163,0.299,306411,0.613,0.00359,7,0.368,-9.012,1,0.0347,166.96,0.306,https://api.spotify.com/v1/tracks/2IZZqH4K02UIYg5EohpNHF
+Are You Gonna Go My Way,45Ia1U4KtIjAPPU7Wv1Sea,0.00165,0.619,211933,0.67,0.0109,11,0.331,-10.319,0,0.0353,129.267,0.777,https://api.spotify.com/v1/tracks/45Ia1U4KtIjAPPU7Wv1Sea
+All Star,7ntXYU4zboGuq5ZunkrXRB,0.0395,0.731,200373,0.867,0.0,11,0.0861,-5.881,1,0.032,104.019,0.776,https://api.spotify.com/v1/tracks/7ntXYU4zboGuq5ZunkrXRB
+Come As You Are,4P5KoWXOxwuobLmHXLMobV,0.000182,0.505,218920,0.825,0.000948,4,0.0855,-5.721,0,0.0401,119.987,0.541,https://api.spotify.com/v1/tracks/4P5KoWXOxwuobLmHXLMobV
+Self Esteem,1FkoVC85Ds3mFoK0fVqEqP,0.0204,0.488,257827,0.862,0.0,0,0.359,-7.595,1,0.0476,104.56,0.706,https://api.spotify.com/v1/tracks/1FkoVC85Ds3mFoK0fVqEqP
+Losing My Religion,4d9RTWdrFLVAGhdzvqxkwn,0.0943,0.7,268933,0.686,1.93e-06,9,0.0847,-10.338,0,0.0279,125.412,0.815,https://api.spotify.com/v1/tracks/4d9RTWdrFLVAGhdzvqxkwn
+Under The Bridge,3d9DChrdc6BOeFsbrZ3Is0,0.0576,0.559,264307,0.345,0.000105,4,0.141,-13.496,1,0.0459,84.581,0.458,https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0
+Song 2 - 2012 Remastered Version,1FTSo4v6BOZH9QxKc3MbVM,0.00178,0.674,121160,0.789,0.0071,8,0.0754,-6.903,1,0.0676,129.804,0.918,https://api.spotify.com/v1/tracks/1FTSo4v6BOZH9QxKc3MbVM
+Bitter Sweet Symphony,5yEPxDjbbzUzyauGtnmVEC,0.0415,0.389,358427,0.889,0.0,9,0.463,-6.546,1,0.0442,171.121,0.524,https://api.spotify.com/v1/tracks/5yEPxDjbbzUzyauGtnmVEC
+Creep,3HfB5hBU0dmBt8T0iCmH42,0.00563,0.532,235667,0.344,0.000473,7,0.115,-13.057,1,0.035,91.834,0.126,https://api.spotify.com/v1/tracks/3HfB5hBU0dmBt8T0iCmH42
+Nothing Else Matters,3ZFwuJwUpIl0GeXsvF1ELf,0.0505,0.558,388733,0.364,5.02e-06,4,0.0753,-11.258,0,0.0265,142.171,0.17,https://api.spotify.com/v1/tracks/3ZFwuJwUpIl0GeXsvF1ELf
+The Kids Aren't Alright,01a0J96fRD91VnjQQUCqMK,0.00594,0.527,180160,0.941,2.89e-05,1,0.0641,-4.213,1,0.0377,99.636,0.793,https://api.spotify.com/v1/tracks/01a0J96fRD91VnjQQUCqMK
+All The Small Things,7yCPwWs66K8Ba5lFuU2bcx,0.0122,0.439,168000,0.891,0.0,0,0.547,-4.764,1,0.057,148.599,0.695,https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
+Don't Speak,5PsUB0ISfQxRLhF5DmI5Ks,0.24,0.522,263000,0.707,2.04e-05,5,0.156,-7.113,0,0.0354,76.05,0.572,https://api.spotify.com/v1/tracks/5PsUB0ISfQxRLhF5DmI5Ks
+Killing In The Name,59WN2psjkt1tyaxjspN8fp,0.0266,0.466,313573,0.833,0.0,7,0.0327,-4.215,1,0.304,88.785,0.661,https://api.spotify.com/v1/tracks/59WN2psjkt1tyaxjspN8fp
+Closing Time,4EnkwZd0UJAuHpNMMemQaA,0.0204,0.481,273160,0.865,1.24e-06,7,0.17,-5.498,1,0.0283,92.086,0.241,https://api.spotify.com/v1/tracks/4EnkwZd0UJAuHpNMMemQaA
+Loser,5PntSbMHC1ud6Vvl8x56qd,0.0341,0.66,235000,0.627,9.64e-05,6,0.385,-10.397,0,0.124,85.44,0.789,https://api.spotify.com/v1/tracks/5PntSbMHC1ud6Vvl8x56qd
+Don't Look Back In Anger - Remastered,7CVYxHq1L0Z4G84jTDS6Jl,0.0596,0.333,289559,0.922,2.05e-06,0,0.126,-4.087,1,0.0592,162.978,0.335,https://api.spotify.com/v1/tracks/7CVYxHq1L0Z4G84jTDS6Jl
+Everlong,5UWwZ5lm5PKu6eKsHAGxOk,5.96e-05,0.412,250547,0.882,0.00031,11,0.0805,-5.54,0,0.0369,158.066,0.356,https://api.spotify.com/v1/tracks/5UWwZ5lm5PKu6eKsHAGxOk
+1979 - Remastered 2012,5QLHGv0DfpeXLNFo7SFEy1,0.0166,0.765,266200,0.788,0.588,3,0.0513,-9.896,1,0.0332,126.879,0.964,https://api.spotify.com/v1/tracks/5QLHGv0DfpeXLNFo7SFEy1
+Drive,73fzhVcs7n1wZz84eoE2vs,0.0538,0.651,232533,0.793,0.01,4,0.137,-7.312,0,0.0338,90.573,0.682,https://api.spotify.com/v1/tracks/73fzhVcs7n1wZz84eoE2vs
+November Rain,53968oKecrFxkErocab2Al,0.0165,0.197,537507,0.629,0.279,11,0.125,-9.291,1,0.03,79.495,0.221,https://api.spotify.com/v1/tracks/53968oKecrFxkErocab2Al
+Santeria,6cJqlSO19vsfCsH1FeFI35,0.0223,0.673,183200,0.772,1.23e-06,1,0.141,-5.246,0,0.0427,90.356,0.585,https://api.spotify.com/v1/tracks/6cJqlSO19vsfCsH1FeFI35
+Black Hole Sun,2EoOZnxNgtmZaD8uUmz2nD,0.000203,0.354,318587,0.825,6.95e-05,6,0.0758,-5.325,1,0.0406,105.495,0.16,https://api.spotify.com/v1/tracks/2EoOZnxNgtmZaD8uUmz2nD
+No Rain,6txWz9UapYHVxEd7dDIHXT,0.619,0.389,217107,0.476,5.09e-05,9,0.255,-9.342,1,0.0316,148.117,0.566,https://api.spotify.com/v1/tracks/6txWz9UapYHVxEd7dDIHXT
+Alive,4Qbjmdlv1eZDD1u8SWe1pt,0.00541,0.298,341160,0.825,1.46e-05,2,0.44,-8.053,1,0.0408,75.592,0.54,https://api.spotify.com/v1/tracks/4Qbjmdlv1eZDD1u8SWe1pt
+Semi-Charmed Life,42et6fnHCw1HIPSrdPprMl,0.00832,0.64,268360,0.864,0.0,7,0.123,-6.576,1,0.0315,102.026,0.7,https://api.spotify.com/v1/tracks/42et6fnHCw1HIPSrdPprMl
+Hallelujah,74X1epeRufHckhuX1KFD04,0.921,0.339,413320,0.143,0.000636,0,0.372,-10.78,1,0.0317,101.213,0.0948,https://api.spotify.com/v1/tracks/74X1epeRufHckhuX1KFD04
+Alright,5xC8uOesnn0udeXAYlAnoY,0.000479,0.467,180880,0.958,0.199,4,0.299,-4.808,0,0.0775,145.92,0.701,https://api.spotify.com/v1/tracks/5xC8uOesnn0udeXAYlAnoY
+Say It Ain't So,4YPhn26bIFm2KUkL1VLzQG,0.00328,0.635,256880,0.435,6.78e-06,3,0.071,-7.521,1,0.031,76.098,0.459,https://api.spotify.com/v1/tracks/4YPhn26bIFm2KUkL1VLzQG
+Sabotage,0Puj4YlTm6xNzDDADXHMI9,0.032,0.324,178440,0.938,0.0321,6,0.0961,-7.332,0,0.102,168.131,0.543,https://api.spotify.com/v1/tracks/0Puj4YlTm6xNzDDADXHMI9
+Bullet With Butterfly Wings,1EzeXGaZdqsA4Nst1AIAL2,5.01e-05,0.389,257707,0.705,0.86,10,0.09,-10.331,0,0.0553,122.154,0.555,https://api.spotify.com/v1/tracks/1EzeXGaZdqsA4Nst1AIAL2
+Interstate Love Song,1AfYo6cKm3yHsJHdmNoGO1,0.000552,0.214,193613,0.947,0.00352,4,0.238,-5.053,1,0.0507,170.616,0.483,https://api.spotify.com/v1/tracks/1AfYo6cKm3yHsJHdmNoGO1
+Every You Every Me,3tRv4ZYZimrL27flnjgeR6,2.7e-05,0.478,213800,0.923,0.719,10,0.325,-7.547,1,0.0569,133.134,0.165,https://api.spotify.com/v1/tracks/3tRv4ZYZimrL27flnjgeR6
+Lump,2JdzB67NvIa90K4gEZPLeX,0.00468,0.499,134200,0.873,0.0,6,0.165,-3.902,1,0.0386,142.726,0.864,https://api.spotify.com/v1/tracks/2JdzB67NvIa90K4gEZPLeX
+Glycerine - Remastered,2nzlgHTbUDzuRtTFoX3qfJ,0.0325,0.427,266493,0.337,0.00215,5,0.0872,-11.38,1,0.0324,114.075,0.0849,https://api.spotify.com/v1/tracks/2nzlgHTbUDzuRtTFoX3qfJ
+Epic,4ReyTz0y3TGkX48wO3Llot,0.0222,0.358,293653,0.893,0.0524,4,0.126,-7.486,0,0.12,174.238,0.262,https://api.spotify.com/v1/tracks/4ReyTz0y3TGkX48wO3Llot
+Celebrity Skin,2VTQAjZr7FPoEJD2sNoH3o,1.35e-05,0.443,162493,0.896,0.000101,9,0.369,-6.163,1,0.0457,134.145,0.733,https://api.spotify.com/v1/tracks/2VTQAjZr7FPoEJD2sNoH3o
+Closer,39tLc4Xp58Lu4KcWHggeE2,0.000365,0.559,373307,0.725,0.553,10,0.112,-8.631,0,0.0426,90.012,0.501,https://api.spotify.com/v1/tracks/39tLc4Xp58Lu4KcWHggeE2
+The Distance,0fsz7tJ7UKXT9hliLfO7aE,0.0095,0.456,179600,0.752,0.00145,11,0.0573,-8.121,0,0.09,183.569,0.897,https://api.spotify.com/v1/tracks/0fsz7tJ7UKXT9hliLfO7aE
+Stupid Girl,0h4fRpHrxBeR3XWHmcolaU,0.00336,0.588,258133,0.804,0.00172,11,0.0358,-4.006,1,0.0333,120.015,0.736,https://api.spotify.com/v1/tracks/0h4fRpHrxBeR3XWHmcolaU
+Hedonism - Just Because You Feel Good,4fBkJ3DTCPKWUBBAtMdimK,0.0874,0.563,207360,0.536,0.000105,10,0.164,-9.488,1,0.0286,81.094,0.312,https://api.spotify.com/v1/tracks/4fBkJ3DTCPKWUBBAtMdimK
+Would?,5sFDReWLrZHLFZFjHsjUTS,0.000332,0.305,206773,0.832,2.4e-05,6,0.091,-7.981,1,0.0398,100.677,0.585,https://api.spotify.com/v1/tracks/5sFDReWLrZHLFZFjHsjUTS
+Hunger Strike - 25th Anniversary Mix,3CtphwpjC0XjIVpLFvGiQR,0.0249,0.384,246267,0.733,2.61e-05,7,0.114,-6.522,1,0.0318,137.834,0.314,https://api.spotify.com/v1/tracks/3CtphwpjC0XjIVpLFvGiQR
+Tomorrow - Remastered,24tO365YW6lcZr1hN4Ukzj,0.000658,0.292,266280,0.714,0.000109,2,0.102,-4.919,1,0.0316,151.412,0.462,https://api.spotify.com/v1/tracks/24tO365YW6lcZr1hN4Ukzj
+Cannonball,2hjGuRIEfEGzQ5MEWLowiU,0.00915,0.502,213693,0.758,0.783,3,0.284,-9.76,1,0.0407,112.508,0.729,https://api.spotify.com/v1/tracks/2hjGuRIEfEGzQ5MEWLowiU
+Popular,48sJGpBLqQTs0sZ2ImHJof,0.00751,0.444,220587,0.884,8.94e-05,7,0.116,-6.104,1,0.119,94.82,0.296,https://api.spotify.com/v1/tracks/48sJGpBLqQTs0sZ2ImHJof

@@ -1,0 +1,70 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+Lazy Afternoon,5JmJVj3qLsCnBsQ8IC9XLf,0.0112,0.775,210347,0.678,0.0105,7,0.125,-6.915,1,0.0351,147.847,0.93,https://api.spotify.com/v1/tracks/5JmJVj3qLsCnBsQ8IC9XLf
+Stone Love,1AO26gK1sI6PoFY9eUF8yV,0.0571,0.837,254800,0.478,0.00129,6,0.0569,-5.861,0,0.0627,78.746,0.81,https://api.spotify.com/v1/tracks/1AO26gK1sI6PoFY9eUF8yV
+If You Want It,6csv4sjaic4Q3IMgNMEan8,0.1,0.565,241307,0.875,0.000325,2,0.244,-5.905,0,0.0458,155.546,0.891,https://api.spotify.com/v1/tracks/6csv4sjaic4Q3IMgNMEan8
+Santeria,6cJqlSO19vsfCsH1FeFI35,0.0223,0.673,183200,0.772,1.23e-06,1,0.141,-5.246,0,0.0427,90.356,0.585,https://api.spotify.com/v1/tracks/6cJqlSO19vsfCsH1FeFI35
+True To Myself,5N0lcnJTtKj4wNDvurHige,0.0796,0.88,225600,0.564,0.0,1,0.0565,-6.431,1,0.0498,99.019,0.83,https://api.spotify.com/v1/tracks/5N0lcnJTtKj4wNDvurHige
+Lay Me Down,4L0nc0tHfDjr3HlAm1EFeu,0.0487,0.668,215147,0.78,0.0,7,0.107,-6.481,1,0.0901,170.032,0.739,https://api.spotify.com/v1/tracks/4L0nc0tHfDjr3HlAm1EFeu
+If That's Ok,7wQ9DeZTB7OJ8rnrxeUHSl,0.0816,0.687,196197,0.491,5.25e-06,5,0.0901,-8.636,1,0.368,169.938,0.663,https://api.spotify.com/v1/tracks/7wQ9DeZTB7OJ8rnrxeUHSl
+Count Me In,0BweE3lWBMXRPWWLtLV5z8,0.0204,0.8,189613,0.661,0.000107,7,0.0687,-8.291,1,0.0304,92.015,0.59,https://api.spotify.com/v1/tracks/0BweE3lWBMXRPWWLtLV5z8
+World on Fire,7Clj1VaR0Vww6bUuM3nBk1,0.303,0.866,240029,0.518,0.0512,0,0.104,-7.372,1,0.0457,141.01,0.644,https://api.spotify.com/v1/tracks/7Clj1VaR0Vww6bUuM3nBk1
+Dawn of Time,445qQk3nyQwmjf4vzDghKd,0.0736,0.701,256453,0.565,0.000504,7,0.193,-10.709,1,0.0553,153.942,0.899,https://api.spotify.com/v1/tracks/445qQk3nyQwmjf4vzDghKd
+Take It Or Leave It,0qdnPX9umHlQBQuv2sYZlo,0.0367,0.677,232813,0.716,0.0,9,0.148,-6.312,1,0.272,164.022,0.828,https://api.spotify.com/v1/tracks/0qdnPX9umHlQBQuv2sYZlo
+Vacation,7cdy4PbCdDZZNjyxoZyE0c,0.0431,0.739,209142,0.754,0.0,8,0.0999,-5.034,1,0.035,150.017,0.793,https://api.spotify.com/v1/tracks/7cdy4PbCdDZZNjyxoZyE0c
+Love Letter,3BojnSbIR2oKctO3nvBLRb,0.13,0.83,214293,0.55,0.136,7,0.073,-5.367,1,0.0568,145.004,0.97,https://api.spotify.com/v1/tracks/3BojnSbIR2oKctO3nvBLRb
+Ordinary Girl,1mB5iZe1OrN9gYZtLOklI6,0.000728,0.786,230880,0.669,0.0,1,0.0346,-8.273,0,0.0669,77.177,0.832,https://api.spotify.com/v1/tracks/1mB5iZe1OrN9gYZtLOklI6
+Oxygen,3YbtjYddK11NTDdUpC4nGp,0.0744,0.68,225395,0.878,0.0,8,0.137,-3.923,0,0.0554,169.987,0.769,https://api.spotify.com/v1/tracks/3YbtjYddK11NTDdUpC4nGp
+Bowl For Two,260F1LrhRMiuXOZIaypMZd,0.0749,0.728,283427,0.5,5.84e-06,4,0.108,-6.214,0,0.0344,138.528,0.382,https://api.spotify.com/v1/tracks/260F1LrhRMiuXOZIaypMZd
+Celebrate,26IEVYmeFletNA10cOkdBb,0.0224,0.66,243174,0.679,0.0,2,0.0945,-6.749,1,0.111,164.11,0.595,https://api.spotify.com/v1/tracks/26IEVYmeFletNA10cOkdBb
+Set Sail - Original Mix,2nkuZha8Oe9puQ8ZX1P9ha,0.217,0.747,216477,0.657,0.0,7,0.0844,-5.993,1,0.0525,96.286,0.725,https://api.spotify.com/v1/tracks/2nkuZha8Oe9puQ8ZX1P9ha
+Marinade,2N60TAtXaCbmi7zqdUoW61,0.242,0.677,237961,0.74,0.0146,2,0.105,-6.528,1,0.0243,110.193,0.679,https://api.spotify.com/v1/tracks/2N60TAtXaCbmi7zqdUoW61
+Here I Am,6Z6fRmXfG4mr4WwSY4DdKy,0.568,0.798,288867,0.403,0.0,2,0.0984,-9.719,1,0.0459,147.846,0.813,https://api.spotify.com/v1/tracks/6Z6fRmXfG4mr4WwSY4DdKy
+Could You Be Loved,5O4erNlJ74PIF6kGol1ZrC,0.363,0.923,237000,0.728,0.000169,0,0.0941,-8.518,1,0.101,103.299,0.751,https://api.spotify.com/v1/tracks/5O4erNlJ74PIF6kGol1ZrC
+Time Bomb,6M7R9BK3Etvt0UNhbHoQlR,0.192,0.754,190693,0.59,0.0,4,0.11,-6.525,0,0.046,147.107,0.784,https://api.spotify.com/v1/tracks/6M7R9BK3Etvt0UNhbHoQlR
+I Can't Stop Dreaming,4TperWTGS3d6YRzqRLSUKc,0.0497,0.581,256594,0.788,1.28e-06,1,0.0982,-6.297,1,0.0371,145.91,0.734,https://api.spotify.com/v1/tracks/4TperWTGS3d6YRzqRLSUKc
+Love Her Anyways,3B8TBGV0upObaUd9z4O9W8,0.22,0.687,186846,0.537,0.0,0,0.314,-10.923,1,0.0676,74.496,0.657,https://api.spotify.com/v1/tracks/3B8TBGV0upObaUd9z4O9W8
+Bullet and a Target,3r7gP3kGBkldTrOO6ebMGy,0.335,0.732,263400,0.835,2.43e-06,5,0.0354,-3.279,0,0.0819,80.696,0.892,https://api.spotify.com/v1/tracks/3r7gP3kGBkldTrOO6ebMGy
+Sunshine,1ma4sCjoVMptvilcgJDPGc,0.00747,0.697,213069,0.769,0.0,0,0.0733,-3.712,1,0.0626,100.029,0.822,https://api.spotify.com/v1/tracks/1ma4sCjoVMptvilcgJDPGc
+Bad Seeds,1nAowDnk4GGdV4YsE08wd7,0.0658,0.758,166400,0.565,0.0,7,0.218,-7.74,1,0.237,164.029,0.446,https://api.spotify.com/v1/tracks/1nAowDnk4GGdV4YsE08wd7
+Collie Man,3Zjdqz7eOox8XU0zTCPL4P,0.183,0.61,133080,0.706,0.000587,0,0.218,-7.084,1,0.0483,170.087,0.344,https://api.spotify.com/v1/tracks/3Zjdqz7eOox8XU0zTCPL4P
+Come Around,1a64u7QtJ9yDwpNyfDrZTj,0.0144,0.497,221507,0.786,0.0,1,0.638,-6.05,0,0.322,152.982,0.736,https://api.spotify.com/v1/tracks/1a64u7QtJ9yDwpNyfDrZTj
+Love & Affection,3kbrIhpuDBQPr7E9r2VWPR,0.317,0.643,223360,0.585,0.0,4,0.0942,-5.969,0,0.244,80.062,0.678,https://api.spotify.com/v1/tracks/3kbrIhpuDBQPr7E9r2VWPR
+Closer To The Sun,17xbKoCF5iDcSb9usFt2yO,0.199,0.562,145218,0.728,0.00405,7,0.252,-5.492,1,0.0275,75.266,0.521,https://api.spotify.com/v1/tracks/17xbKoCF5iDcSb9usFt2yO
+Summer Nights,0QkWubamAKEvvcOTriSKX3,0.0201,0.835,236093,0.609,1.28e-06,9,0.107,-5.636,1,0.0336,130.154,0.781,https://api.spotify.com/v1/tracks/0QkWubamAKEvvcOTriSKX3
+Welcome To Jamrock,22AbXxQbMdVqEz7xJjhccG,0.0229,0.84,213200,0.658,0.0,7,0.342,-6.496,0,0.333,76.638,0.732,https://api.spotify.com/v1/tracks/22AbXxQbMdVqEz7xJjhccG
+Upper Hand,0hu64sr1dgaFMEk3VbSWpM,0.00025,0.736,191516,0.785,1.13e-05,9,0.0955,-4.145,0,0.0305,100.003,0.247,https://api.spotify.com/v1/tracks/0hu64sr1dgaFMEk3VbSWpM
+Dragonfly,0hbwNBhwl1Qr7pY7i3oC69,0.527,0.461,285480,0.476,0.000203,0,0.346,-12.181,1,0.0422,117.947,0.333,https://api.spotify.com/v1/tracks/0hbwNBhwl1Qr7pY7i3oC69
+Love I,4Hrw5VbQ9xDPdHdLCqBsSA,0.344,0.856,216240,0.47,0.0,7,0.124,-8.467,1,0.084,133.02,0.929,https://api.spotify.com/v1/tracks/4Hrw5VbQ9xDPdHdLCqBsSA
+Fade Away,4TyCnstYu6LGrjka5WW6ft,0.181,0.685,209253,0.54,0.015,9,0.114,-9.701,1,0.0253,109.926,0.235,https://api.spotify.com/v1/tracks/4TyCnstYu6LGrjka5WW6ft
+That's All I Need,4DwguUsNBxsjZfmMzHZpCR,0.0175,0.765,213147,0.657,0.0,11,0.345,-6.394,0,0.0829,91.998,0.553,https://api.spotify.com/v1/tracks/4DwguUsNBxsjZfmMzHZpCR
+I'm Out,5mzVVbF8nuKatFjKnwzcnU,0.541,0.757,215349,0.539,2.23e-06,10,0.106,-11.438,1,0.0445,96.01,0.795,https://api.spotify.com/v1/tracks/5mzVVbF8nuKatFjKnwzcnU
+More,3oC1U4TxNy8aAQdEoWWH3s,0.0581,0.657,295159,0.786,1.04e-06,8,0.106,-5.518,1,0.0575,142.008,0.684,https://api.spotify.com/v1/tracks/3oC1U4TxNy8aAQdEoWWH3s
+One Love,7cRTzS9N5Mn25ZZkzmp6Uy,0.0349,0.715,172813,0.543,0.0,10,0.0432,-8.807,1,0.335,76.55,0.926,https://api.spotify.com/v1/tracks/7cRTzS9N5Mn25ZZkzmp6Uy
+Bang Bang,2yGoiZes2YcueNA4nGDmdS,0.668,0.572,267747,0.488,0.0,4,0.11,-10.179,1,0.124,132.142,0.642,https://api.spotify.com/v1/tracks/2yGoiZes2YcueNA4nGDmdS
+Right Me Up,2f5m5MB4H5wRS5iu7oee1Q,0.501,0.55,253040,0.542,0.0,0,0.345,-7.017,1,0.0581,173.896,0.641,https://api.spotify.com/v1/tracks/2f5m5MB4H5wRS5iu7oee1Q
+Follow The Sun,0X1IP1zJNd3FgdiY75n7zW,0.546,0.613,255480,0.41,6.31e-05,0,0.109,-10.747,1,0.0433,123.843,0.18,https://api.spotify.com/v1/tracks/0X1IP1zJNd3FgdiY75n7zW
+Bring Me Along,618AH9RmEVaT8Q5oFFmGFX,0.18,0.648,212927,0.543,0.0,2,0.273,-5.576,1,0.0509,76.089,0.368,https://api.spotify.com/v1/tracks/618AH9RmEVaT8Q5oFFmGFX
+Walk Away,1eOziaSzn0gjsH4PsxVD6p,0.0627,0.745,203680,0.718,0.0,9,0.195,-6.707,1,0.0392,104.983,0.852,https://api.spotify.com/v1/tracks/1eOziaSzn0gjsH4PsxVD6p
+Upside Down,6shRGWCtBUOPFLFTTqXZIC,0.248,0.786,208653,0.648,0.000156,6,0.138,-8.317,0,0.0522,102.399,0.652,https://api.spotify.com/v1/tracks/6shRGWCtBUOPFLFTTqXZIC
+Pressure Drop,7cfILJJHW9ZSkbM2ywLhiN,0.106,0.658,174960,0.571,0.0,8,0.0286,-11.972,1,0.0432,148.964,0.985,https://api.spotify.com/v1/tracks/7cfILJJHW9ZSkbM2ywLhiN
+Lemonade (feat. Mike Posner),6MjyB01eNCjBAXbXWDSvju,0.323,0.671,172908,0.788,0.0,7,0.0545,-4.008,0,0.0481,90.032,0.878,https://api.spotify.com/v1/tracks/6MjyB01eNCjBAXbXWDSvju
+Thotful,6zrf5IkFkMJnaDuLlWyTwR,0.244,0.682,251160,0.701,0.0,9,0.0716,-5.988,1,0.0696,99.532,0.623,https://api.spotify.com/v1/tracks/6zrf5IkFkMJnaDuLlWyTwR
+The Sound Of Sunshine,6iBWazas8QsDtBnjlXkrXk,0.0164,0.673,225133,0.902,0.0145,10,0.269,-4.886,1,0.0553,97.007,0.704,https://api.spotify.com/v1/tracks/6iBWazas8QsDtBnjlXkrXk
+Badfish,4KnpSJBbcpJBAjEaaJBcL8,0.0912,0.803,187213,0.427,0.00167,11,0.388,-7.36,0,0.0538,92.042,0.505,https://api.spotify.com/v1/tracks/4KnpSJBbcpJBAjEaaJBcL8
+Breakdown,5Irp7GSDmBquYrMkBw3fDE,0.641,0.586,253933,0.499,0.000469,0,0.87,-11.111,1,0.04,139.652,0.509,https://api.spotify.com/v1/tracks/5Irp7GSDmBquYrMkBw3fDE
+What I Got,3oVSsJXNADnYAnZWiEWFJH,0.0172,0.795,171067,0.706,0.000384,7,0.326,-7.494,1,0.101,95.593,0.623,https://api.spotify.com/v1/tracks/3oVSsJXNADnYAnZWiEWFJH
+Green Mountain State,0c7iF5fSBYxCuwsAv2z4iI,0.351,0.693,274632,0.367,2.9e-05,3,0.111,-11.66,1,0.0323,129.879,0.286,https://api.spotify.com/v1/tracks/0c7iF5fSBYxCuwsAv2z4iI
+Down With You,47Axm1bTbEbOvkXpzOv5ZQ,0.0808,0.783,210051,0.606,0.0,0,0.0648,-5.742,1,0.0629,77.511,0.883,https://api.spotify.com/v1/tracks/47Axm1bTbEbOvkXpzOv5ZQ
+Shine,4X0JEpL31G8J9CxrNRrIFG,0.276,0.854,194421,0.732,1.95e-06,7,0.56,-6.811,1,0.0349,119.093,0.55,https://api.spotify.com/v1/tracks/4X0JEpL31G8J9CxrNRrIFG
+Where's The Love,1XShVicocgCeGOxDAtHSAN,0.446,0.622,239853,0.702,0.0,9,0.101,-5.391,1,0.0524,78.513,0.611,https://api.spotify.com/v1/tracks/1XShVicocgCeGOxDAtHSAN
+I Found You,3aiwhWDFF1f9EHia0UtM2F,0.0279,0.712,345484,0.512,0.00061,2,0.342,-8.36,1,0.0344,123.937,0.404,https://api.spotify.com/v1/tracks/3aiwhWDFF1f9EHia0UtM2F
+Something to Believe In,5HArgIAtPsyx9eCCGmrxqs,0.0398,0.66,221933,0.877,0.00894,5,0.0821,-7.04,1,0.0507,155.918,0.9,https://api.spotify.com/v1/tracks/5HArgIAtPsyx9eCCGmrxqs
+Wake Up,5iQCD42G5pGwBc6crVaHnq,0.117,0.895,287613,0.52,0.0,11,0.15,-9.451,0,0.0507,127.966,0.599,https://api.spotify.com/v1/tracks/5iQCD42G5pGwBc6crVaHnq
+Beach In Hawaii,1ZPsdTkzhDeHjA5c2Rnt2I,0.211,0.807,220413,0.458,9.01e-06,9,0.0839,-9.594,0,0.0361,100.959,0.874,https://api.spotify.com/v1/tracks/1ZPsdTkzhDeHjA5c2Rnt2I
+Three Little Birds,26JRni5Lqiyd9GNnlaz6DI,0.0109,0.781,180533,0.478,1.01e-06,9,0.0399,-10.54,1,0.0855,73.962,0.643,https://api.spotify.com/v1/tracks/26JRni5Lqiyd9GNnlaz6DI
+Good Vibes,4wrSKFdEWaTPtO6jNmmsQo,0.174,0.732,212153,0.727,0.0,6,0.12,-6.877,1,0.111,151.594,0.831,https://api.spotify.com/v1/tracks/4wrSKFdEWaTPtO6jNmmsQo
+"Wonderful World, Beautiful People - Single Version",4GEz5ZGMPcX9OZ5ta0v85e,0.0073,0.781,193480,0.491,0.0,2,0.0631,-11.279,1,0.0278,105.816,0.854,https://api.spotify.com/v1/tracks/4GEz5ZGMPcX9OZ5ta0v85e
+Love & Reggae,3UTQ0kUGjyW0ARltuyNO78,0.0333,0.746,218106,0.606,0.0,9,0.0603,-4.724,0,0.102,77.964,0.707,https://api.spotify.com/v1/tracks/3UTQ0kUGjyW0ARltuyNO78
+Burn One Down,2QzMJkYUhThZxM94ahgOzN,0.573,0.857,211627,0.404,0.73,5,0.0958,-10.669,1,0.0444,105.068,0.302,https://api.spotify.com/v1/tracks/2QzMJkYUhThZxM94ahgOzN
+Bad News,1daLygfXqxcRp5qEEzkhTg,0.0744,0.664,228143,0.76,0.0,4,0.126,-4.702,0,0.0894,147.964,0.521,https://api.spotify.com/v1/tracks/1daLygfXqxcRp5qEEzkhTg
+I Got You,5WjDmjD39LsFCRRALhorjd,0.622,0.898,179347,0.404,1.59e-05,11,0.0899,-6.541,1,0.0386,98.081,0.518,https://api.spotify.com/v1/tracks/5WjDmjD39LsFCRRALhorjd

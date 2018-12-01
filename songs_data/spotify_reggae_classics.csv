@@ -1,0 +1,61 @@
+,id,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence,track_href
+54-46 (Was My Number),16PhD3Jn5p7DwlMp7Ej7Rk,0.788,0.714,191360,0.377,4.68e-06,7,0.0817,-9.063,1,0.313,158.536,0.437,https://api.spotify.com/v1/tracks/16PhD3Jn5p7DwlMp7Ej7Rk
+Marcus Garvey,3Ni6vR9yGUnVy7fRFwpVfE,0.0442,0.726,199613,0.487,0.00766,0,0.0955,-9.235,1,0.0993,91.899,0.48,https://api.spotify.com/v1/tracks/3Ni6vR9yGUnVy7fRFwpVfE
+Jamming,0fF0HtZGSXZgGrC6b7Pq4I,0.153,0.939,214533,0.431,4.99e-05,11,0.13,-12.267,0,0.299,123.671,0.729,https://api.spotify.com/v1/tracks/0fF0HtZGSXZgGrC6b7Pq4I
+Here I Come,4abVwdCy5QUcyI3KS2lMJK,0.161,0.582,217200,0.663,0.0,4,0.198,-6.547,0,0.0828,170.82,0.695,https://api.spotify.com/v1/tracks/4abVwdCy5QUcyI3KS2lMJK
+"You Don't Love Me (No, No, No) - Extended Mix",0INtJm8gCJKtNaAYQNVlpZ,0.0122,0.811,277893,0.428,0.317,7,0.344,-10.728,1,0.221,80.962,0.653,https://api.spotify.com/v1/tracks/0INtJm8gCJKtNaAYQNVlpZ
+Night Nurse,1PHlYnuoDNtuuq6yPXbSV6,0.043,0.841,248693,0.309,0.0152,7,0.0368,-14.537,1,0.216,74.684,0.931,https://api.spotify.com/v1/tracks/1PHlYnuoDNtuuq6yPXbSV6
+Tenement Yard,4SNxXAQ8QMlxLhYVX7nuoE,0.229,0.888,154333,0.521,0.0,4,0.0794,-6.845,1,0.306,143.879,0.962,https://api.spotify.com/v1/tracks/4SNxXAQ8QMlxLhYVX7nuoE
+Dream Land,1haHZa75ytryLGUOtHiGl5,0.352,0.786,165893,0.485,0.00467,1,0.0424,-13.012,1,0.321,72.842,0.96,https://api.spotify.com/v1/tracks/1haHZa75ytryLGUOtHiGl5
+Bam Bam,7cKLOenzViwzoHJWciMIrj,0.825,0.722,196507,0.605,0.0178,5,0.248,-6.07,1,0.153,165.998,0.709,https://api.spotify.com/v1/tracks/7cKLOenzViwzoHJWciMIrj
+Israelites,18GLelA5vVdzd9X7WGPmJ8,0.188,0.793,155987,0.41,0.0,10,0.0855,-10.662,1,0.0511,146.467,0.931,https://api.spotify.com/v1/tracks/18GLelA5vVdzd9X7WGPmJ8
+Good Thing Going,4MM4UlT0j7MePs9bMoi34N,0.645,0.671,197333,0.519,0.000368,1,0.31,-11.165,1,0.0376,77.532,0.939,https://api.spotify.com/v1/tracks/4MM4UlT0j7MePs9bMoi34N
+Handsworth Revolution,5nr9S1hI8LHEh6jCkgtxLi,0.102,0.931,323227,0.398,0.000204,10,0.0754,-14.748,1,0.0967,118.494,0.709,https://api.spotify.com/v1/tracks/5nr9S1hI8LHEh6jCkgtxLi
+World-A-Reggae,70idjVtmzhvE1tXgHYEF2y,0.0105,0.863,230040,0.457,0.000774,6,0.0978,-11.445,0,0.0601,73.724,0.382,https://api.spotify.com/v1/tracks/70idjVtmzhvE1tXgHYEF2y
+Train To Skaville,466HPqJP2wrgOyI222XvPs,0.214,0.79,174160,0.228,0.496,8,0.311,-14.222,1,0.206,87.613,0.62,https://api.spotify.com/v1/tracks/466HPqJP2wrgOyI222XvPs
+Police In Helicopter,0mD19MC6H0OzHvEUADHypU,0.0331,0.686,219160,0.652,8.34e-06,9,0.0578,-7.586,0,0.111,141.185,0.503,https://api.spotify.com/v1/tracks/0mD19MC6H0OzHvEUADHypU
+Sky Larking,5xMGVCPC8fptCrhBGqeFxa,0.367,0.818,181394,0.475,9.14e-06,9,0.0524,-11.088,0,0.17,78.496,0.724,https://api.spotify.com/v1/tracks/5xMGVCPC8fptCrhBGqeFxa
+Zungguzungguguzungguzeng,4czopM9AcLjrH4IunzRoBg,0.0497,0.75,387307,0.474,0.0013,6,0.0896,-10.641,0,0.243,164.889,0.425,https://api.spotify.com/v1/tracks/4czopM9AcLjrH4IunzRoBg
+"Take Me Home, Country Roads",389R9arpxdfl0JA450Qn9m,0.449,0.609,201267,0.436,0.00677,8,0.121,-11.99,1,0.146,175.244,0.921,https://api.spotify.com/v1/tracks/389R9arpxdfl0JA450Qn9m
+Cool Down The Pace,069XwdkglfN94CvwUZvBxv,0.0887,0.87,315027,0.266,0.0217,10,0.0709,-15.559,1,0.264,76.37,0.929,https://api.spotify.com/v1/tracks/069XwdkglfN94CvwUZvBxv
+Waiting In Vain,7FILn9Akg2468HPNsRZCkq,0.025,0.838,256493,0.453,2.42e-05,8,0.116,-11.536,1,0.31,78.837,0.815,https://api.spotify.com/v1/tracks/7FILn9Akg2468HPNsRZCkq
+"Get Up, Stand Up",583d2NUV0t7Xk95ayb8qC4,0.258,0.776,198600,0.571,0.0,10,0.0494,-7.108,0,0.348,78.365,0.816,https://api.spotify.com/v1/tracks/583d2NUV0t7Xk95ayb8qC4
+Pressure Drop,7cfILJJHW9ZSkbM2ywLhiN,0.106,0.658,174960,0.571,0.0,8,0.0286,-11.972,1,0.0432,148.964,0.985,https://api.spotify.com/v1/tracks/7cfILJJHW9ZSkbM2ywLhiN
+Is This Love,4mPd1gJhgcYFRSJyoYAxE8,0.0083,0.758,231547,0.529,0.0,6,0.0533,-10.32,0,0.123,122.468,0.851,https://api.spotify.com/v1/tracks/4mPd1gJhgcYFRSJyoYAxE8
+The International Herb,0GGPUysb8GpCG76dQH63te,0.0585,0.825,200960,0.433,0.0,5,0.0618,-13.085,0,0.337,127.686,0.687,https://api.spotify.com/v1/tracks/0GGPUysb8GpCG76dQH63te
+Pass The Dutchie,7iWk45E2wIpFc3YUWm3VVn,0.427,0.8,204733,0.428,0.0,7,0.5,-14.283,1,0.0978,149.846,0.966,https://api.spotify.com/v1/tracks/7iWk45E2wIpFc3YUWm3VVn
+Sweat (A La La La La Long),1SssFw74DdHVjRa6ADggdD,0.0124,0.787,227067,0.727,0.0,0,0.157,-7.705,1,0.224,173.025,0.936,https://api.spotify.com/v1/tracks/1SssFw74DdHVjRa6ADggdD
+Red Red Wine,4uOKFydzAejjSFqYbv1XPt,0.00414,0.857,183113,0.468,1.32e-05,1,0.269,-8.53,1,0.0476,89.119,0.843,https://api.spotify.com/v1/tracks/4uOKFydzAejjSFqYbv1XPt
+You Can Get It If You Really Want,2QKh6t4JnWeTnzQpkNXhzW,0.248,0.894,158893,0.559,0.0,1,0.0762,-8.547,1,0.0568,128.164,0.929,https://api.spotify.com/v1/tracks/2QKh6t4JnWeTnzQpkNXhzW
+Murder She Wrote (Original Mix),0p4uJwIIGfN3tfTFvwALwB,0.13,0.872,247133,0.679,0.00746,11,0.323,-10.026,0,0.156,95.096,0.948,https://api.spotify.com/v1/tracks/0p4uJwIIGfN3tfTFvwALwB
+Bad Boys (Theme from COPS),0qeKzbUsW0V4ZWRJrHNiD3,0.236,0.781,229375,0.722,0.00042,7,0.077,-8.376,1,0.0668,87.862,0.532,https://api.spotify.com/v1/tracks/0qeKzbUsW0V4ZWRJrHNiD3
+Buffalo Soldier,59ByyDNkqRGxBom9nHssxf,0.172,0.928,256600,0.464,7.16e-06,9,0.0546,-8.56,1,0.27,124.081,0.762,https://api.spotify.com/v1/tracks/59ByyDNkqRGxBom9nHssxf
+Mellow Mood,0OKMUpT5jHO3g5MePDoDXr,0.0367,0.742,231733,0.568,0.0715,0,0.0511,-12.667,1,0.156,80.946,0.678,https://api.spotify.com/v1/tracks/0OKMUpT5jHO3g5MePDoDXr
+"The Harder They Come - From ""The Harder They Come"" Soundtrack",63yKj3bpZUCWcJ4Xh6Ygl1,0.645,0.679,219907,0.589,0.0,1,0.151,-8.01,1,0.0727,102.492,0.786,https://api.spotify.com/v1/tracks/63yKj3bpZUCWcJ4Xh6Ygl1
+Funky Kingston,0bJ4nQojefjNpeuZNkiLrX,0.271,0.763,290200,0.512,0.000846,11,0.046,-9.383,1,0.0572,99.695,0.962,https://api.spotify.com/v1/tracks/0bJ4nQojefjNpeuZNkiLrX
+Revolution,1nsEptcDye2MUjMJQ1N5Rh,0.199,0.717,259400,0.719,2.62e-06,9,0.195,-3.166,0,0.0995,84.623,0.766,https://api.spotify.com/v1/tracks/1nsEptcDye2MUjMJQ1N5Rh
+One Draw,5X13b4CYce5Y6NYPfmYsXr,0.0312,0.791,265627,0.43,0.000189,2,0.0476,-11.316,1,0.068,89.519,0.716,https://api.spotify.com/v1/tracks/5X13b4CYce5Y6NYPfmYsXr
+Police And Thieves,34K4XBQYknnTFZsBO1Zaiv,0.0631,0.934,239800,0.429,0.0,11,0.0812,-10.192,0,0.0781,127.491,0.915,https://api.spotify.com/v1/tracks/34K4XBQYknnTFZsBO1Zaiv
+I Shot The Sheriff,7bnRX1ObyGzzSuOWrNFLWw,0.313,0.799,281027,0.641,2.22e-05,8,0.0704,-9.33,1,0.171,96.806,0.719,https://api.spotify.com/v1/tracks/7bnRX1ObyGzzSuOWrNFLWw
+Hail H.I.M - 2002 Remastered Version,155vJ1VsYZ87Gldi1gNss8,0.149,0.775,255800,0.652,0.18,4,0.0458,-7.881,0,0.0583,137.866,0.671,https://api.spotify.com/v1/tracks/155vJ1VsYZ87Gldi1gNss8
+Police & Thieves,3cnvTMZRhkbzea0KC4Y4We,0.0583,0.933,244307,0.363,0.0,11,0.161,-13.328,0,0.0971,127.158,0.906,https://api.spotify.com/v1/tracks/3cnvTMZRhkbzea0KC4Y4We
+Ku Klux Klan,0NlA0b2RNynMGZoxZm8hSq,0.0205,0.735,221693,0.514,0.0,9,0.0316,-12.18,0,0.141,128.865,0.817,https://api.spotify.com/v1/tracks/0NlA0b2RNynMGZoxZm8hSq
+Johnny B Goode - 2002 Remastered Version,5uPYEStMW3KsXnnLV7iCTw,0.0299,0.749,244253,0.849,0.000168,4,0.115,-5.761,0,0.0544,145.169,0.959,https://api.spotify.com/v1/tracks/5uPYEStMW3KsXnnLV7iCTw
+Murderer,1fzU56UB3aa68fIBoUZSq7,0.15,0.801,236640,0.513,7.59e-06,0,0.108,-8.992,1,0.324,137.81,0.699,https://api.spotify.com/v1/tracks/1fzU56UB3aa68fIBoUZSq7
+War Ina Babylon,2A8STXl9WBT0JORAANv763,0.0659,0.647,290627,0.699,0.0,7,0.0683,-6.67,1,0.119,147.759,0.862,https://api.spotify.com/v1/tracks/2A8STXl9WBT0JORAANv763
+Untold Stories,6Z0YMxE0W5mujDxXBNlGUN,0.594,0.839,273427,0.465,0.0,8,0.0975,-11.41,1,0.118,130.165,0.909,https://api.spotify.com/v1/tracks/6Z0YMxE0W5mujDxXBNlGUN
+Legalize It,605ZHoLZx7PtQ8fXgvN10K,0.128,0.701,278872,0.784,0.0,0,0.0713,-7.212,1,0.204,145.249,0.712,https://api.spotify.com/v1/tracks/605ZHoLZx7PtQ8fXgvN10K
+Uptown Top Ranking - Remastered,34zWZOSpU2V1ab0PiZCcv4,0.0477,0.886,229160,0.522,0.00108,7,0.207,-7.971,1,0.173,82.439,0.79,https://api.spotify.com/v1/tracks/34zWZOSpU2V1ab0PiZCcv4
+Sinsemilla,7pjh4uQTLI51mu9GwrLxy5,0.00832,0.808,312867,0.588,0.0609,4,0.0856,-11.578,0,0.0812,131.258,0.701,https://api.spotify.com/v1/tracks/7pjh4uQTLI51mu9GwrLxy5
+Chase The Devil,2kPQbvKYxJV2z5q2wNps7n,0.0807,0.838,207667,0.34,0.0,2,0.105,-14.334,1,0.565,149.079,0.836,https://api.spotify.com/v1/tracks/2kPQbvKYxJV2z5q2wNps7n
+Three Little Birds,26JRni5Lqiyd9GNnlaz6DI,0.0109,0.781,180533,0.478,1.01e-06,9,0.0399,-10.54,1,0.0855,73.962,0.643,https://api.spotify.com/v1/tracks/26JRni5Lqiyd9GNnlaz6DI
+Sweat (A La La La La Long),7kTvXtMERxvwCGcWv68ssH,0.0166,0.787,226547,0.79,0.0,0,0.18,-6.649,1,0.21,173.032,0.948,https://api.spotify.com/v1/tracks/7kTvXtMERxvwCGcWv68ssH
+Murderer,0j3k5lalAmEHaXJeytoMB6,0.0845,0.865,233300,0.549,0.158,0,0.081,-10.083,1,0.244,142.8,0.617,https://api.spotify.com/v1/tracks/0j3k5lalAmEHaXJeytoMB6
+Wa Do Dem,34PfcrPaW1ysCtYD4CdBPB,0.354,0.848,233347,0.634,0.0,0,0.17,-7.112,1,0.0568,77.508,0.795,https://api.spotify.com/v1/tracks/34PfcrPaW1ysCtYD4CdBPB
+Israelites,0di7hMT6o1ogeUN1XDB9Ft,0.232,0.78,155747,0.568,0.000403,10,0.052,-9.14,0,0.0466,74.159,0.974,https://api.spotify.com/v1/tracks/0di7hMT6o1ogeUN1XDB9Ft
+It Mek,1tKAI8igKXPqovihv4Px57,0.0239,0.626,152361,0.508,0.828,8,0.115,-10.303,1,0.0781,75.618,0.691,https://api.spotify.com/v1/tracks/1tKAI8igKXPqovihv4Px57
+Under Me Sleng Teng,3l9oTzHXnAJcg4x2jU6DvX,0.175,0.832,250600,0.537,0.0,2,0.0948,-7.34,1,0.0631,81.513,0.901,https://api.spotify.com/v1/tracks/3l9oTzHXnAJcg4x2jU6DvX
+Monkey Man,3QMinjF1B7KCqYaSoaagSR,0.195,0.892,224533,0.621,0.000157,5,0.102,-4.912,1,0.0483,126.652,0.826,https://api.spotify.com/v1/tracks/3QMinjF1B7KCqYaSoaagSR
+007 (Shanty Town),4jUgVrUXUs4rSTAPJZUpEO,0.0669,0.86,153600,0.575,0.159,9,0.179,-6.747,1,0.0893,101.715,0.846,https://api.spotify.com/v1/tracks/4jUgVrUXUs4rSTAPJZUpEO
+Everything I Own,11K8zrOH0TmBwAUUA0uKiu,0.0931,0.652,223947,0.474,0.0,5,0.152,-9.271,1,0.0468,75.74,0.737,https://api.spotify.com/v1/tracks/11K8zrOH0TmBwAUUA0uKiu
+The Tide Is High - Stereo Version,7056gVvC7P3PpltHgippd2,0.241,0.451,161973,0.433,0.0,7,0.472,-9.189,1,0.0291,96.287,0.832,https://api.spotify.com/v1/tracks/7056gVvC7P3PpltHgippd2
