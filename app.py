@@ -33,9 +33,25 @@ def data():
 		v = list(i.values())[1]
 		json_data.append(
 			{
-
-			})
-		print(json_data)
+			 "track" : v[0],
+			 "acousticness" : v[1],
+			 "danceability" : v[2],
+			 "duration_ms" : v[3], 
+			 "energy" : v[4], 
+			 "instrumentalness" : v[5],
+			 "key" : v[6],
+			 "liveness": v[7],
+			 "loudness": v[8],
+			 "mode" : v[9], 
+			 "speechiness" : v[10],
+			 "tempo" : v[11], 
+			 "time_signature" : v[13], 
+			 "track" : v[14],
+			 "track_href" : v[15],
+			 "valence": v[16]
+			}
+		   )
+		#print(json_data)
 		return jsonify(json_data)
 # #load model
 # model = pickle.load(open('decision_tree_model.pkl', 'r'))
