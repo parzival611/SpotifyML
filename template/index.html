@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Optional JavaScript -->
+	<script src="app.js"></script>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
+    <title>Spotify</title>
+	 <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <script type="text/javascript">
+
+  console.log("hi");
+  $(document).ready(function(){
+    var text;
+    $('a').click(function(){
+        var cur = $(this).html();
+        console.log(cur);
+        var pre = $(this).parent().attr('id');
+        text = pre +" "+cur;
+        $("#text").append(text);
+        $("#text").append('<br>');
+
+    });
+
+
+});
+  </script>
+
+  <body>
+    <div id="container">
+    <div class="dropdown-row">
+      
+      <div class="dropdown">
+        <button class="dropbtn">TEMPO</button>
+        <div class="dropdown-content" id="TEMPO">
+          <a href="#">Relaxed</a>
+          <a href="#">Moderate</a>
+          <a href="#">Fast</a>
+          <a href="#">Intense</a>
+        </div>
+      </div>
+
+
+      <div class="dropdown">
+        <button class="dropbtn">ACOUSTICNESS</button>
+        <div class="dropdown-content" id="ACOUSTICNESS">
+          <a href="#">All-Acoustic</a>
+          <a href="#">Mostly Acoustic</a>
+          <a href="#">Mostly Digital</a>
+      	  <a href="#">Pure Digital</a>
+        </div>
+      </div>
+
+
+      <div class="dropdown">
+        <button class="dropbtn">LIVENESS</button>
+        <div class="dropdown-content" id="LIVENESS">
+          <a href="#">No Audience</a>
+          <a href="#">Small Audience</a>
+          <a href="#">Medium Audience</a>
+      	<a href="#">Large Audience</a>
+        </div>
+      </div>
+
+
+      <div class="dropdown">
+        <button class="dropbtn">ENERGY</button>
+        <div class="dropdown-content" id="ENERGY">
+          <a href="#">Low</a>
+          <a href="#">Medium</a>
+          <a href="#">High</a>
+      	<a href="#">Extreme</a>
+        </div>
+      </div>
+
+
+      <div class="dropdown">
+        <button class="dropbtn">VALENCE</button>
+        <div class="dropdown-content" id="VALENCE">
+          <a href="#">Euphoric</a>
+          <a href="#">Positive</a>
+          <a href="#">Dispirited</a>
+      	<a href="#">Melancholic</a>
+        </div>
+      </div>
+
+      <div class="dropdown">
+        <button class="dropbtn">INSTRUMENTALNESS</button>
+        <div class="dropdown-content" id="INSTRUMENTALNESS">
+          <a href="#">Pure Instrumental</a>
+          <a href="#">Balanced</a>
+          <a href="#">Wordy</a>
+      	<a href="#">Link 3</a>
+        </div>
+      </div>
+
+
+      <div class="dropdown">
+        <button class="dropbtn">LOUDNESS</button>
+        <div class="dropdown-content" id="LOUDNESS">
+          <a href="#">Loud </a>
+          <a href="#">Moderate </a>
+          <a href="#">Quiet </a>
+      	<a href="#">Whisper </a>
+        </div>
+      </div>
+
+    </div>
+
+    <canvas id="canvas"></canvas>
+
+    
+
+
+
+    <div class="dancelogo">
+      <div id="text"></div>
+      <img src="dancelogo.png" alt="dancelogo" height="80" width="80"/>
+      <br>
+      <br>
+      <p> Dancify. <p>
+    </div>
+
+
+    <div class="container-audio">
+	  
+      <audio controls  loop autoplay>
+          <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/9473/new_year_dubstep_minimix.ogg" type="audio/ogg">
+                 Your browser does not Support the audio Tag
+      </audio>
+		</div>
+		<div class="container-audio">
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+        <div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		<div class="colum1">
+            <div class="row"></div>
+        </div>
+		
+		
+		
+		
+		
+		
+    </div>
+    <script src='canvas/lwgowr.js'></script>
+    <script  src="canvas/index.js"></script>
+   
+  </div><!-- container -->
+  </body>
+</html>
