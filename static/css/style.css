@@ -355,4 +355,45 @@ audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
     }
 }
 
+#ACOUSTICNESS.form-control {
+	width: 32%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
+
+#ENERGY.form-control {
+	width: 30%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
+
+#INSTRUMENTALNESS.form-control {
+	width: 38%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
+
+#LIVENESS.form-control {
+	width: 30%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
+
+#LOUDNESS.form-control {
+	width: 30%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
+
+#TEMPO.form-control {
+	width: 30%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
+
+#VALENCE.form-control {
+	width: 30%;
+	background: linear-gradient(0deg, black, #2c5364);
+	color: white;
+}
 
