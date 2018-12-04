@@ -18,16 +18,17 @@ url = 'mongodb://admin:yaybootcamp2018@ds231228.mlab.com:31228/songs_ml'
 client = MongoClient(url)
 db = client['songs_ml']
 
-@app.route("/", methods=['GET', 'POST'])
+@app.route("/")
 def index():
-	if request.method == 'POST':
+	tempo = request.args.get('tempo')
+	acousticness = request.args.get('acousticness')
 
-		data = request.form.get('ready')
-		# data = requests.get('sendData')
-		X = pd.DataFrame(data) 
-		predictions = model.predict(X)
 
-		print(X) 
+	# data = requests.get('sendData')
+	# X = pd.DataFrame(data) 
+	# predictions = model.predict(X)
+
+	print(tempo, '', acousticness) 
 	return render_template("index.html")
 
 @app.route("/data")

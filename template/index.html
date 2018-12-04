@@ -20,84 +20,109 @@
  
    <body>
     <div id="container">
-    <div class="dropdown-row">
+
+    <form method="get">
+      <div id="" class="form-group col-md-4">
+        <label for="TEMPO">State</label>
+        <select id="TEMPO" class="form-control" name="tempo">
+          <option selected>Tempo</option>
+          <option value="Relaxed">Relaxed</option>
+          <option value="Moderate">Moderate</option>
+          <option value="Fast">Fast</option>
+          <option value="Intense">Intense</option>
+        </select>
+      </div>
+      <div class="form-group col-md-4">
+        <label for="ACOUSTICNESS">State</label>
+        <select id="ACOUSTICNESS" class="form-control" name="acousticness">
+          <option selected>Acousticness</option>
+          <option value="Acoustic">All Acoustic</option>
+          <option value="Mostly Acoustic">Mostly Acoustic</option>
+          <option value="Mostly Digital">Mostly Digital</option>
+          <option value="Pure Digital">Pure Digital</option>
+        </select>
+      </div>
+      <!-- <div class="dropdown-row">
+        
+        <div class="dropdown">
+          <button class="dropbtn">TEMPO</button>
+          <div class="dropdown-content" id="TEMPO">
+            <a href="#">Relaxed</a>
+            <a href="#">Moderate</a>
+            <a href="#">Fast</a>
+            <a href="#">Intense</a>
+          </div>
+        </div>
+
+
+        <div class="dropdown">
+          <button class="dropbtn">ACOUSTICNESS</button>
+          <div class="dropdown-content" id="ACOUSTICNESS">
+            <a href="#">All-Acoustic</a>
+            <a href="#">Mostly Acoustic</a>
+            <a href="#">Mostly Digital</a>
+            <a href="#">Pure Digital</a>
+          </div>
+        </div>
+
+
+        <div class="dropdown">
+          <button class="dropbtn">LIVENESS</button>
+          <div class="dropdown-content" id="LIVENESS">
+            <a href="#">No Audience</a>
+            <a href="#">Small Audience</a>
+            <a href="#">Medium Audience</a>
+            <a href="#">Large Audience</a>
+          </div>
+        </div>
+
+
+        <div class="dropdown">
+          <button class="dropbtn">ENERGY</button>
+          <div class="dropdown-content" id="ENERGY">
+            <a href="#">Relaxed</a>
+            <a href="#">Moderate</a>
+            <a href="#">Hyper</a>
+            <a href="#">Intense</a>
+          </div>
+        </div>
+
+
+        <div class="dropdown">
+          <button class="dropbtn">VALENCE</button>
+          <div class="dropdown-content" id="VALENCE">
+            <a href="#">Euphoric</a>
+            <a href="#">Positive</a>
+            <a href="#">Dispirited</a>
+            <a href="#">Melancholic</a>
+          </div>
+        </div>
+
+        <div class="dropdown">
+          <button class="dropbtn">INSTRUMENTALNESS</button>
+          <div class="dropdown-content" id="INSTRUMENTALNESS">
+            <a href="#">Pure Instrumental</a>
+            <a href="#">Balanced</a>
+            <a href="#">Wordy</a>
+            <a href="#">Verbose</a>
+          </div>
+        </div>
+
+        <div class="dropdown">
+          <button class="dropbtn">LOUDNESS</button>
+          <div class="dropdown-content" id="LOUDNESS">
+            <a href="#">Powerful</a>
+            <a href="#">Loud</a>
+            <a href="#">Quiet</a>
+          <a href="#">Whisper</a>
+          </div>
+        </div>
+
+      </div> -->
+      <button id='ready' class="btn" type="submit">Click</button>
       
-      <div class="dropdown">
-        <button class="dropbtn">TEMPO</button>
-        <div class="dropdown-content" id="TEMPO">
-          <a href="#">Relaxed</a>
-          <a href="#">Moderate</a>
-          <a href="#">Fast</a>
-          <a href="#">Intense</a>
-        </div>
-      </div>
-
-
-      <div class="dropdown">
-        <button class="dropbtn">ACOUSTICNESS</button>
-        <div class="dropdown-content" id="ACOUSTICNESS">
-          <a href="#">All-Acoustic</a>
-          <a href="#">Mostly Acoustic</a>
-          <a href="#">Mostly Digital</a>
-      	  <a href="#">Pure Digital</a>
-        </div>
-      </div>
-
-
-      <div class="dropdown">
-        <button class="dropbtn">LIVENESS</button>
-        <div class="dropdown-content" id="LIVENESS">
-          <a href="#">No Audience</a>
-          <a href="#">Small Audience</a>
-          <a href="#">Medium Audience</a>
-      	<a href="#">Large Audience</a>
-        </div>
-      </div>
-
-
-      <div class="dropdown">
-        <button class="dropbtn">ENERGY</button>
-        <div class="dropdown-content" id="ENERGY">
-          <a href="#">Relaxed</a>
-          <a href="#">Moderate</a>
-          <a href="#">Hyper</a>
-      	<a href="#">Intense</a>
-        </div>
-      </div>
-
-
-      <div class="dropdown">
-        <button class="dropbtn">VALENCE</button>
-        <div class="dropdown-content" id="VALENCE">
-          <a href="#">Euphoric</a>
-          <a href="#">Positive</a>
-          <a href="#">Dispirited</a>
-      	<a href="#">Melancholic</a>
-        </div>
-      </div>
-
-      <div class="dropdown">
-        <button class="dropbtn">INSTRUMENTALNESS</button>
-        <div class="dropdown-content" id="INSTRUMENTALNESS">
-          <a href="#">Pure Instrumental</a>
-          <a href="#">Balanced</a>
-          <a href="#">Wordy</a>
-      	<a href="#">Verbose</a>
-        </div>
-      </div>
-
-
-      <div class="dropdown">
-        <button class="dropbtn">LOUDNESS</button>
-        <div class="dropdown-content" id="LOUDNESS">
-          <a href="#">Powerful</a>
-          <a href="#">Loud</a>
-          <a href="#">Quiet</a>
-      	<a href="#">Whisper</a>
-        </div>
-      </div>
-
-    </div>
+    </form>
+    
 
     <canvas id="canvas"></canvas>
 
@@ -112,8 +137,6 @@
       <br>
       <p> Dancify. <p>
     </div>
-
-    <button id='ready'>Click</button>
 
 
     <div class="container-audio">

@@ -87,8 +87,8 @@ $('a').click(function(){
 //     $("#text").append(text);
 //     $("#text").append('<br>');
 
-	});
-	var sendJson={"tempo":tempo, "acousticness": acousticness, "liveness": liveness, "energy":energy, "valence": valence, "instrumnetalness": instrumnetalness, "loudness": loudness};
+	// });
+	var sendJson={"tempo": tempo, "acousticness": acousticness, "liveness": liveness, "energy": energy, "valence": valence, "instrumnetalness": instrumnetalness, "loudness": loudness};
 	// data sent below to resq
 	var clicked;
 	//ajax posting
@@ -102,6 +102,5 @@ $('a').click(function(){
 	    contentType: 'application/json',
 	    data : JSON.stringify(sendJson),
 	    dataType: "json",  
-	  }).done(function (request) {
-	});
-};
+	}).done(function (request) {});
+});
