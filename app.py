@@ -20,16 +20,37 @@ db = client['songs_ml']
 
 @app.route("/")
 def index():
-	tempo = request.args.get('tempo')
-	acousticness = request.args.get('acousticness')
+	acousticness = request.args.get('acousticness'),
+	energy = request.args.get('energy'),
+	instrumentalness = request.args.get('instrumentalness'),
+	liveness = request.args.get('liveness'),
+	loudness = request.args.get('loudness'),
+	tempo = request.args.get('tempo'),
+	valence = request.args.get('valence')
 
 
-	# data = requests.get('sendData')
-	# X = pd.DataFrame(data) 
-	# predictions = model.predict(X)
+	if tempo == 'FAST':
+		tempo = 2
+
+
+	# do something to the get request variables convert into same values as your 230, 13
+	data = [
+		{'tempo': tempo},
+		{'acousticness': acousticness},
+		{'liveness': liveness},
+		{'energy': energy},
+		{'valence': valence},
+		{'instrumentalness': instrumentalness},
+		{'loudness': loudness}
+	]
+
+	X = pd.DataFrame(data)
+	# X = StandardScaler().fit_transform(X)
+	predictions = model.predict(X)
+	# predictions = 3
 
 	print(tempo, '', acousticness) 
-	return render_template("index.html")
+	return render_template("index.html", tits=predictions)
 
 @app.route("/data")
 def data():
