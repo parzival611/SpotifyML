@@ -21,36 +21,38 @@ db = client['songs_ml']
 @app.route("/")
 def index():
 	acousticness = request.args.get('acousticness'),
-	energy = request.args.get('energy'),
-	instrumentalness = request.args.get('instrumentalness'),
-	liveness = request.args.get('liveness'),
-	loudness = request.args.get('loudness'),
+	# energy = request.args.get('energy'),
+	# instrumentalness = request.args.get('instrumentalness'),
+	# liveness = request.args.get('liveness'),
+	# loudness = request.args.get('loudness'),
 	tempo = request.args.get('tempo'),
-	valence = request.args.get('valence')
+	# valence = request.args.get('valence')
 
-
-	if tempo == 'FAST':
-		tempo = 2
-
+	# set condtionals
+	# if acousticness <
 
 	# do something to the get request variables convert into same values as your 230, 13
 	data = [
-		{'tempo': tempo},
+		
 		{'acousticness': acousticness},
-		{'liveness': liveness},
-		{'energy': energy},
-		{'valence': valence},
-		{'instrumentalness': instrumentalness},
-		{'loudness': loudness}
+		# {'energy': energy},
+		# {'instrumentalness': instrumentalness},
+		# {'liveness': liveness},
+		# {'loudness': loudness},
+		{'tempo': tempo},
+		# {'valence': valence}
+
 	]
+
 
 	X = pd.DataFrame(data)
 	# X = StandardScaler().fit_transform(X)
-	predictions = model.predict(X)
+	# predictions = model.predict(X)
 	# predictions = 3
 
 	print(tempo, '', acousticness) 
-	return render_template("index.html", tits=predictions)
+	# return render_template("index.html", tits=predictions)
+	return render_template("index.html")
 
 @app.route("/data")
 def data():
@@ -79,7 +81,6 @@ def data():
 		})
 	#print(json_data)
 	return jsonify(json_data)
-
 
 if __name__ == '__main__':
 	app.run(debug=True)
