@@ -29,7 +29,7 @@
     });
      function run() {
 
-        //hide result div
+        //we''ll have to hide result div
         var acous = document.getElementById("ACOUSTICNESS").value;
         var energy = document.getElementById("ENERGY").value;
         //add
@@ -52,7 +52,7 @@
 	     
         <select id="ACOUSTICNESS" class="form-control" name="acousticness" onchange="run()" data-toggle="tooltip" title="<img class='img-thumbnail' src='https://developer.spotify.com/assets/audio/danceability.png'/>" title= "TEST"> 
           <option selected >Acousticness</option>
-          <option value="Acoustic">All Acoustic</option>
+          <option value="Acoustic">All Acoustic</ option>
           <option value="Mostly Acoustic">Mostly Acoustic</option>
           <option value="Mostly Digital">Mostly Digital</option>
           <option value="Pure Digital">Pure Digital</option>
