@@ -22,19 +22,20 @@ db = client['songs_ml']
 def index():
 	acousticness = request.args.get('acousticness')
 	energy = request.args.get('energy')
-	# instrumentalness = request.args.get('instrumentalness'),
+	instrumentalness = request.args.get('instrumentalness')
 	# liveness = request.args.get('liveness'),
 	# loudness = request.args.get('loudness'),
 	# tempo = request.args.get('tempo'),
 	# valence = request.args.get('valence')
 
 	# set condtionals
-	def acousctiness(score):
-		if score == 'All Acoustic':
-			acousticness = '0.80'
-		else: 
-			if score == 'X':
-				acousticness = 'Y'
+	# def acousctiness(score):
+	# 	if score == 'All Acoustic':
+	# 		acousticness = '0.80'
+	# 	elif score == 'Mostly Acoustic':
+	# 		acousticness = '0.60'
+	# 	elif score == "Mostly Digital"
+	# 		acousticness = ''
 
 	# 	return score
 
@@ -56,7 +57,7 @@ def index():
 		
 		{'acousticness': acousticness},
 		{'energy': energy},
-		# {'instrumentalness': instrumentalness},
+		{'instrumentalness': instrumentalness}
 		# {'liveness': liveness},
 		# {'loudness': loudness},
 		# {'tempo': tempo},
@@ -64,13 +65,16 @@ def index():
 
 	]
 
+	# data = [{'acousticness': acousticness,}, ]
+
+	# data = model.predict([X_train[0]])
 
 	X = pd.DataFrame(data)
 	# X = StandardScaler().fit_transform(X)
 	# predictions = model.predict(X)
 	# predictions = 3
 
-	print(acousticness, '', energy)
+	# print(acousticness)
 	print(X)
 	# print(f'Model prediction is {predictions}')
 	# print(acousticness, '', energy, '', instrumentalness, '', liveness, '', loudness, '', tempo, '', valence) 
