@@ -29,12 +29,12 @@ def index():
 	# valence = request.args.get('valence')
 
 	# set condtionals
-	# def acousctiness(score):
-	# 	# if score == 'All Acoustic':
-	# 	# 	acousticness = 'tits'
-	# 	# else: 
-	# 	# 	if score == 'X':
-	# 	# 		acousticness = 'Y'
+	def acousctiness(score):
+		if score == 'All Acoustic':
+			acousticness = '0.80'
+		else: 
+			if score == 'X':
+				acousticness = 'Y'
 
 	# 	return score
 
@@ -71,7 +71,8 @@ def index():
 	# predictions = 3
 
 	print(acousticness, '', energy)
-	print(data)
+	print(X)
+	# print(f'Model prediction is {predictions}')
 	# print(acousticness, '', energy, '', instrumentalness, '', liveness, '', loudness, '', tempo, '', valence) 
 	# return render_template("index.html", tits=predictions)
 	return render_template("index.html")
