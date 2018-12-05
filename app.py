@@ -23,59 +23,87 @@ def index():
 	acousticness = request.args.get('acousticness')
 	energy = request.args.get('energy')
 	instrumentalness = request.args.get('instrumentalness')
-	# liveness = request.args.get('liveness'),
-	# loudness = request.args.get('loudness'),
-	# tempo = request.args.get('tempo'),
-	# valence = request.args.get('valence')
-
-	# set condtionals
-	# def acousctiness(score):
-	# 	if score == 'All Acoustic':
-	# 		acousticness = '0.80'
-	# 	elif score == 'Mostly Acoustic':
-	# 		acousticness = '0.60'
-	# 	elif score == "Mostly Digital"
-	# 		acousticness = ''
-
-	# 	return score
-
-	# def energy(score_2):
-	# 	# if score == 'Relaxed':
-	# 	# 	energy = 'boobs'
-
-	# 	return score_2
-
-	# if tempo == 'Relaxed':
- #        tempo = <= 80 and >=60
- #    elif tempo == 'Moderate':
- #    	tempo = <= 100 and >= 80
-
-
+	liveness = request.args.get('liveness')
+	loudness = request.args.get('loudness')
+	tempo = request.args.get('tempo')
+	valence = request.args.get('valence')
 
 	# do something to the get request variables convert into same values as your 230, 13
-	data = [
-		
-		{'acousticness': acousticness},
+	data = [		
+		#{'acousticness': acousticness},
 		{'energy': energy},
-		{'instrumentalness': instrumentalness}
+		# {'instrumentalness': instrumentalness},
 		# {'liveness': liveness},
 		# {'loudness': loudness},
-		# {'tempo': tempo},
+		# {'tempo':  tempo},
 		# {'valence': valence}
-
 	]
 
-	# data = [{'acousticness': acousticness,}, ]
+	# print(data)
+	# print(type(data))
 
-	# data = model.predict([X_train[0]])
 
-	X = pd.DataFrame(data)
+	values_list = []
+
+
+	acoustic_string = data[0]['acousticness']
+	acoustic_float = float(acoustic_string)
+	print(acoustic_float)
+	print(type(acoustic_float))
+	values_list.append(acoustic_float)
+
+	energy_string = data[1]['energy']
+	energy_float = float(energy_string)
+	print(energy_float)
+	print(type(energy_float))
+	values_list.append(energy_float)
+
+	# instrumentalness_string = data[2]['instrumentalness']
+	# instrumentalness_float = float(instrumentalness_string)
+	# print(instrumentalness_float)
+	# print(type(instrumentalness_float))
+	# values_list.append(instrumentalness_float)
+
+	# liveness_string = data[3]['liveness']
+	# liveness_float = float(liveness_string)
+	# print(liveness_float)
+	# print(type(liveness_float))
+	# values_list.append(liveness_float)
+
+	# loudness_string = data[4]['loudness']
+	# loudness_float = float(loudness_string)
+	# print(loudness_float)
+	# print(type(loudness_float))
+	# values_list.append(loudness_float)
+
+	# tempo_string = data[5]['tempo']
+	# tempo_float = float(tempo_string)
+	# print(tempo_float)
+	# print(type(tempo_float))
+	# values_list.append(tempo_float)
+
+	# valence_string = data[0]['valence']
+	# valence_float = float(valence_string)
+	# print(valence_float)
+	# print(type(valence_float))
+	# values_list.append(valence_float)
+
+	print(values_list)
+
+	# X = np.array(data)
 	# X = StandardScaler().fit_transform(X)
 	# predictions = model.predict(X)
 	# predictions = 3
+	# data_list = data.values()
 
-	# print(acousticness)
-	print(X)
+	# d_list = []
+	# d_list.append(data['acousticness'])
+	# print(X)
+	# print(data)
+	# print(type(X))
+
+	
+	# print(predictions)
 	# print(f'Model prediction is {predictions}')
 	# print(acousticness, '', energy, '', instrumentalness, '', liveness, '', loudness, '', tempo, '', valence) 
 	# return render_template("index.html", tits=predictions)
@@ -108,6 +136,29 @@ def data():
 		})
 	#print(json_data)
 	return jsonify(json_data)
+
+	# set condtionals
+	# def acousctiness(score):
+	# 	if score == 'All Acoustic':
+	# 		acousticness = '0.80'
+	# 	elif score == 'Mostly Acoustic':
+	# 		acousticness = '0.60'
+	# 	elif score == "Mostly Digital"
+	# 		acousticness = '0.40'
+	# 	else score == "Pure Digital"
+
+	# return score
+
+	# def energy(score_2):
+	# 	# if score == 'Relaxed':
+	# 	# 	energy = 'boobs'
+
+	# 	return score_2
+
+	# if tempo == 'Relaxed':
+ #        tempo = <= 80 and >=60
+ #    elif tempo == 'Moderate':
+ #    	tempo = <= 100 and >= 80
 
 if __name__ == '__main__':
 	app.run(debug=True)
