@@ -20,26 +20,46 @@ db = client['songs_ml']
 
 @app.route("/")
 def index():
-	acousticness = request.args.get('acousticness'),
-	# energy = request.args.get('energy'),
+	acousticness = request.args.get('acousticness')
+	energy = request.args.get('energy')
 	# instrumentalness = request.args.get('instrumentalness'),
 	# liveness = request.args.get('liveness'),
 	# loudness = request.args.get('loudness'),
-	tempo = request.args.get('tempo'),
+	# tempo = request.args.get('tempo'),
 	# valence = request.args.get('valence')
 
 	# set condtionals
-	# if acousticness <
+	# def acousctiness(score):
+	# 	# if score == 'All Acoustic':
+	# 	# 	acousticness = 'tits'
+	# 	# else: 
+	# 	# 	if score == 'X':
+	# 	# 		acousticness = 'Y'
+
+	# 	return score
+
+	# def energy(score_2):
+	# 	# if score == 'Relaxed':
+	# 	# 	energy = 'boobs'
+
+	# 	return score_2
+
+	# if tempo == 'Relaxed':
+ #        tempo = <= 80 and >=60
+ #    elif tempo == 'Moderate':
+ #    	tempo = <= 100 and >= 80
+
+
 
 	# do something to the get request variables convert into same values as your 230, 13
 	data = [
 		
 		{'acousticness': acousticness},
-		# {'energy': energy},
+		{'energy': energy},
 		# {'instrumentalness': instrumentalness},
 		# {'liveness': liveness},
 		# {'loudness': loudness},
-		{'tempo': tempo},
+		# {'tempo': tempo},
 		# {'valence': valence}
 
 	]
@@ -50,7 +70,9 @@ def index():
 	# predictions = model.predict(X)
 	# predictions = 3
 
-	print(tempo, '', acousticness) 
+	print(acousticness, '', energy)
+	print(data)
+	# print(acousticness, '', energy, '', instrumentalness, '', liveness, '', loudness, '', tempo, '', valence) 
 	# return render_template("index.html", tits=predictions)
 	return render_template("index.html")
 
