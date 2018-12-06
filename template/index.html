@@ -16,6 +16,9 @@
 
     <title>Spotify</title>
 	 <link rel="stylesheet" type="text/css" href="static/css/style.css"/>
+   <link rel=
+
+
   </head>
  
    <body>
@@ -31,10 +34,21 @@
 
         //we''ll have to hide result div
         var acous = document.getElementById("ACOUSTICNESS").value;
-        var energy = document.getElementById("ENERGY").value;
+        var enrgy = document.getElementById("ENERGY").value;
+        var instru = document.getElementById("INSTRUMENTALNESS").value;
+        var livey = document.getElementById("LIVENESS").value;
+        var loudy = document.getElementById("LOUDNESS").value;
+        var tempy = document.getElementById("TEMPO").value;
+        var valy = document.getElementById("VALENCE").value;
+
         //add
-        var txt = "ACOUSTICNESS "+acous+"<br>"
-                  +"Energy "+energy;
+        var txt = "ACOUSTICNESS: "+acous+"<br>"
+                  +"ENERGY: "+enrgy+"<br>"
+                  +"INSTRUMENTALNESS: "+instru+"<br>"
+                  +"LIVENESS: "+livey+"<br>"
+                  +"LOUDNESS: "+loudy+"<br>"
+                  +"TEMPO: "+tempy+"<br>"
+                  +"VALENCE: "+valy+"<br><br>";
         $('#output').html(txt);
      }
 
@@ -50,12 +64,12 @@
       <div id="" class="form-group oneline">
 		 
 	     
-        <select id="ACOUSTICNESS" class="form-control" name="acousticness" onchange="run()" data-toggle="tooltip" title="<img class='img-thumbnail' src='https://developer.spotify.com/assets/audio/danceability.png'/>" title= "TEST"> 
+        <select id="ACOUSTICNESS" class="form-control" name="acousticness" onchange="run()" data-toggle="tooltip" title="<img class='img-thumbnail' src='http://i66.tinypic.com/iooo7a.jpg'/>" title= "TEST"> 
           <option selected >Acousticness</option>
-          <option value="Acoustic">All Acoustic</ option>
-          <option value="Mostly Acoustic">Mostly Acoustic</option>
-          <option value="Mostly Digital">Mostly Digital</option>
-          <option value="Pure Digital">Pure Digital</option>
+          <option value="0.80">All Acoustic</option>
+          <option value="0.60">Mostly Acoustic</option>
+          <option value="0.40">Mostly Digital</option>
+          <option value="0.20">Pure Digital</option>
         </select>
 	 
 	    </div>
@@ -63,49 +77,47 @@
       <div class="form-group oneline">
         
         <select id="ENERGY" class="form-control" name="energy" onchange="run()" data-toggle ="tooltip" title="<img
-        class='img-thumbnail' src='https://developer.spotify.com/assets/audio/energy.png'/>">
+        class='img-thumbnail' src='http://i68.tinypic.com/2ns8c93.jpg'/>">
           <option selected>Energy</option>
-          <option value="Relaxed">Relaxed</option>
-          <option value="Moderate">Moderate</option>
-          <option value="Hyper">Hyper</option>
-          <option value="Intense">Intense</option>
+          <option value="0.20">Relaxed</option>
+          <option value="0.40">Moderate</option>
+          <option value="0.60">Hyper</option>
+          <option value="0.80">Intense</option>
         </select>
 	    </div>
 
 	
 	    <div id="" class="form-group oneline">	
 		
-        <select id="INSTRUMENTALNESS" class="form-control" name="instrumentalness" onchange="run()" data-toggle="tooltip" title="<img class='img-thumbnail' src='https://developer.spotify.com/assets/audio/speechiness.png'/>">
+        <select id="INSTRUMENTALNESS" class="form-control" name="instrumentalness" onchange="run()" data-toggle="tooltip" title="<img class='img-thumbnail' src='http://i67.tinypic.com/2k3aqr.jpg'/>">
           <option selected>Instrumentalness</option>
-          <option value="Pure Instrumental">Pure Instrumental</option>
-          <option value="Balanced">Balanced</option>
-          <option value="Wordy">Wordy</option>
-          <option value="Verbose">Verbose</option>
+          <option value="0.80">Pure Instrumental</option>
+          <option value="0.60">Balanced</option>
+          <option value="0.30">Wordy</option>
+          <option value="0.10">Verbose</option>
         </select>
 	    </div>
 	
 	    <div id="" class="form-group oneline">
 		
         <select id="LIVENESS" class="form-control" name="liveness" onchange="run()" data-toggle="tooltip" title="<img
-        class='img-thumbnail' src='https://developer.spotify.com/assets/audio/liveness.png'/>">
+        class='img-thumbnail' src='http://i68.tinypic.com/2hog1o7.jpg'/>">
           <option selected>Liveness</option>
-          <option value="No Audience">No Audience</option>
-          <option value="Small Audience">Small Audience</option>
-          <option value="Medium Audience">Medium Audience</option>
-          <option value="Large Audience">Large Audience</option>
+          <option value="0.20">No Audience</option>
+          <option value="0.30">Small Audience</option>
+          <option value="0.40">Medium Audience</option>
+          <option value="0.50">Large Audience</option>
         </select>
-	    </div>
-	 
-	 
-	    <div id="" class="form-group oneline">	
-		
+	    </div>                                          
+	
+	    <div id="" class="form-group oneline">			
         <select id="LOUDNESS" class="form-control" name="loudness" onchange="run()" data-toggle="tooltip" title="<img
-        class = 'img-thumbnail' src= 'https://developer.spotify.com/assets/audio/loudness.png'/>">
+        class = 'img-thumbnail' src= 'http://i65.tinypic.com/4k77eo.jpg'/>">
           <option selected>Loudness</option>
-          <option value="Powerful">Powerful</option>
-          <option value="Loud">Loud</option>
-          <option value="Quiet">Quiet</option>
-          <option value="Whisper">Whisper</option>
+          <option value="-5">Powerful</option>
+          <option value="-10">Loud</option>
+          <option value="-20">Quiet</option>
+          <option value="-25">Whisper</option>
         </select>
 	    </div>
 	
@@ -115,10 +127,10 @@
         <select id="TEMPO" class="form-control" name="tempo" onchange="run()" data-toggle="tooltip" title="<img
         class = 'img-thumbnail' src='https://developer.spotify.com/assets/audio/tempo.png'/>">
           <option selected>Tempo</option>
-          <option value="Relaxed">Relaxed</option>
-          <option value="Moderate">Moderate</option>
-          <option value="Fast">Fast</option>
-          <option value="Intense">Intense</option>
+          <option value="75">Relaxed</option>
+          <option value="100">Moderate</option>
+          <option value="125">Fast</option>
+          <option value="175">Intense</option>
         </select>
       </div>
 	
@@ -127,94 +139,20 @@
         <select id="VALENCE" class="form-control" name="valence" onchange="run()" data-toggle="tooltip" title="<img-thumbnail
         class = 'img-thumbnail' src='https://developer.spotify.com/assets/audio/valence.png'/>">
           <option selected>Valence</option>
-          <option value="Euphoric">Euphoric</option>
-          <option value="Positive">Positive</option>
-          <option value="Dispirited">Dispirited</option>
-          <option value="Melancholic">Melancholic</option>
+          <option value="0.80">Euphoric</option>
+          <option value="0.60">Positive</option>
+          <option value="0.40">Dispirited</option>
+          <option value="0.20">Melancholic</option>
         </select>
 	    </div>
       <!--<button id='ready' class="btn" type="submit">Click</button>-->
 	  
 			
-
-	  
-      <!-- <div class="dropdown-row">
-        
-        <div class="dropdown">
-          <button class="dropbtn">TEMPO</button>
-          <div class="dropdown-content" id="TEMPO">
-            <a href="#">Relaxed</a>
-            <a href="#">Moderate</a>
-            <a href="#">Fast</a>
-            <a href="#">Intense</a>
-          </div>
-        </div>
-
-
-        <div class="dropdown">
-          <button class="dropbtn">ACOUSTICNESS</button>
-          <div class="dropdown-content" id="ACOUSTICNESS">
-            <a href="#">All-Acoustic</a>
-            <a href="#">Mostly Acoustic</a>
-            <a href="#">Mostly Digital</a>
-            <a href="#">Pure Digital</a>
-          </div>
-        </div>
-
-
-        <div class="dropdown">
-          <button class="dropbtn">LIVENESS</button>
-          <div class="dropdown-content" id="tf">
-            <a href="#">No Audience</a>
-            <a href="#">Small Audience</a>
-            <a href="#">Medium Audience</a>
-            <a href="#">Large Audience</a>
-          </div>
-        </div>
-
-
-        <div class="dropdown">
-          <button class="dropbtn">ENERGY</button>
-          <div class="dropdown-content" id="ENERGY">
-            <a href="#">Relaxed</a>
-            <a href="#">Moderate</a>
-            <a href="#">Hyper</a>
-            <a href="#">Intense</a>
-          </div>
-        </div>
-
-
-        <div class="dropdown">
-          <button class="dropbtn">VALENCE</button>
-          <div class="dropdown-content" id="VALENCE">
-            <a href="#">Euphoric</a>
-            <a href="#">Positive</a>
-            <a href="#">Dispirited</a>
-            <a href="#">Melancholic</a>
-          </div>
-        </div>
-
-        <div class="dropdown">
-          <button class="dropbtn">INSTRUMENTALNESS</button>
-          <div class="dropdown-content" id="INSTRUMENTALNESS">
-            <a href="#">Pure Instrumental</a>
-            <a href="#">Balanced</a>
-            <a href="#">Wordy</a>
-            <a href="#">Verbose</a>
-          </div>
-        </div>
-
-        <div class="dropdown">
-          <button class="dropbtn">LOUDNESS</button>
-          <div class="dropdown-content" id="LOUDNESS">
-            <a href="#">Powerful</a>
-            <a href="#">Loud</a>
-            <a href="#">Quiet</a>
-          <a href="#">Whisper</a>
-          </div>
-        </div>
-
+      <!--<div id="final">
+         <h1>{{solution}}</h1>
       </div> -->
+	  
+      
       
       
     

@@ -475,11 +475,12 @@ select{
 
 }
 
-a.btn a:hover {
 
+#final {
+    font-size: 42px;
+    color: white;
+    text-align: center;    
 
-
-    
 }
 
 
